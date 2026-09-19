@@ -1,11 +1,9 @@
 # Lesson 5: Building Persistent AI Assistants - Complete Guide 🤖
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 19, 2026  
 **Level:** Advanced  
 **Topic:** Building Stateful AI Assistants with Persistent Threads
-
-> **⚠️ IMPORTANT:** The original notebook uses deprecated APIs. This guide teaches you how to build the same concepts using **modern, working approaches** that are actually BETTER!
 
 ---
 
