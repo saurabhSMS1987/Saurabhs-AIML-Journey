@@ -692,24 +692,6 @@ STEP 9: User Receives Answer
    Complete, verified, well-explained response
 ```
 
-### Database Architecture
-
-**Your Project Structure:**
-```
-my-project/
-├── data/
-│   └── all-states-history.csv     (original CSV file)
-├── db/
-│   └── test.db                     (SQLite database)
-├── script.py                       (your Python code)
-└── README.md
-```
-
-**SQLite Database Content (test.db):**
-```
-Table: all_states_history
-Location: ./db/test.db
-
 Columns:
 - date (e.g., 2020-10-01)
 - state (e.g., NY, CA, TX)
@@ -1119,41 +1101,6 @@ engine = create_engine('mssql+pyodbc://user:password@localhost/dbname?driver=ODB
 
 ---
 
-## Comparison: All Three Lessons
-
-**Progression Overview:**
-
-| Feature | Lesson 1 | Lesson 2 | Lesson 3 |
-|:--------|:--------:|:--------:|:--------:|
-| Input Type | Text | CSV File | SQL Database |
-| Data Size Limit | N/A | Millions | Billions |
-| Agent Type | Simple Text | Pandas Code | SQL Query |
-| Execution Speed | Instant | Seconds | Milliseconds |
-| Scalability | N/A | Limited | Unlimited |
-| Real-World Use | Translation | Quick analysis | Production Systems |
-| Complexity Level | Beginner | Intermediate | Advanced |
-
-**Data Processing Comparison:**
-
-```
-Lesson 1: Text Processing
-─────────────────────────
-Question → AI → Answer
-(Simple, direct)
-
-Lesson 2: CSV Analysis
-─────────────────────────
-Question → AI writes Pandas → Load CSV → Filter → Calculate → Answer
-(Medium complexity, file-based)
-
-Lesson 3: Database Queries
-─────────────────────────
-Question → AI writes SQL → Query DB → Fetch rows → Format → Answer
-(Advanced, production-grade)
-```
-
----
-
 ## Next Steps
 
 ### Challenge 1: Different Database
@@ -1200,26 +1147,4 @@ engine = create_engine('postgresql://user:pass@host/db')
 - 📖 [SQL Tutorial](https://www.w3schools.com/sql/)
 - 📖 [Database Design](https://en.wikipedia.org/wiki/Database_design)
 
----
 
-## Summary
-
-**Lesson 3 unlocks enterprise-level data analysis:**
-
-You can now:
-1. ✅ Create SQL databases from data
-2. ✅ Build AI agents that query databases
-3. ✅ Ask complex questions in English
-4. ✅ Get intelligent SQL queries generated
-5. ✅ Scale to massive datasets
-6. ✅ Build production systems
-
-This foundation supports:
-- 🚀 **Advanced topics:** Optimization, scaling, security
-- 🚀 **Production deployment:** Real databases, real users
-- 🚀 **Complex analysis:** Advanced SQL, multiple tables
-- 🚀 **Career growth:** Database engineer, data specialist
-
----
-
-**You're now ready to build professional data systems! 🗄️🚀**
