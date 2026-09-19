@@ -1,7 +1,7 @@
 # Day 1 Summary: Lessons 1-5
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026
+**Date:** Sep 19, 2026
 
 ---
 
