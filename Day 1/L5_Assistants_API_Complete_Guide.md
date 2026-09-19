@@ -22,50 +22,6 @@
 
 ---
 
-## The Error & The Fix
-
-### What Went Wrong
-
-The original Lesson 5 notebook uses deprecated APIs:
-
-```python
-# ❌ BROKEN - No longer works (Error 410)
-client.beta.assistants.create(...)        # Deprecated
-client.beta.threads.create(...)           # Deprecated
-client.beta.threads.runs.create(...)      # Deprecated
-```
-
-**Error Message:**
-```
-APIStatusError: Error code: 410
-Message: The Assistants API has been retired
-Code: assistants_api_deprecated
-```
-
-### Timeline
-
-| Year | Event |
-|------|-------|
-| 2023 | Classic Assistants API released by Microsoft |
-| 2024 | New Agents API announced (preview) |
-| 2025 | Classic API deprecated |
-| 2026 | Classic API returns 410 errors (NOW) |
-
-### Why It's Better Now
-
-Even though the API is deprecated, **building it yourself is BETTER:**
-
-| Aspect | Deprecated API | Your Implementation |
-|--------|---|---|
-| **Understanding** | Hidden | Crystal clear |
-| **Control** | Limited | Complete |
-| **Debugging** | Difficult | Easy |
-| **Customization** | Impossible | Unlimited |
-| **Deprecation Risk** | Already broken | Never breaks |
-| **Learning Value** | Uses API | Understands mechanism |
-
----
-
 ## Overview
 
 ### What This Lesson Teaches
