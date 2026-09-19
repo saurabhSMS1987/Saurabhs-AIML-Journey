@@ -99,21 +99,6 @@ export AZURE_OPENAI_API_KEY=your_key
 # 3. Start Lesson 1
 python lesson_1_first_ai_agent.py
 ```
-
----
-
-## Time Investment
-
-```
-⏱️  Lesson 1:  20 min  ░░░░░░░░░░░░░░░░░░░░
-⏱️  Lesson 2:  30 min  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-⏱️  Lesson 3:  40 min  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-⏱️  Lesson 4:  50 min  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-⏱️  Lesson 5:  40 min  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-Total: ~3 hours for complete mastery
-```
-
 ---
 
 ## Files You'll Use
