@@ -647,81 +647,88 @@ User sees formatted, explained response with confidence!
 ### Complete Data Flow
 
 ```
-┌─────────────────────────────────────┐
-│  Natural Language Question          │
-│  "Hospitalizations in October 2020?"│
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  SQL Agent (AI)                     │
-│  Reads PREFIX & FORMAT instructions │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  Agent Thinks:                      │
-│  - Need table: all_states_history   │
-│  - Need column: hospitalizedIncrease│
-│  - Need filter: October 2020        │
-│  - Need to group by state           │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  Agent Writes SQL Query             │
-│  SELECT SUM(...) FROM ... WHERE ... │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  Agent Checks Query                 │
-│  - Syntax valid? ✓                  │
-│  - Safe (no DELETE)? ✓              │
-│  - Limits applied? ✓                │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  SQLAlchemy executes query          │
-│  on SQLite database                 │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  Database returns results           │
-│  50,000 (NY), 500,000 (Total)       │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  Agent formats response             │
-│  - Beautiful Markdown               │
-│  - Include SQL query                │
-│  - Explain methodology              │
-└─────────────┬───────────────────────┘
-              │
-┌─────────────▼───────────────────────┐
-│  User receives answer               │
-│  Fully explained, verified          │
-└─────────────────────────────────────┘
+STEP 1: Natural Language Question
+   Input: "Hospitalizations in October 2020?"
+                    ↓
+STEP 2: SQL Agent Receives Question
+   - Reads PREFIX (behavior instructions)
+   - Reads FORMAT INSTRUCTIONS
+   - Understands task
+                    ↓
+STEP 3: Agent Analyzes Query Requirements
+   - Need table: all_states_history
+   - Need column: hospitalizedIncrease
+   - Need filter: October 2020
+   - Need to group by state
+                    ↓
+STEP 4: Agent Writes SQL Query
+   SELECT SUM(hospitalizedIncrease)
+   FROM all_states_history
+   WHERE date LIKE '2020-10%'
+   GROUP BY state
+                    ↓
+STEP 5: Agent Validates Query
+   ✓ Syntax valid
+   ✓ Safe (no INSERT/UPDATE/DELETE)
+   ✓ Limits applied
+   ✓ Ready to execute
+                    ↓
+STEP 6: SQLAlchemy Executes on SQLite
+   Database receives validated query
+                    ↓
+STEP 7: Database Returns Results
+   NY: 50,000 hospitalizations
+   CA: 45,000 hospitalizations
+   TX: 40,000 hospitalizations
+   ... (all states)
+                    ↓
+STEP 8: Agent Formats Response
+   - Creates Markdown formatting
+   - Includes SQL query used
+   - Explains methodology
+   - Shows results clearly
+                    ↓
+STEP 9: User Receives Answer
+   Complete, verified, well-explained response
 ```
 
 ### Database Architecture
 
+**Your Project Structure:**
 ```
-Your Project Structure:
+my-project/
 ├── data/
-│   └── all-states-history.csv  (original CSV)
+│   └── all-states-history.csv     (original CSV file)
 ├── db/
-│   └── test.db                 (SQLite database)
-├── script.py                   (your Python code)
+│   └── test.db                     (SQLite database)
+├── script.py                       (your Python code)
+└── README.md
+```
 
-SQLite Database (test.db):
-┌─────────────────────────────────────┐
-│  all_states_history Table           │
-├─────────────────────────────────────┤
-│ date | state | hospitalized | ...   │
-├─────────────────────────────────────┤
-│ 2020-10-01 | NY | 1500     | ...    │
-│ 2020-10-01 | CA | 2000     | ...    │
-│ 2020-10-02 | NY | 1502     | ...    │
-│ ...                                  │
-│ (20,780 rows total)                 │
-└─────────────────────────────────────┘
+**SQLite Database Content (test.db):**
+```
+Table: all_states_history
+Location: ./db/test.db
+
+Columns:
+- date (e.g., 2020-10-01)
+- state (e.g., NY, CA, TX)
+- hospitalized (numeric)
+- hospitalizedCumulative (numeric)
+- cases (numeric)
+- death (numeric)
+- ... (other columns)
+
+Total Rows: 20,780
+
+Sample Data:
+date       | state | hospitalized | cases  | death
+-----------|-------|--------------|--------|-------
+2020-10-01 | NY    | 1500         | 15000  | 150
+2020-10-01 | CA    | 2000         | 20000  | 200
+2020-10-02 | NY    | 1502         | 15200  | 152
+2020-10-02 | CA    | 2050         | 20500  | 205
+... (20,776 more rows)
 ```
 
 ---
@@ -764,39 +771,50 @@ Advantages:
 
 The agent follows this thinking pattern:
 
-```
-┌─ New Question Received
-│
-├─ Think: "What does this mean?"
-│
-├─ Think: "Which table has this data?"
-│
-├─ Action: Query database schema
-│
-├─ Observe: Get column information
-│
-├─ Think: "How to construct SQL?"
-│
-├─ Action: Write SQL query
-│
-├─ Think: "Is this SQL valid?"
-│
-├─ Action: Execute query (with validation)
-│
-├─ Observe: Get results
-│
-├─ Think: "Does this answer the question?"
-│
-├─ Think: "Should I run another query?"
-│
-├─ (If yes, repeat; if no, proceed)
-│
-├─ Format: Create beautiful response
-│
-├─ Explain: Include SQL and methodology
-│
-└─ Return: Final answer to user
-```
+**Step 1: Receive Question**
+   Question: "How many patients hospitalized in October 2020?"
+   ↓
+**Step 2: Analyze Question**
+   Think: "What does this mean?"
+   Think: "Which table has this data?"
+   ↓
+**Step 3: Query Database Schema**
+   Action: Query database metadata
+   Observe: Get table and column information
+   ↓
+**Step 4: Plan SQL Query**
+   Think: "How to construct the SQL?"
+   Think: "What columns do I need?"
+   Think: "How to filter by date?"
+   Think: "What aggregation to use?"
+   ↓
+**Step 5: Write SQL Query**
+   Action: Create SQL query
+   Query: SELECT SUM(hospitalized) FROM ... WHERE ...
+   ↓
+**Step 6: Validate Query**
+   Think: "Is this SQL syntactically valid?"
+   Think: "Is it safe (no INSERT/DELETE)?"
+   Check: Does it follow all safety rules?
+   ↓
+**Step 7: Execute Query**
+   Action: Execute query on SQLite database
+   ↓
+**Step 8: Receive Results**
+   Observe: Get database results
+   Results: 50,000 (NY), 500,000 (Nationwide)
+   ↓
+**Step 9: Verify Answer**
+   Think: "Does this answer the question?"
+   Think: "Do the numbers make sense?"
+   ↓
+**Step 10: Format Response**
+   Action: Create beautiful Markdown response
+   Include: SQL query used
+   Include: Explanation section
+   ↓
+**Step 11: Return Answer**
+   Output: Complete, verified response to user
 
 ### Error Handling
 
@@ -1103,15 +1121,36 @@ engine = create_engine('mssql+pyodbc://user:password@localhost/dbname?driver=ODB
 
 ## Comparison: All Three Lessons
 
+**Progression Overview:**
+
 | Feature | Lesson 1 | Lesson 2 | Lesson 3 |
-|---------|----------|----------|----------|
-| **Input** | Text | CSV File | SQL DB |
-| **Data Size** | N/A | Millions | Billions |
-| **Agent Type** | Simple | Pandas | SQL |
-| **Speed** | Instant | Seconds | Milliseconds |
-| **Scalability** | N/A | Limited | Unlimited |
-| **Real-World Use** | Translation | Quick analysis | Production |
-| **Complexity** | Simple | Medium | Advanced |
+|:--------|:--------:|:--------:|:--------:|
+| Input Type | Text | CSV File | SQL Database |
+| Data Size Limit | N/A | Millions | Billions |
+| Agent Type | Simple Text | Pandas Code | SQL Query |
+| Execution Speed | Instant | Seconds | Milliseconds |
+| Scalability | N/A | Limited | Unlimited |
+| Real-World Use | Translation | Quick analysis | Production Systems |
+| Complexity Level | Beginner | Intermediate | Advanced |
+
+**Data Processing Comparison:**
+
+```
+Lesson 1: Text Processing
+─────────────────────────
+Question → AI → Answer
+(Simple, direct)
+
+Lesson 2: CSV Analysis
+─────────────────────────
+Question → AI writes Pandas → Load CSV → Filter → Calculate → Answer
+(Medium complexity, file-based)
+
+Lesson 3: Database Queries
+─────────────────────────
+Question → AI writes SQL → Query DB → Fetch rows → Format → Answer
+(Advanced, production-grade)
+```
 
 ---
 
