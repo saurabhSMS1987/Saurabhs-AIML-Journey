@@ -227,12 +227,6 @@ Round 2: Send original messages + AI's suggestion + results to AI
          RESPONSE
 ```
 
-**Problems:**
-- ❌ Hidden implementation
-- ❌ Cloud dependent
-- ❌ Hard to debug
-- ❌ Now deprecated
-
 ### New Approach (Modern)
 
 ```
