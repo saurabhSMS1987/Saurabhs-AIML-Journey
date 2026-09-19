@@ -1,7 +1,7 @@
 # Lesson 3: Connecting to a SQL Database - Complete Code Guide 🗄️
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 19, 2026 
 **Level:** Advanced  
 **Topic:** Building an AI SQL Query Agent with LangChain and SQLite
 
