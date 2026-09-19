@@ -1,4 +1,4 @@
-# Your First AI Agent: Complete Code Guide 🚀
+# Day 1: Your First AI Agent: Complete Code Guide 🚀
 
 **Author:** Saurabh Shirgaokar  
 **Date:** Sep 19, 2026  
