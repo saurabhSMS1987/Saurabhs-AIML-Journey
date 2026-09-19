@@ -1,71 +1,24 @@
 # Lesson 5: Building Persistent AI Assistants - Complete Guide 🤖
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 19, 2026  
 **Level:** Advanced  
 **Topic:** Building Stateful AI Assistants with Persistent Threads
-
-> **⚠️ IMPORTANT:** The original notebook uses deprecated APIs. This guide teaches you how to build the same concepts using **modern, working approaches** that are actually BETTER!
 
 ---
 
 ## Table of Contents
 
-1. [The Error & The Fix](#the-error--the-fix)
-2. [Overview](#overview)
-3. [The Progression](#the-progression)
-4. [Key Concepts](#key-concepts)
-5. [Architecture Comparison](#architecture-comparison)
-6. [Code Breakdown](#code-breakdown)
-7. [Step-by-Step Walkthrough](#step-by-step-walkthrough)
-8. [Persistent Assistant Pattern](#persistent-assistant-pattern)
-9. [Practical Examples](#practical-examples)
-10. [Production Patterns](#production-patterns)
-11. [Troubleshooting](#troubleshooting)
-
----
-
-## The Error & The Fix
-
-### What Went Wrong
-
-The original Lesson 5 notebook uses deprecated APIs:
-
-```python
-# ❌ BROKEN - No longer works (Error 410)
-client.beta.assistants.create(...)        # Deprecated
-client.beta.threads.create(...)           # Deprecated
-client.beta.threads.runs.create(...)      # Deprecated
-```
-
-**Error Message:**
-```
-APIStatusError: Error code: 410
-Message: The Assistants API has been retired
-Code: assistants_api_deprecated
-```
-
-### Timeline
-
-| Year | Event |
-|------|-------|
-| 2023 | Classic Assistants API released by Microsoft |
-| 2024 | New Agents API announced (preview) |
-| 2025 | Classic API deprecated |
-| 2026 | Classic API returns 410 errors (NOW) |
-
-### Why It's Better Now
-
-Even though the API is deprecated, **building it yourself is BETTER:**
-
-| Aspect | Deprecated API | Your Implementation |
-|--------|---|---|
-| **Understanding** | Hidden | Crystal clear |
-| **Control** | Limited | Complete |
-| **Debugging** | Difficult | Easy |
-| **Customization** | Impossible | Unlimited |
-| **Deprecation Risk** | Already broken | Never breaks |
-| **Learning Value** | Uses API | Understands mechanism |
+1. [Overview](#overview)
+2. [The Progression](#the-progression)
+3. [Key Concepts](#key-concepts)
+4. [Architecture Comparison](#architecture-comparison)
+5. [Code Breakdown](#code-breakdown)
+6. [Step-by-Step Walkthrough](#step-by-step-walkthrough)
+7. [Persistent Assistant Pattern](#persistent-assistant-pattern)
+8. [Practical Examples](#practical-examples)
+9. [Production Patterns](#production-patterns)
+10. [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -247,76 +200,6 @@ Round 2: Send original messages + AI's suggestion + results to AI
          ↓
          AI: "Based on results... here's the answer"
 ```
-
----
-
-## Architecture Comparison
-
-### Old Approach (Deprecated)
-
-```
-┌─────────────────────────────────────────┐
-│  YOU                                     │
-│  ├─ client.beta.assistants.create()     │
-│  ├─ client.beta.threads.create()        │
-│  ├─ client.beta.threads.messages.create │
-│  └─ client.beta.threads.runs.create()   │
-└─────────────────────────────────────────┘
-              ↓
-┌──────────────────────────────────────────┐
-│  CLOUD (Azure)                           │
-│  ├─ Create assistant config              │
-│  ├─ Manage thread state                  │
-│  ├─ Handle function calling loop         │
-│  └─ Run the exchange                     │
-└──────────────────────────────────────────┘
-              ↓
-         RESPONSE
-```
-
-**Problems:**
-- ❌ Hidden implementation
-- ❌ Cloud dependent
-- ❌ Hard to debug
-- ❌ Now deprecated
-
-### New Approach (Modern)
-
-```
-┌─────────────────────────────────────────┐
-│  YOU                                     │
-│  ├─ Create PersistentAssistant           │
-│  ├─ Add tools                            │
-│  └─ Call get_ai_response()               │
-└─────────────────────────────────────────┘
-              ↓
-┌──────────────────────────────────────────┐
-│  YOUR CODE (You see everything)          │
-│  ├─ Build message list                   │
-│  ├─ API Call #1: Get suggestions         │
-│  ├─ Check for function calls              │
-│  ├─ Execute functions                    │
-│  ├─ Add results to messages               │
-│  ├─ API Call #2: Get final answer        │
-│  └─ Update thread                        │
-└──────────────────────────────────────────┘
-              ↓
-┌──────────────────────────────────────────┐
-│  Azure OpenAI API (Current, working)     │
-│  ├─ Process messages                     │
-│  └─ Return response                      │
-└──────────────────────────────────────────┘
-              ↓
-         RESPONSE + THREAD UPDATED
-```
-
-**Advantages:**
-- ✅ Full transparency
-- ✅ Works with current APIs
-- ✅ Easy to debug
-- ✅ Easy to customize
-- ✅ Production-ready
-- ✅ Better learning
 
 ---
 
@@ -806,60 +689,3 @@ except Exception as e:
 ```
 
 ---
-
-## Summary
-
-### What You Learned
-
-✅ **Persistent Assistants** - Configuration that persists across conversations
-✅ **Conversation Threads** - Messages that accumulate and inform decisions
-✅ **Stateful Interactions** - Context preserved across multiple turns
-✅ **Modern Implementation** - Using current APIs instead of deprecated ones
-✅ **Production Patterns** - Real-world usage scenarios
-
-### Key Insight
-
-The deprecated Assistants API was hiding a simple pattern:
-
-```
-Thread = list of messages
-Assistant = configuration + thread + tools
-Response = result of function calling loop
-```
-
-By implementing it yourself, you:
-- ✅ Understand how it works
-- ✅ Have full control
-- ✅ Can customize anything
-- ✅ Won't break when APIs change
-- ✅ Build production systems
-
-### Next Steps
-
-1. Run `lesson_5_assistants_api.py`
-2. Modify instructions and tools
-3. Build save/restore functionality
-4. Integrate with database
-5. Deploy as service
-6. Build UI on top
-
----
-
-## Resources
-
-**Files:**
-- `lesson_5_assistants_api.py` - Working implementation
-- `L5_Assistants_API_Complete_Guide.md` - This guide
-
-**Related:**
-- Lesson 4: Function Calling (foundation)
-- Lesson 3: SQL Agents (comparison)
-- Lesson 2: CSV Agents (comparison)
-
-**Further Reading:**
-- OpenAI Function Calling: https://platform.openai.com/docs/guides/function-calling
-- Azure OpenAI: https://learn.microsoft.com/en-us/azure/ai-services/openai/
-
----
-
-**Congratulations!** You now understand how to build persistent AI assistants using modern, production-ready approaches! 🚀
