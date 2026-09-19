@@ -1,7 +1,7 @@
 # Lesson 4: Azure OpenAI Function Calling Feature - Complete Code Guide 🔧
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 19, 2026  
 **Level:** Advanced  
 **Topic:** Building AI Systems with OpenAI Function Calling
 
