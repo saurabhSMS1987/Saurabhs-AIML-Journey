@@ -1,39 +1,166 @@
-# Python Dependencies for Your First AI Agent
+# Python Dependencies for AI Agents Course (Lessons 1-5)
 # Install with: pip install -r requirements.txt
+# 
+# Course Coverage:
+# Lesson 1: Your First AI Agent
+# Lesson 2: Interacting with CSV Data
+# Lesson 3: Connecting to SQL Database
+# Lesson 4: Azure OpenAI Function Calling
+# Lesson 5: Building Persistent AI Assistants
 
-# Core AI/LLM Libraries
+# ============================================================================
+# CORE AI/LLM LIBRARIES
+# ============================================================================
+
+# LangChain - Framework for building AI agents (Lessons 2-3)
 langchain==0.1.0
 langchain-openai==0.0.5
+langchain-experimental==0.0.41  # Required for create_pandas_dataframe_agent (Lesson 2)
+langchain-community==0.0.10     # Additional LangChain tools and utilities
+
+# OpenAI - Native OpenAI API client (Lessons 1, 4-5)
+# Used for direct function calling (Lesson 4) and persistent assistants (Lesson 5)
 openai==1.3.0
 
-# Environment Configuration
-python-dotenv==1.0.0
+# ============================================================================
+# DATABASE & DATA PROCESSING
+# ============================================================================
 
-# Data & Analysis
+# SQLAlchemy - Database toolkit and ORM (Lesson 3)
+# Required for SQL database connections and queries
+sqlalchemy==2.0.0
+
+# Pandas - Data analysis and manipulation (Lessons 2-3, 5)
+# Used for CSV analysis (Lesson 2), SQL queries (Lesson 3), data processing (Lesson 5)
 pandas==2.0.0
+
+# NumPy - Numerical computing library
+# Dependency for pandas, used in data analysis
 numpy==1.24.0
 
-# Jupyter & Notebook Support
+# ============================================================================
+# ENVIRONMENT & CONFIGURATION
+# ============================================================================
+
+# Python-dotenv - Load environment variables from .env files
+# Required for storing Azure OpenAI credentials
+python-dotenv==1.0.0
+
+# ============================================================================
+# JUPYTER & NOTEBOOK SUPPORT
+# ============================================================================
+
+# Jupyter - Interactive notebooks (for running lessons)
 jupyter==1.0.0
 ipython==8.12.0
 ipykernel==6.23.0
 jupyter-client==8.2.0
 jupyter-core==5.3.0
 
-# Optional: Visualization
+# ============================================================================
+# DATA VISUALIZATION (Optional)
+# ============================================================================
+
+# Matplotlib - 2D plotting library
 matplotlib==3.7.0
+
+# Seaborn - Statistical data visualization
 seaborn==0.12.0
 
-# Optional: Utilities
+# ============================================================================
+# UTILITIES
+# ============================================================================
+
+# Requests - HTTP library (for API calls if needed)
 requests==2.31.0
+
+# Typing extensions - Type hints backport
 typing-extensions==4.7.0
 
-# Development & Testing
+# ============================================================================
+# DEVELOPMENT & TESTING
+# ============================================================================
+
+# Pytest - Testing framework
 pytest==7.3.0
+
+# Black - Code formatter
 black==23.3.0
+
+# Pylint - Code quality tool
 pylint==2.17.4
+
+# Flake8 - Style guide enforcement
 flake8==6.0.0
 
-# Documentation
+# ============================================================================
+# DOCUMENTATION
+# ============================================================================
+
+# Sphinx - Documentation generator
 sphinx==6.3.0
+
+# Sphinx RTD Theme - ReadTheDocs theme for Sphinx
 sphinx-rtd-theme==1.2.0
+
+# ============================================================================
+# AZURE SPECIFIC
+# ============================================================================
+
+# Azure OpenAI (if not included in openai package)
+# May need: pip install azure-openai
+# Already provided through environment variables in code
+
+# ============================================================================
+# INSTALLATION INSTRUCTIONS
+# ============================================================================
+# 
+# 1. Basic installation:
+#    pip install -r requirements.txt
+#
+# 2. For development (with testing tools):
+#    pip install -r requirements.txt
+#
+# 3. Verify installation:
+#    python -c "import langchain; import openai; import pandas; import sqlalchemy; print('All imports successful')"
+#
+# 4. Environment setup:
+#    Create .env file with:
+#    AZURE_OPENAI_ENDPOINT=your_endpoint
+#    AZURE_OPENAI_API_KEY=your_key
+#
+# ============================================================================
+# DEPENDENCY NOTES
+# ============================================================================
+#
+# Lesson 1 Requirements:
+#   - openai
+#   - python-dotenv
+#
+# Lesson 2 Requirements:
+#   - langchain
+#   - langchain-openai
+#   - langchain-experimental
+#   - pandas
+#   - python-dotenv
+#
+# Lesson 3 Requirements:
+#   - langchain
+#   - langchain-openai
+#   - sqlalchemy
+#   - pandas
+#   - python-dotenv
+#
+# Lesson 4 Requirements:
+#   - openai
+#   - sqlalchemy (for database functions)
+#   - pandas (for data processing)
+#   - python-dotenv
+#
+# Lesson 5 Requirements:
+#   - openai
+#   - sqlalchemy (for database tools)
+#   - pandas (for data processing)
+#   - python-dotenv
+#
+# ============================================================================
