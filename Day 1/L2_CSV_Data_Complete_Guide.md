@@ -23,15 +23,6 @@
 
 ## Overview
 
-### What This Lesson Teaches
-
-This lesson builds on Lesson 1 by showing you how to:
-- ✅ Load CSV data into Python using Pandas
-- ✅ Create an AI agent that understands data
-- ✅ Ask natural language questions about your data
-- ✅ Have AI automatically analyze and verify results
-- ✅ Build a smart data analyst that can reason about data
-
 ### The Leap from Lesson 1
 
 | Lesson 1 | Lesson 2 |
