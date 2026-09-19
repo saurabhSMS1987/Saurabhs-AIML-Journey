@@ -1,7 +1,7 @@
 # Lesson 2: Interacting with CSV Data - Complete Code Guide 📊
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 19, 2026  
 **Level:** Intermediate  
 **Topic:** Building an AI Data Analyst Agent with LangChain and Pandas
 
