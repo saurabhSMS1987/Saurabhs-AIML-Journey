@@ -1,7 +1,7 @@
 # Your First AI Agent: Complete Code Guide 🚀
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 19, 2026  
 **Level:** Beginner  
 **Topic:** Building Your First AI Application with LangChain and Azure OpenAI
 
