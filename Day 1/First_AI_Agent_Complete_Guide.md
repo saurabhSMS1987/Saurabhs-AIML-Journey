@@ -563,16 +563,6 @@ result = translate_to_languages("I love coding", ["French", "Spanish", "German"]
 print(result)
 ```
 
-### 📚 Recommended Learning Path
-
-1. ✅ **Lesson 1** (Current): Your First AI Agent
-2. ⬜ **Lesson 2**: Multi-turn Conversations
-3. ⬜ **Lesson 3**: System Messages & Personalities
-4. ⬜ **Lesson 4**: Building Chains with LangChain
-5. ⬜ **Lesson 5**: Memory & Context Management
-6. ⬜ **Lesson 6**: Integrating Tools & APIs
-7. ⬜ **Lesson 7**: Production Deployment
-
 ---
 
 ## Troubleshooting
