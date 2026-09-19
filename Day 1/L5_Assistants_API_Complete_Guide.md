@@ -9,17 +9,16 @@
 
 ## Table of Contents
 
-1. [The Error & The Fix](#the-error--the-fix)
-2. [Overview](#overview)
-3. [The Progression](#the-progression)
-4. [Key Concepts](#key-concepts)
-5. [Architecture Comparison](#architecture-comparison)
-6. [Code Breakdown](#code-breakdown)
-7. [Step-by-Step Walkthrough](#step-by-step-walkthrough)
-8. [Persistent Assistant Pattern](#persistent-assistant-pattern)
-9. [Practical Examples](#practical-examples)
-10. [Production Patterns](#production-patterns)
-11. [Troubleshooting](#troubleshooting)
+1. [Overview](#overview)
+2. [The Progression](#the-progression)
+3. [Key Concepts](#key-concepts)
+4. [Architecture Comparison](#architecture-comparison)
+5. [Code Breakdown](#code-breakdown)
+6. [Step-by-Step Walkthrough](#step-by-step-walkthrough)
+7. [Persistent Assistant Pattern](#persistent-assistant-pattern)
+8. [Practical Examples](#practical-examples)
+9. [Production Patterns](#production-patterns)
+10. [Troubleshooting](#troubleshooting)
 
 ---
 
