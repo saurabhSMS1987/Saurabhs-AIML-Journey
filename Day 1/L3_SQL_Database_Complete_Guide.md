@@ -692,24 +692,6 @@ STEP 9: User Receives Answer
    Complete, verified, well-explained response
 ```
 
-### Database Architecture
-
-**Your Project Structure:**
-```
-my-project/
-├── data/
-│   └── all-states-history.csv     (original CSV file)
-├── db/
-│   └── test.db                     (SQLite database)
-├── script.py                       (your Python code)
-└── README.md
-```
-
-**SQLite Database Content (test.db):**
-```
-Table: all_states_history
-Location: ./db/test.db
-
 Columns:
 - date (e.g., 2020-10-01)
 - state (e.g., NY, CA, TX)
