@@ -5,67 +5,20 @@
 **Level:** Advanced  
 **Topic:** Building Stateful AI Assistants with Persistent Threads
 
-> **⚠️ IMPORTANT:** The original notebook uses deprecated APIs. This guide teaches you how to build the same concepts using **modern, working approaches** that are actually BETTER!
-
 ---
 
 ## Table of Contents
 
-1. [The Error & The Fix](#the-error--the-fix)
-2. [Overview](#overview)
-3. [The Progression](#the-progression)
-4. [Key Concepts](#key-concepts)
-5. [Architecture Comparison](#architecture-comparison)
-6. [Code Breakdown](#code-breakdown)
-7. [Step-by-Step Walkthrough](#step-by-step-walkthrough)
-8. [Persistent Assistant Pattern](#persistent-assistant-pattern)
-9. [Practical Examples](#practical-examples)
-10. [Production Patterns](#production-patterns)
-11. [Troubleshooting](#troubleshooting)
-
----
-
-## The Error & The Fix
-
-### What Went Wrong
-
-The original Lesson 5 notebook uses deprecated APIs:
-
-```python
-# ❌ BROKEN - No longer works (Error 410)
-client.beta.assistants.create(...)        # Deprecated
-client.beta.threads.create(...)           # Deprecated
-client.beta.threads.runs.create(...)      # Deprecated
-```
-
-**Error Message:**
-```
-APIStatusError: Error code: 410
-Message: The Assistants API has been retired
-Code: assistants_api_deprecated
-```
-
-### Timeline
-
-| Year | Event |
-|------|-------|
-| 2023 | Classic Assistants API released by Microsoft |
-| 2024 | New Agents API announced (preview) |
-| 2025 | Classic API deprecated |
-| 2026 | Classic API returns 410 errors (NOW) |
-
-### Why It's Better Now
-
-Even though the API is deprecated, **building it yourself is BETTER:**
-
-| Aspect | Deprecated API | Your Implementation |
-|--------|---|---|
-| **Understanding** | Hidden | Crystal clear |
-| **Control** | Limited | Complete |
-| **Debugging** | Difficult | Easy |
-| **Customization** | Impossible | Unlimited |
-| **Deprecation Risk** | Already broken | Never breaks |
-| **Learning Value** | Uses API | Understands mechanism |
+1. [Overview](#overview)
+2. [The Progression](#the-progression)
+3. [Key Concepts](#key-concepts)
+4. [Architecture Comparison](#architecture-comparison)
+5. [Code Breakdown](#code-breakdown)
+6. [Step-by-Step Walkthrough](#step-by-step-walkthrough)
+7. [Persistent Assistant Pattern](#persistent-assistant-pattern)
+8. [Practical Examples](#practical-examples)
+9. [Production Patterns](#production-patterns)
+10. [Troubleshooting](#troubleshooting)
 
 ---
 
