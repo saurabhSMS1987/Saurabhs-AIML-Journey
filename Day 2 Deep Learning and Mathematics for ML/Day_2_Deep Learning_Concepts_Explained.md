@@ -1,7 +1,7 @@
 # Day 2: Introduction to Deep Learning - Concepts Explained
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 20, 2026  
 **Source:** DeepLearning.AI - Neural Networks and Deep Learning (Week 1)
 
 ---
@@ -187,38 +187,6 @@ Performance
 
 ---
 
-## 7. Course Structure
-
-### Deep Learning Specialization (5 Courses)
-
-**Course 1: Neural Networks and Deep Learning** ← YOU ARE HERE
-- Week 1: Basics and motivation
-- Week 2: Neural network programming
-- Week 3: Single hidden layer networks
-- Week 4: Deep neural networks
-
-**Course 2: Improving Deep Neural Networks**
-- Hyperparameter tuning
-- Regularization techniques
-- Optimization algorithms
-
-**Course 3: Structuring ML Projects**
-- Project organization
-- Debugging strategies
-- Best practices
-
-**Course 4: Convolutional Neural Networks**
-- Image processing
-- Object detection
-- Computer vision
-
-**Course 5: Natural Language Processing**
-- RNNs and LSTMs
-- Sequence models
-- Language tasks
-
----
-
 ## Key Takeaways
 
 ✅ **Neural networks** automatically learn features from data  
@@ -228,16 +196,3 @@ Performance
 ✅ **Deep learning excels** with unstructured data (images, audio, text)  
 ✅ **Traditional ML** still better for structured data in some cases  
 
----
-
-## What's Next (Day 2 Continued)
-
-You'll learn:
-1. How to implement neural networks in Python
-2. Forward and backward propagation
-3. Gradient descent and optimization
-4. How to structure learning algorithms
-
----
-
-*The foundation is set. Let's build neural networks! 🚀*
