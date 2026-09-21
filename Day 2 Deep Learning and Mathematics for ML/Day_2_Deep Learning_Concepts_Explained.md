@@ -187,38 +187,6 @@ Performance
 
 ---
 
-## 7. Course Structure
-
-### Deep Learning Specialization (5 Courses)
-
-**Course 1: Neural Networks and Deep Learning** ← YOU ARE HERE
-- Week 1: Basics and motivation
-- Week 2: Neural network programming
-- Week 3: Single hidden layer networks
-- Week 4: Deep neural networks
-
-**Course 2: Improving Deep Neural Networks**
-- Hyperparameter tuning
-- Regularization techniques
-- Optimization algorithms
-
-**Course 3: Structuring ML Projects**
-- Project organization
-- Debugging strategies
-- Best practices
-
-**Course 4: Convolutional Neural Networks**
-- Image processing
-- Object detection
-- Computer vision
-
-**Course 5: Natural Language Processing**
-- RNNs and LSTMs
-- Sequence models
-- Language tasks
-
----
-
 ## Key Takeaways
 
 ✅ **Neural networks** automatically learn features from data  
