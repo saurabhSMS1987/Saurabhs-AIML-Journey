@@ -2,18 +2,11 @@
 # DeepLearning.AI - Neural Networks and Deep Learning Course (Week 1)
 # Python 3.8+
 
-# ============================================================================
-# CORE DEEP LEARNING & NEURAL NETWORKS
-# ============================================================================
-tensorflow==2.13.0          # Deep learning framework (includes Keras)
-keras==2.13.0               # High-level neural networks API
-numpy==1.24.3               # Numerical computing and array operations
 
 # ============================================================================
 # DATA MANIPULATION & ANALYSIS
 # ============================================================================
 pandas==2.0.3               # Data manipulation and analysis
-scikit-learn==1.3.0         # Machine learning utilities
 
 # ============================================================================
 # VISUALIZATION
@@ -27,13 +20,6 @@ seaborn==0.12.2             # Statistical data visualization
 jupyter==1.0.0              # Jupyter notebook interface
 jupyterlab==4.0.4           # Jupyter lab environment
 ipython==8.14.0             # Enhanced interactive Python
-
-# ============================================================================
-# OPTIONAL: DEEP LEARNING ALTERNATIVES
-# ============================================================================
-# Uncomment if using PyTorch instead of TensorFlow
-# torch==2.0.1              # PyTorch deep learning framework
-# torchvision==0.15.2       # PyTorch computer vision utilities
 
 # ============================================================================
 # UTILITIES & TOOLS
