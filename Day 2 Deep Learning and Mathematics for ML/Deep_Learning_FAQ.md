@@ -1,7 +1,7 @@
 # Deep Learning FAQ - Frequently Asked Questions
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 20, 2026  
 **Based on:** DeepLearning.AI Course - Neural Networks and Deep Learning
 
 ---
