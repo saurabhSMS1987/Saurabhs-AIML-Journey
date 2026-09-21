@@ -1,7 +1,7 @@
 # Day 2: Introduction to Deep Learning
 
 **Course:** DeepLearning.AI - Neural Networks and Deep Learning  
-**Week:** 1 | **Date:** 2026
+**Week:** 1 | **Date:** Sep 20, 2026
 
 ---
 
@@ -28,14 +28,6 @@ More Data + More Compute + Better Algorithms = Better AI
 
 The iterative process: Idea → Code → Experiment → Repeat
 ```
-
----
-
-## ⏱️ Time Commitment
-
-**Total:** 30-45 minutes  
-**Format:** Video slides with conceptual explanations  
-**Difficulty:** Beginner-friendly (no coding required)
 
 ---
 
@@ -79,12 +71,6 @@ Understand the math behind how networks learn
 
 **Optional Data Tool:** `Pandas_Basics_Lesson.md`  
 Learn how to prepare data for neural networks
-
----
-
-## 🚀 Ready?
-
-Start with `Day_2_Concepts_Explained.md` to explore the fundamentals of deep learning!
 
 ---
 
