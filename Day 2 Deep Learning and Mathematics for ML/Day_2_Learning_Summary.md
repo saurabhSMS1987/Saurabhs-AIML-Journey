@@ -25,9 +25,7 @@ DEEP LEARNING CONCEPTS (What & Why)
 ## 📚 Three Core Learning Areas
 
 ### 1️⃣ DEEP LEARNING CONCEPTS
-
-**Topics:** 8 key concepts  
-**Time:** 30-45 minutes  
+ 
 **Document:** `Day_2_Concepts_Explained.md`
 
 **You'll Learn:**
@@ -44,8 +42,6 @@ DEEP LEARNING CONCEPTS (What & Why)
 
 ### 2️⃣ MATHEMATICS FOR ML (Lessons 1-2)
 
-**Topics:** 6 core concepts  
-**Time:** 45-60 minutes  
 **Document:** `Mathematics_for_ML_Lessons_1-2.md`
 
 **You'll Learn:**
@@ -62,8 +58,6 @@ DEEP LEARNING CONCEPTS (What & Why)
 
 ### 3️⃣ PANDAS BASICS
 
-**Topics:** 7 practical sections  
-**Time:** 30-45 minutes  
 **Document:** `Pandas_Basics_Lesson.md`
 
 **You'll Learn:**
@@ -156,31 +150,6 @@ After Day 2, verify you understand:
 - [ ] Select columns and elements
 - [ ] Add new columns and analyze data
 
----
-
-## ⏱️ Time Breakdown
-
-```
-Deep Learning Concepts:    30-45 min
-Mathematics Lessons 1-2:   45-60 min
-Pandas Basics:             30-45 min
-                          ─────────
-Total:                   1.5-2.5 hours
-
-Recommended: 2-3 hours with breaks
-```
-
----
-
-## 📊 Document Statistics
-
-| Document | Length | Key Sections | Examples |
-|----------|--------|--------------|----------|
-| Day_2_Concepts_Explained | ~2000 words | 8 concepts | Visual diagrams |
-| Mathematics_for_ML_Lessons_1-2 | ~2500 words | 6 topics + real example | Housing walkthrough |
-| Pandas_Basics_Lesson | ~3500 words | 7 practical sections | House/student data |
-
-**Total Content:** ~8000 words of focused learning material
 
 ---
 
@@ -209,27 +178,6 @@ Analysis reveals patterns and insights."
 
 ---
 
-## 🎓 What Comes Next
-
-After mastering Day 2:
-1. **Week 1 Completion** - Continue with weeks 2-4 concepts
-2. **More Math** - Advanced calculus and probabilities
-3. **More Pandas** - GroupBy, merge, visualization
-4. **Implementation** - Build actual neural networks
-
----
-
-## 📌 Pro Tips
-
-✅ **Read in order** - Deep Learning → Math → Pandas  
-✅ **Take notes** - Key formulas and concepts  
-✅ **Visualize** - Draw networks and data structures  
-✅ **Practice** - Use the provided exercises  
-✅ **Connect** - See how all three work together  
-✅ **Take breaks** - Don't rush through 3 hours of learning  
-
----
-
 ## 🔗 File Navigation
 
 ```
@@ -241,18 +189,6 @@ Day 2 Files:
 ├── Day_2_Learning_Summary.md (This file - Quick reference)
 └── requirements_day2.txt (Python packages needed)
 ```
-
----
-
-## 💬 Remember
-
-> "The journey to mastering deep learning starts with understanding three things:
-> 
-> **WHAT** it is (Deep Learning Concepts)  
-> **HOW** it works (Mathematics)  
-> **WHERE** data comes from (Pandas)
-> 
-> Master these, and you're ready to build AI."
 
 ---
 
