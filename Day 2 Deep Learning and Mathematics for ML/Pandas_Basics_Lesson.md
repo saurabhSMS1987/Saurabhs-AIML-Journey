@@ -1,7 +1,7 @@
 # Pandas Basics - Quick Lesson with Examples
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 20, 2026  
 **Source:** DataCamp Python Cheatsheet  
 **Level:** Beginner
 
@@ -592,17 +592,6 @@ df = pd.DataFrame({
 # Add a column for grade level
 # Find student with highest score
 ```
-
----
-
-## Next Steps
-
-After mastering these basics:
-1. **Learn groupby** - Group data by category and aggregate
-2. **Learn merge** - Combine DataFrames by matching columns
-3. **Learn data cleaning** - Handle missing values, duplicates
-4. **Learn visualization** - Plot data using matplotlib/seaborn
-5. **Apply to real projects** - Use with CSV files and datasets
 
 ---
 
