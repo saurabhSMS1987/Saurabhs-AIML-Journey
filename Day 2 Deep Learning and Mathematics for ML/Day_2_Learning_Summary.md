@@ -1,8 +1,8 @@
-# Day 2 Learning Summary - Quick Reference
+# Day 2 Learning Summary
 
 **Author:** Saurabh Shirgaokar  
 **Course:** DeepLearning.AI - Neural Networks and Deep Learning (Week 1)  
-**Date:** 2026
+**Date:** Sep 20, 2026
 
 ---
 
