@@ -427,18 +427,29 @@ Better Algorithm
 **A:** No. Deep Learning is powerful but not always the best tool.
 
 **Use Deep Learning when:**
+
 ✅ You have lots of data (100,000s to millions)
+
 ✅ Working with unstructured data (images, audio, text)
+
 ✅ Need state-of-the-art performance
+
 ✅ Have computational resources available
+
 ✅ Problem is complex with non-linear relationships
 
 **Use Traditional ML when:**
+
 ✅ Limited data (100s-1000s examples)
+
 ✅ Working with structured data (tables)
+
 ✅ Need interpretability (why did it make this decision?)
+
 ✅ Simple or linear relationships
+
 ✅ Limited computational resources
+
 ✅ Real-time predictions needed
 
 **Best practice:** Try simpler approach first, use deep learning if it doesn't work.
@@ -510,110 +521,6 @@ Performance
 - **Simplicity:** Easy to learn and read
 - **Industry standard:** Used everywhere
 
-**Getting started:**
-```bash
-# Install Python basics
-pip install tensorflow keras pytorch
-
-# Optional but useful
-pip install jupyter numpy pandas matplotlib scikit-learn
-```
-
-**This course:** Uses Python and TensorFlow
-
----
-
-### Q18: What should I practice to get good at Deep Learning?
-
-**A:** Practice is everything. Here's a progression:
-
-**Week 1-2: Fundamentals**
-- [ ] Understand basic concepts
-- [ ] Build simple neural networks
-- [ ] Practice forward/backward propagation
-
-**Week 3-4: Hands-on**
-- [ ] Implement networks from scratch
-- [ ] Use TensorFlow/PyTorch
-- [ ] Train on real datasets
-
-**Month 2: Projects**
-- [ ] Housing price prediction
-- [ ] Handwritten digit recognition (MNIST)
-- [ ] Binary classification project
-
-**Month 3+: Advanced**
-- [ ] CNNs for image projects
-- [ ] RNNs for sequence problems
-- [ ] Transfer learning
-
-**Golden Rule:** 
-```
-Theory + Code + Experimentation = Mastery
-```
-
----
-
-### Q19: How long does it take to become proficient in Deep Learning?
-
-**A:** Depends on your goals:
-
-| Goal | Time | Path |
-|------|------|------|
-| Understand basics | 2-4 weeks | This course |
-| Build simple projects | 2-3 months | Course + practice |
-| Production systems | 6-12 months | Course + projects + practice |
-| Research-level | 2+ years | Advanced study + research |
-
-**Factors that affect learning speed:**
-- Your math background
-- Programming experience
-- Time dedicated per week
-- Practice project complexity
-- Access to resources (GPU, data)
-
-**Realistic timeline:**
-- Month 1: Foundation understanding
-- Month 2-3: Building simple projects
-- Month 4+: Tackling complex problems
-
----
-
-### Q20: What's the best way to learn from this course?
-
-**A:** Active learning is key. Here's a proven approach:
-
-**1. Watch & Take Notes** (30%)
-- Don't just passively watch
-- Pause and write down key concepts
-- Draw diagrams
-- Write in your own words
-
-**2. Code & Experiment** (50%)
-- Type code yourself (don't copy-paste)
-- Run examples
-- Modify code to see what happens
-- Debug errors
-
-**3. Practice Problems** (20%)
-- Solve assignments
-- Try additional problems
-- Review your mistakes
-- Reflect on what you learned
-
-**Golden formula:**
-```
-Passive Watching: 10% retention
-Active Coding: 80% retention
-Teaching Others: 95% retention
-
-Try to do all three!
-```
-
----
-
-## Summary
-
 ### Key Concepts to Remember:
 
 1. **AI is transformative** - Like electricity, it will affect all industries
@@ -624,17 +531,3 @@ Try to do all three!
 6. **Supervised learning needs labels** - (input, output) pairs
 7. **Different architectures for different data** - CNN for images, RNN for sequences
 8. **Practice is essential** - Theory + Code + Experimentation
-
----
-
-## Recommended Next Steps:
-
-✅ Complete **Week 1** of the course
-✅ Understand **neural network basics**
-✅ Start **coding** in Python
-✅ Work through **practice assignments**
-✅ Build your first **neural network from scratch**
-
----
-
-*Good luck! The journey to mastering Deep Learning starts here.* 🚀
