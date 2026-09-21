@@ -1,7 +1,7 @@
 # Day 2: Introduction to Deep Learning - Concepts Explained
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 20, 2026  
 **Source:** DeepLearning.AI - Neural Networks and Deep Learning (Week 1)
 
 ---
