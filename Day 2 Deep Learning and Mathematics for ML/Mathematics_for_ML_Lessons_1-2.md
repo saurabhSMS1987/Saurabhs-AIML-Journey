@@ -1,12 +1,8 @@
 # Mathematics for Machine Learning - Lessons 1-2 (Concise)
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
-**Focus:** Essential concepts from Lessons 1-2 only
-
+**Date:** Sep 20, 2026  
 ---
-
-## Lesson 1: Systems of Equations & Matrices
 
 ### 1.1 What is a System of Linear Equations?
 
@@ -229,34 +225,6 @@ Do this for ALL 3 weights simultaneously
 
 ---
 
-## Key Concepts Summary
-
-### Lesson 1: Linear Algebra Foundation
-
-| Concept | What It Is | Why It Matters |
-|---------|-----------|----------------|
-| **Vector** | 1D list of numbers | One data point (features) |
-| **Matrix** | 2D grid of numbers | All data points together |
-| **Ax = b** | Matrix equation form | ML problem representation |
-| **Matrix multiplication** | Combining matrices | Neural network computation |
-
-**Simple example:**
-```
-House data (matrix) × Weights (vector) = Predictions (vector)
-       X            ×        w         =        y
-```
-
----
-
-### Lesson 2: Optimization
-
-| Concept | What It Is | Why It Matters |
-|---------|-----------|----------------|
-| **Cost function** | Measure of error | What we want to minimize |
-| **Derivative** | Rate of change | Shows which direction to move |
-| **Gradient descent** | Optimization algorithm | How to find best weights |
-| **Learning rate** | Step size | Controls optimization speed |
-
 **Simple example:**
 ```
 Cost goes down as we iterate:
@@ -353,16 +321,7 @@ y = Network(x)  (complex function with many layers)
      ↓
    Backpropagation = repeated use of chain rule
 ```
-
-**Same principles, just more complex!**
-
 ---
-
-## Essential Takeaways
-
-✅ **Lesson 1:** Data and predictions are matrix operations
-✅ **Lesson 2:** Finding best weights is an optimization problem
-✅ **Combined:** Matrix math + calculus = machine learning
 
 **The formula that drives everything:**
 ```
@@ -378,7 +337,3 @@ This one formula is used to train:
 - Neural networks
 - Deep learning models
 ```
-
----
-
-*Master these two lessons, and you understand the heart of machine learning.* 🚀
