@@ -196,16 +196,3 @@ Performance
 ✅ **Deep learning excels** with unstructured data (images, audio, text)  
 ✅ **Traditional ML** still better for structured data in some cases  
 
----
-
-## What's Next (Day 2 Continued)
-
-You'll learn:
-1. How to implement neural networks in Python
-2. Forward and backward propagation
-3. Gradient descent and optimization
-4. How to structure learning algorithms
-
----
-
-*The foundation is set. Let's build neural networks! 🚀*
