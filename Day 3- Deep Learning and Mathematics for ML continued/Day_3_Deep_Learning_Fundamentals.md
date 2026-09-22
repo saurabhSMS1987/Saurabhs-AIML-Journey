@@ -2,7 +2,7 @@
 
 **Course:** DeepLearning.AI - Neural Networks and Deep Learning (Week 2)  
 **Topic:** Neural Network Programming & Implementation  
-**Date:** 2026
+**Date:** Sep 21, 2026
 
 ---
 
