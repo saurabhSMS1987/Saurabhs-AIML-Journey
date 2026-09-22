@@ -1,7 +1,8 @@
 # Day 3: Mathematics Applied to ML & Deep Learning Fundamentals
 
 **Course:** DeepLearning.AI - Mathematical Foundations & Neural Network Programming  
-**Week:** 2 | **Date:** 2026
+**Week:** 1 | **Day:** 3
+**Date:** Sep 21, 2026
 
 ---
 
