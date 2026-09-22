@@ -1,4 +1,4 @@
-# Deep Learning Day 2: Neural Network Fundamentals & Binary Classification
+# Day 3: Deep Learning Day 2: Neural Network Fundamentals & Binary Classification
 
 **Course:** DeepLearning.AI - Neural Networks and Deep Learning (Week 2)  
 **Topic:** Neural Network Programming & Implementation  
