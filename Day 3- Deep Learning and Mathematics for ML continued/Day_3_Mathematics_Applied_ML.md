@@ -3,6 +3,7 @@
 **Course:** Mathematics for Machine Learning  
 **Topic:** Linear Algebra Applications in ML  
 **Date:** Sep 21, 2026
+**Resource:** DeepLearning.AI
 
 ---
 
