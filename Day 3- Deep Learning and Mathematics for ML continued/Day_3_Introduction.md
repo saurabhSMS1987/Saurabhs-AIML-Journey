@@ -66,27 +66,6 @@ Day 3 Deep Learning:
 
 ---
 
-## ⏱️ Time Commitment
-
-**Total:** 2-2.5 hours  
-**Format:** Detailed theory + practical examples  
-**Difficulty:** Intermediate (more technical than Day 2)
-
----
-
-## 📋 Topics Breakdown
-
-| Topic | Time | Focus |
-|-------|------|-------|
-| Systems of Equations | 15 min | How ML problems are formulated |
-| Logistic Regression | 15 min | Sigmoid & binary classification |
-| Forward Propagation | 15 min | Making predictions |
-| Backward Propagation | 15 min | Computing gradients |
-| Gradient Descent | 15 min | Training & optimization |
-| Vectorization | 15 min | Efficient computation |
-
----
-
 ## ✅ What You'll Be Able to Do
 
 After Day 3, you will:
