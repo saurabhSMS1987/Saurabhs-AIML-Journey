@@ -737,45 +737,6 @@ b ← b - α·db
 
 ---
 
-## ✅ Learning Checklist
-
-After Deep Learning Day 2, you should be able to:
-
-- [ ] Explain binary classification problem
-- [ ] Describe how sigmoid converts to probabilities
-- [ ] Compute cost/loss for predictions
-- [ ] Understand forward propagation
-- [ ] Understand backward propagation
-- [ ] Implement gradient descent manually
-- [ ] Vectorize operations for efficiency
-- [ ] Train a logistic regression classifier
-- [ ] Make predictions on new data
-
----
-
-## 🔗 Connection to Full Course
-
-```
-Day 1: Deep Learning Concepts (What & Why)
-  ├─ What are neural networks
-  ├─ Why deep learning matters
-  └─ High-level overview
-
-Day 2: Neural Network Fundamentals (TODAY)
-  ├─ Binary classification
-  ├─ Logistic regression
-  ├─ Forward & backward propagation
-  └─ Gradient descent training
-  
-Days 3+: Extending the Model
-  ├─ Multiple outputs (multiclass)
-  ├─ Hidden layers (deep networks)
-  ├─ Advanced architectures (CNN, RNN)
-  └─ Real-world applications
-```
-
----
-
 ## 💡 Key Insights
 
 **Insight 1:**
@@ -799,37 +760,5 @@ seconds and hours. Always think in batches, not examples."
 
 ---
 
-## 🚀 Next Steps
-
-1. **Implement logistic regression** from scratch
-2. **Experiment with learning rates** - see impact on training
-3. **Add hidden layers** - move from logistic regression to neural networks
-4. **Handle multiclass** - extend from binary to multiple classes
-5. **Apply to real data** - implement on actual datasets
-
----
-
-## 📚 Important Notes
-
-```python
-# Common mistakes to avoid:
-
-❌ Forgetting to divide by m in cost/gradients
-✅ Always use (1/m) for averaging
-
-❌ Using loops instead of vectorization
-✅ Always vectorize operations
-
-❌ Learning rate too large or too small
-✅ Start with 0.001-0.01 and adjust
-
-❌ Not initializing weights
-✅ Always initialize before training
-
-❌ Checking accuracy on training set only
-✅ Always test on separate validation set
-```
-
----
 
 *Master binary classification and gradient descent, and you understand how all neural networks learn.* 🚀
