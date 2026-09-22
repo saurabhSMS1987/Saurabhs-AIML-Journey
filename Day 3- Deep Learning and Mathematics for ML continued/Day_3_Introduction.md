@@ -2,6 +2,7 @@
 
 **Course:** DeepLearning.AI - Mathematical Foundations & Neural Network Programming  
 **Week:** 1 | **Day:** 3
+
 **Date:** Sep 21, 2026
 
 ---
