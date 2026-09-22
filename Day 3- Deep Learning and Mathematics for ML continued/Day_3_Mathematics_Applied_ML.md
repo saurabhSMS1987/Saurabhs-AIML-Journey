@@ -2,7 +2,7 @@
 
 **Course:** Mathematics for Machine Learning  
 **Topic:** Linear Algebra Applications in ML  
-**Date:** 2026
+**Date:** Sep 21, 2026
 
 ---
 
