@@ -1,9 +1,7 @@
 # Day 4: Prompt Engineering - Complete Guide
 
 **Author:** Saurabh Shirgaokar  
-**Date:** September 22, 2026  
-**Level:** Beginner to Intermediate  
-**Duration:** 45-60 minutes
+**Date:** September 22, 2026
 
 ---
 
@@ -795,29 +793,6 @@ Before hitting send on your prompt, check:
 ✓ Have I shown an example? (For complex tasks)
 ✓ Is it ready to execute? (Could AI do this with this prompt?)
 ```
-
----
-
-## Key Takeaways
-
-✅ **Specificity beats politeness** - Be detailed, not nice  
-✅ **Context matters** - AI needs background to help  
-✅ **Format is important** - Specify exactly how you want output  
-✅ **Examples clarify** - Show what you mean  
-✅ **Iteration improves** - Refine based on results  
-✅ **Applies everywhere** - Works with all AI tools  
-✅ **It's a skill** - Gets better with practice  
-✅ **It's valuable** - Sets you apart professionally  
-
----
-
-## What's Next?
-
-**Immediate:** Practice these techniques on your work  
-**Week 1:** Build a personal prompt library  
-**Month 1:** Share best practices with colleagues  
-**Ongoing:** Continuously refine your prompts  
-
 ---
 
 *Prompt Engineering is not magic. It's a learnable skill that multiplies your productivity with AI.* 🚀
