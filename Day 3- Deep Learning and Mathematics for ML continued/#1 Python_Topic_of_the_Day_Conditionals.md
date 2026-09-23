@@ -1,10 +1,9 @@
 # Python Topic of the Day #1: Conditional Statements
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 21, 2026  
 **Level:** Beginner  
 **Audience:** New learners wanting to understand Python basics  
-**Duration:** 30-45 minutes
 
 ---
 
@@ -839,27 +838,6 @@ if day == "Saturday" or day == "Sunday":
 else:
     print("It's a weekday")
 ```
-
----
-
-## What's Next?
-
-After mastering conditional statements:
-1. Learn **loops** (repeat code multiple times)
-2. Learn **functions** (organize reusable code)
-3. Learn **lists** (store multiple values)
-4. Combine all three for powerful programs!
-
----
-
-## Tips for Success
-
-✅ **Practice writing conditions** - Start simple, build complexity  
-✅ **Test edge cases** - What happens at boundaries? (18 years old, 0, negative)  
-✅ **Read code carefully** - Make sure logic matches your intention  
-✅ **Use meaningful variable names** - `is_student` is clearer than `x`  
-✅ **Comment your conditions** - Explain complex logic  
-✅ **Indent consistently** - Use 4 spaces or 1 tab  
 
 ---
 
