@@ -2,7 +2,6 @@
 
 **Date:** September 23, 2026  
 **Topics:** AI Communication + Data Combination  
-**Duration:** 30-45 minutes
 
 ---
 
@@ -35,14 +34,6 @@ Today you learned **two complementary skills**:
 Write Clear Prompt → AI Generates Join Code → Combine Data Efficiently
    (Prompt Eng)     (Python Joins)          (Result!)
 ```
-
----
-
-## ⏱️ Time Investment
-
-**Prompt Engineering:** 30 min  
-**Python Joins:** 30-45 min  
-**Total:** 1-1.5 hours
 
 ---
 
