@@ -1,0 +1,6 @@
+# Day 4: Prompt Engineering & Python Joins
+# Python 3.8+
+
+pandas==2.0.3               # DataFrames and joins
+numpy==1.24.3               # Numerical computing
+jupyter==1.0.0              # Interactive notebooks
