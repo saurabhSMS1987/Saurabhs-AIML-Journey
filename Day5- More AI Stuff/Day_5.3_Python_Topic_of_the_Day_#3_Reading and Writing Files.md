@@ -3,8 +3,7 @@
 **Author:** Saurabh Shirgaokar  
 **Date:** 2026  
 **Level:** Beginner  
-**Audience:** New learners wanting to understand Python basics  
-**Duration:** 45-60 minutes
+**Audience:** New learners wanting to understand Python basics
 
 ---
 
@@ -806,38 +805,6 @@ with open('text.txt', 'r') as file:
 # 2. Add new field 'graduated': True/False
 # 3. Save modified JSON
 ```
-
----
-
-## Key Takeaways
-
-✅ **Always use "with" statement** - Automatic file closing  
-✅ **Choose right mode** - 'r' for read, 'w' for write, 'a' for append  
-✅ **Handle errors** - Files might not exist or be protected  
-✅ **Clean data** - Use .strip() to remove whitespace  
-✅ **Use right tools** - CSV for data, JSON for config, TXT for text  
-✅ **Process pipeline** - Read → Process → Save  
-
----
-
-## What's Next?
-
-After mastering file operations:
-1. Learn **databases** (permanent storage for large data)
-2. Learn **APIs** (read/write data from web services)
-3. Learn **automation** (process files automatically)
-4. Combine all for powerful data workflows!
-
----
-
-## Tips for Success
-
-✅ **Test file paths** - Make sure file exists before reading  
-✅ **Use absolute paths if needed** - `/Users/you/Documents/file.txt`  
-✅ **Backup originals** - Save a copy before modifying  
-✅ **Process step-by-step** - Test each operation  
-✅ **Log operations** - Save what you did  
-✅ **Document code** - Explain file operations  
 
 ---
 
