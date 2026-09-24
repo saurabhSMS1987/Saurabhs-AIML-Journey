@@ -2,8 +2,7 @@
 
 **Author:** Saurabh Shirgaokar  
 **Date:** September 23, 2026  
-**Topics:** 3 areas (Prompt Engineering Part 2 + AI Agents + Python Files)  
-**Duration:** 2-2.5 hours total
+**Topics:** 3 areas (Prompt Engineering Part 2 + AI Agents + Python Files) 
 
 ---
 
@@ -318,19 +317,6 @@ Complete automation workflow!
 
 ---
 
-## 📊 Time Breakdown
-
-```
-Part 1 (Prompt Engineering):   30-45 min
-Part 2 (AI Agents):            30-45 min
-Part 3 (Python Files):         45-60 min
-Practice & Implementation:     15-20 min
-─────────────────────────────────────────
-Total:                         2-2.5 hours
-```
-
----
-
 ## ✅ Learning Checklist
 
 **Prompt Engineering:**
@@ -375,27 +361,6 @@ Files are the bridge between programs
 Read → Process → Write
 Fundamental to all data work
 ```
-
----
-
-## 🚀 Immediate Applications
-
-### This Week
-- [ ] Master prompt refinement (3-4 iterations)
-- [ ] Sign up for Open Router (free tier)
-- [ ] Create n8n account
-- [ ] Build test agent
-- [ ] Practice file operations
-
-### Next Week
-- [ ] Build customer support agent
-- [ ] Build content generation agent
-- [ ] Automate data processing with Python + files
-
-### Week 3+
-- [ ] Deploy production agents
-- [ ] Measure business impact
-- [ ] Scale automation
 
 ---
 
@@ -455,31 +420,6 @@ import csv
 import json
 # ... json operations
 ```
-
----
-
-## Summary
-
-**Day 5 = Theory → Building**
-
-- ✅ Master prompt engineering principles
-- ✅ Build AI agents (no coding)
-- ✅ Process data with Python files
-- ✅ Create 24/7 automation
-- ✅ Deliver business value
-
-**Result:** From prompt engineer to AI builder + data processor
-
----
-
-## Next Steps
-
-1. **Review** prompt engineering principles
-2. **Build** first agent in n8n
-3. **Practice** file operations
-4. **Combine** all three skills
-5. **Deploy** automation
-
 ---
 
 *Day 5 transforms you from understanding AI to building with AI.* 🚀
