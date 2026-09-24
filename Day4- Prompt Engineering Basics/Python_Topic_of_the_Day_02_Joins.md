@@ -829,25 +829,4 @@ departments = pd.DataFrame({
 
 ---
 
-## What's Next?
-
-After mastering joins:
-1. Learn **groupby** (group data by categories)
-2. Learn **filtering** (select specific rows)
-3. Learn **aggregation** (calculate summaries)
-4. Combine all for powerful data analysis!
-
----
-
-## Tips for Success
-
-✅ **Practice with real data** - Use CSV files or APIs  
-✅ **Visualize joins** - Draw diagrams to understand data flow  
-✅ **Test different join types** - See which gives desired results  
-✅ **Always check your results** - Verify row counts after joins  
-✅ **Handle NaN values** - Don't ignore missing data  
-✅ **Document your joins** - Comment why you chose that join type  
-
----
-
 *Joins are fundamental to data manipulation. Master them, and you can combine any data sources!* 🚀
