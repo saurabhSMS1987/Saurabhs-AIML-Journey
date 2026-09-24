@@ -1,0 +1,6 @@
+# Day 5: Advanced Prompt Engineering & Building AI Agents
+# Python 3.8+
+
+requests==2.31.0            # API calls to Open Router
+python-dotenv==1.0.0        # Manage API keys safely
+jupyter==1.0.0              # Interactive notebooks
