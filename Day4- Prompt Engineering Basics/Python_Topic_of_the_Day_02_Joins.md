@@ -1,10 +1,7 @@
 # Python Topic of the Day #2: Joins in Python
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
-**Level:** Beginner  
-**Audience:** New learners wanting to understand Python basics  
-**Duration:** 45-60 minutes
+**Date:** Sep 22, 2026  
 
 ---
 
