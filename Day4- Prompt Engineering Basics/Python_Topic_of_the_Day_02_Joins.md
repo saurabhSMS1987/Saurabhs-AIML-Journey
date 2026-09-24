@@ -1,10 +1,7 @@
 # Python Topic of the Day #2: Joins in Python
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
-**Level:** Beginner  
-**Audience:** New learners wanting to understand Python basics  
-**Duration:** 45-60 minutes
+**Date:** Sep 22, 2026  
 
 ---
 
@@ -829,27 +826,6 @@ departments = pd.DataFrame({
 ✅ **Choose the right join type** for your data  
 ✅ **Handle missing values** after joins with NaN  
 ✅ **Be explicit** with join specifications  
-
----
-
-## What's Next?
-
-After mastering joins:
-1. Learn **groupby** (group data by categories)
-2. Learn **filtering** (select specific rows)
-3. Learn **aggregation** (calculate summaries)
-4. Combine all for powerful data analysis!
-
----
-
-## Tips for Success
-
-✅ **Practice with real data** - Use CSV files or APIs  
-✅ **Visualize joins** - Draw diagrams to understand data flow  
-✅ **Test different join types** - See which gives desired results  
-✅ **Always check your results** - Verify row counts after joins  
-✅ **Handle NaN values** - Don't ignore missing data  
-✅ **Document your joins** - Comment why you chose that join type  
 
 ---
 
