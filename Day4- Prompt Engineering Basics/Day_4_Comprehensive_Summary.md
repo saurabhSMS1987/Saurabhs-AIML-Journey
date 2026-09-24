@@ -3,7 +3,6 @@
 **Author:** Saurabh Shirgaokar  
 **Date:** September 23, 2026  
 **Topics:** Prompt Engineering + Python Joins  
-**Level:** Beginner to Intermediate
 
 ---
 
