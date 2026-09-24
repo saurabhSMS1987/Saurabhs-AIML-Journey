@@ -31,7 +31,6 @@ Together: Master AI-assisted data work!
 ## 1️⃣ PROMPT ENGINEERING & AI TOOLS
 
 **Topics:** 6 essential elements + 4 real-world applications  
-**Time:** 60-75 minutes  
 **Document:** `Day_4_Prompt_Engineering_Guide.md`
 
 ### What You Learned:
