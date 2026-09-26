@@ -1,4 +1,4 @@
-# Simple Linear Regression Notebook: Quick Breakdown
+# Simple Linear Regression Notebook: My first Linear Regression Model
 
 **Goal:** Predict GPA from SAT scores using linear regression
 
@@ -134,50 +134,6 @@ P-value (SAT):           0.001   (Highly significant - SAT matters!)
 Prob (F-statistic):      7.20e-11 (Model is statistically significant)
 ```
 
----
 
-## What the Code Doesn't Check (Important!)
 
-⚠️ **Assumptions not verified in this notebook:**
-- Linearity (assumed but should verify)
-- Normality of errors
-- Homoscedasticity (constant variance)
-- Multicollinearity (only 1 predictor, so not an issue)
-- Autocorrelation
-
-**To do this, you'd add:**
-```python
-# Plot residuals
-plt.scatter(yhat, results.resid)
-plt.xlabel('Fitted values')
-plt.ylabel('Residuals')
-plt.show()
-```
-
----
-
-## Summary
-
-| What | How | Result |
-|---|---|---|
-| **Predict** | Y from X | GPA from SAT |
-| **Method** | OLS | Minimize squared errors |
-| **Equation** | ŷ = b₀ + b₁x | GPA = 0.275 + 0.0017*SAT |
-| **Strength** | R² | 0.406 (moderate fit) |
-| **Significance** | P-value | 0.001 (very significant) |
-
----
-
-## One-Liner
-
-This notebook builds a regression model to predict college GPA from SAT scores, showing that SAT explains ~40% of GPA variation, with each SAT point increasing GPA by 0.0017.
-
----
-
-## Next Steps
-
-1. ✅ Check OLS assumptions (add residual plots)
-2. ✅ Add more predictors (multiple regression)
-3. ✅ Cross-validate on test data
-4. ✅ Make predictions on new data
 
