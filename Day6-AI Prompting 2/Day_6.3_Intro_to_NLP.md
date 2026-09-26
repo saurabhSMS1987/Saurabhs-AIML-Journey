@@ -1,7 +1,7 @@
 # Day 6: Introduction to Natural Language Processing (NLP)
 
 **Author:** Saurabh Shirgaokar  
-**Date:** September 24, 2026  
+**Date:** September 25, 2026  
 **Topic:** Foundations of NLP  
 **Level:** Beginner to Intermediate
 
