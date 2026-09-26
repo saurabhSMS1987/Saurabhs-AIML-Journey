@@ -8,11 +8,11 @@
 ## What You'll Learn Today
 
 ```
-Day 5 (Prompt Engineering + AI Agents)
+Prompt Engineering + AI Agents
            ↓
-       Day 6 (Advanced Thinking + Language Processing + Your First Model)
+Advanced Thinking + Language Processing + Your First Model
            ↓
-Day 7+ (Multiple Regression + Advanced Models)
+Multiple Regression + Advanced Models
 ```
 
 ---
