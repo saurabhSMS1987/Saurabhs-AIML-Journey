@@ -1,7 +1,7 @@
 # Day 7: Model Context Protocol (MCP) - Part 1
 
 **Topics:** Introduction to MCP | Understanding Protocol Architecture | Real-World Applications  
-**Duration:** 45-60 minutes  
+**Date:** Sep 25, 2026  
 **Level:** Intermediate
 
 ---
