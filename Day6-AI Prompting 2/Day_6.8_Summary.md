@@ -1,12 +1,11 @@
 # Day 6 Summary: Advanced Thinking, Language, Data & Predictions
 
-**Topics Covered:** Chain of Thoughts | NLP | Pandas | Linear Regression  
-**Duration:** 55 minutes  
-**Level:** Beginner to Intermediate
+**Topics Covered:** Prompting Concepts | NLP | Pandas | Linear Regression  
+**Date:** Sep 25, 2026    
 
 ---
 
-## 1. Chain of Thoughts (CoT) 🧠
+## 1. Prompting Concepts 🧠
 
 **Concept:** Guide AI to think step-by-step before answering.
 
@@ -143,17 +142,6 @@ Step 4: Make Predictions (Regression)
 
 ---
 
-## Key Takeaways
-
-| Topic | Core Concept | Practical Use |
-|-------|--------------|---------------|
-| **CoT** | Guided reasoning | Better AI answers |
-| **NLP** | Language → numbers | Text analysis automation |
-| **Pandas** | File I/O & processing | Data pipeline foundation |
-| **Regression** | Y = b₀ + b₁*X | Prediction & forecasting |
-
----
-
 ## What You Can Do Now
 
 ✅ Ask AI complex questions with step-by-step prompts  
@@ -229,40 +217,6 @@ Day_6_Quick_Introduction.md
 requirements_day6.txt
   → All necessary packages
 ```
-
----
-
-## Progress Check
-
-**Before Day 7, you should know:**
-- ✅ How to prompt AI for better reasoning (CoT)
-- ✅ How to process text data (NLP basics)
-- ✅ How to read/write files efficiently (Pandas)
-- ✅ How to build a predictive model (Linear regression)
-
----
-
-## Looking Ahead: Day 7
-
-**Multiple Linear Regression**
-```
-Single:   GPA = b₀ + b₁*SAT
-Multiple: GPA = b₀ + b₁*SAT + b₂*Study_Hours + b₃*Sleep
-          ↓
-More predictors = Better predictions
-```
-
----
-
-## Bottom Line
-
-Day 6 transformed you from **question-asker** to **data scientist**. You now:
-1. Get better AI answers (CoT)
-2. Understand language data (NLP)
-3. Handle files professionally (Pandas)
-4. Build predictive models (Regression)
-
-**You're ready for more complex models!** 🚀
 
 ---
 
