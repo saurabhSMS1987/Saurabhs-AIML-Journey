@@ -1,7 +1,7 @@
-# Day 6: Introduction to Natural Language Processing (NLP)
+# Day 6.2: Introduction to Natural Language Processing (NLP)
 
 **Author:** Saurabh Shirgaokar  
-**Date:** September 24, 2026  
+**Date:** September 25, 2026  
 **Topic:** Foundations of NLP  
 **Level:** Beginner to Intermediate
 
@@ -467,33 +467,5 @@ vectors = vectorizer.fit_transform(documents)
 ✅ **Start simple (TextBlob), scale to advanced (Transformers)**  
 
 ---
-
-## Part 11: Immediate Next Steps
-
-**This Week:**
-- [ ] Learn text pre-processing
-- [ ] Practice tokenization and cleaning
-- [ ] Build simple sentiment analyzer
-
-**Next Week:**
-- [ ] Extract named entities from text
-- [ ] Classify documents into categories
-- [ ] Build NLP pipeline
-
-**Week 3-4:**
-- [ ] Create portfolio project
-- [ ] Real-world data analysis
-- [ ] Deploy solution
-
----
-
-## Summary
-
-**NLP is the bridge between human language and machine learning.**
-
-- **Start with basics:** Pre-processing (90% of the work!)
-- **Learn techniques:** Sentiment, NER, classification
-- **Apply to data:** Build real projects
-- **Scale up:** Use modern models (BERT, GPT)
 
 **Impact:** Automate language-based tasks at scale 🚀
