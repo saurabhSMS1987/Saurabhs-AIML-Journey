@@ -3,7 +3,6 @@
 **Author:** Saurabh Shirgaokar  
 **Date:** Sep 26, 2026  
 **Level:** Beginner to Intermediate  
-**Audience:** Data analysts and Python learners  
 
 ---
 
