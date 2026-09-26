@@ -1,4 +1,4 @@
-# Simple Linear Regression Notebook: Quick Breakdown
+# Simple Linear Regression Notebook: My first Linear Regression Model
 
 **Goal:** Predict GPA from SAT scores using linear regression
 
