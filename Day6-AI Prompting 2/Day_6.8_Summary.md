@@ -127,7 +127,7 @@ R-squared:         % of variation explained (0-1)
 ## Connection: The Complete Workflow
 
 ```
-Step 1: Think Better (CoT)
+Step 1: Think Better (AI Prompting)
         Ask AI the right way with step-by-step reasoning
 
 Step 2: Understand Text (NLP)
