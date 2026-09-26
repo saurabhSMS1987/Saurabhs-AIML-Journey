@@ -1,4 +1,4 @@
-# Day 7 Continued: Linear Regression Advanced Concepts
+# Day 7 Continued: Linear Regression Validation and Interpretation of the Model
 
 **Date:** September 26, 2026  
 **Topics:** Seaborn Visualization | Regression Tables | R² Decomposition | Model Assumptions  
