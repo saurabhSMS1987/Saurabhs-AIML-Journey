@@ -1,7 +1,7 @@
 # Day 6: Chain of Thoughts (CoT) - Advanced Prompting Technique
 
 **Author:** Saurabh Shirgaokar  
-**Date:** September 24, 2026  
+**Date:** September 25, 2026  
 **Topic:** Chain of Thoughts Prompting  
 **Level:** Intermediate
 
@@ -598,21 +598,6 @@ Q: [Your problem]
 | Decision making | Zero-Shot CoT | "Should we...? Think step by step" |
 | Debugging | Zero-Shot CoT | "Why fails? Walk through code step by step" |
 | Research writing | Zero-Shot CoT | "Analyze... Let's think systematically" |
-
----
-
-## Part 12: Next Steps
-
-**This Week:**
-- [ ] Practice zero-shot CoT on math problems
-- [ ] Try few-shot CoT with examples
-- [ ] Compare results with/without CoT
-- [ ] Measure accuracy improvement
-
-**Next Week:**
-- [ ] Combine CoT with prompt engineering principles
-- [ ] Use CoT in agents and automation
-- [ ] Create CoT templates for your workflows
 
 ---
 
