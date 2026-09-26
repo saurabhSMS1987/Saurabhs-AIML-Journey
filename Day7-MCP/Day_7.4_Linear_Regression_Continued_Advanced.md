@@ -2,8 +2,6 @@
 
 **Date:** September 26, 2026  
 **Topics:** Seaborn Visualization | Regression Tables | R² Decomposition | Model Assumptions  
-**Duration:** 60-75 minutes  
-**Level:** Intermediate
 
 ---
 
