@@ -1,7 +1,7 @@
 # Regression Analysis: Concept Guide
 
-**Author:** Based on 365DataScience Course Notes  
-**Level:** Beginner  
+**Author:** Based on 365DataScience Course Notes
+**Date:** Sep 25, 2026  
 
 ---
 
