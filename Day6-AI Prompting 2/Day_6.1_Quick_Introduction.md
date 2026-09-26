@@ -1,7 +1,7 @@
 # Day 6: Advanced Concepts & First Regression Model
 
 **Date:** Sep 25, 2026  
-**Topics:** Chain of Thoughts | Intro to NLP | Simple Linear Regression  
+**Topics:** AI Prompting Concepts | Intro to NLP | Simple Linear Regression  
 
 ---
 
@@ -19,7 +19,7 @@ Multiple Regression + Advanced Models
 
 ## Today's Four Topics
 
-### **1. Chain of Thoughts (CoT)** 🧠
+### **1. AI Prompting Concepts ** 🧠
 
 **What:** Guide AI to think step-by-step before answering.
 
