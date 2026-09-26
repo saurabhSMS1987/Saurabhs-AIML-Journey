@@ -1,8 +1,7 @@
-# Regression Analysis: Quick Visual Guide
+# Regression Analysis: Concept Guide
 
 **Author:** Based on 365DataScience Course Notes  
 **Level:** Beginner  
-**Duration:** 10-15 minute read
 
 ---
 
@@ -242,31 +241,6 @@ Step 3: Make predictions
     New house with 2200 sq ft:
     ŷ = 50 + 0.1*(2200) = $270k
 ```
-
----
-
-## Quick Checklist Before Using Regression
-
-```
-Before building a regression model:
-
-□ Is there a linear relationship? (Scatter plot)
-□ Do I have enough data? (n > 30 recommended)
-□ Are variables correctly measured?
-□ Any obvious outliers?
-□ Missing values handled?
-□ Variables on reasonable scale?
-
-Before trusting results:
-
-□ Is R² reasonable for my domain?
-□ Are p-values significant?
-□ Do coefficients make sense?
-□ Residuals approximately normal?
-□ No multicollinearity?
-□ Model passes diagnostic checks?
-```
-
 ---
 
 ## Key Formulas Summary
@@ -343,13 +317,5 @@ KEY USE: ŷ = b₀ + b₁*x predicts new values
 ```
 
 ---
-
-## Next Steps
-
-1. **Understand the equation** - What each term means
-2. **Check assumptions** - All 5 must hold
-3. **Interpret metrics** - R², p-values, coefficients
-4. **Make predictions** - Use the regression line
-5. **Validate results** - Compare to reality
 
 *Regression analysis is the foundation of predictive modeling. Master it!* 📊
