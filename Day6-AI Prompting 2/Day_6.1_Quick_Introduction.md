@@ -1,9 +1,7 @@
 # Day 6: Advanced Concepts & First Regression Model
 
-**Date:** 2026  
+**Date:** Sep 25, 2026  
 **Topics:** Chain of Thoughts | Intro to NLP | Simple Linear Regression  
-**Duration:** 30-45 minutes  
-**Level:** Beginner
 
 ---
 
