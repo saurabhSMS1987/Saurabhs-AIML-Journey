@@ -1,27 +1,25 @@
 # Day 6: Advanced Concepts & First Regression Model
 
-**Date:** 2026  
-**Topics:** Chain of Thoughts | Intro to NLP | Simple Linear Regression  
-**Duration:** 30-45 minutes  
-**Level:** Beginner
+**Date:** Sep 25, 2026  
+**Topics:** AI Prompting Concepts | Intro to NLP | Simple Linear Regression  
 
 ---
 
 ## What You'll Learn Today
 
 ```
-Day 5 (Prompt Engineering + AI Agents)
+Prompt Engineering + AI Agents
            ↓
-       Day 6 (Advanced Thinking + Language Processing + Your First Model)
+Advanced Thinking + Language Processing + Your First Model
            ↓
-Day 7+ (Multiple Regression + Advanced Models)
+Multiple Regression + Advanced Models
 ```
 
 ---
 
 ## Today's Four Topics
 
-### **1. Chain of Thoughts (CoT)** 🧠
+### **1. AI Prompting Concepts ** 🧠
 
 **What:** Guide AI to think step-by-step before answering.
 
@@ -193,51 +191,11 @@ plt.plot(x1, yhat)                 # Plot line
 
 | Topic | Concept | Use Case |
 |-------|---------|----------|
-| **CoT** | Guide AI reasoning | Complex problems, decisions |
+| **AI Prompting** | Guide AI reasoning | Complex problems, decisions |
 | **NLP** | Process language | Customer reviews, chatbots, sentiment |
 | **Pandas** | Read/write data | CSV, Excel, JSON files efficiently |
 | **Regression** | Predict outcomes | Forecast values from data |
 
----
-
-## Practical Workflow
-
-```
-Day 5: Ask AI the right way (Prompting)
-       ↓
-Day 6: Understand language (NLP) + Handle data (Pandas) + Predict (Regression)
-       ↓
-Day 7: Build complex models (Multiple Regression)
-```
-
----
-
-## What You'll Build Today
-
-✅ **Chain of Thought Examples** - Step-by-step reasoning prompts  
-✅ **NLP Pipeline** - Sentiment analysis on text  
-✅ **Pandas Operations** - Read/write/process data files  
-✅ **Your First Regression Model** - Predict GPA from SAT  
-
----
-
-## Files for Today
-
-```
-Day_6_Chain_of_Thoughts.md
-  └─ Zero-Shot & Few-Shot CoT, 4 practical examples
-
-Day_6_Intro_to_NLP.md
-  └─ NLP pipeline, sentiment analysis, text vectorization
-
-Python_Topic_of_the_Day_04_Pandas.md
-  └─ Read/write CSV, Excel, JSON
-  └─ 5 practical examples, best practices, 30+ code snippets
-
-Day_7_Simple_Linear_Regression_Notebook_Brief.md
-  └─ Full walkthrough of regression notebook
-  └─ Code explanations, results, interpretations
-```
 
 ---
 
@@ -253,66 +211,11 @@ pip install pandas numpy matplotlib statsmodels
 
 ---
 
-## Quick Checklist
-
-```
-Day 6 Completion:
-
-CoT Section:
-□ Understand zero-shot vs few-shot
-□ Try 2-3 CoT examples yourself
-□ See 20-30% improvement in answers
-
-NLP Section:
-□ Know the 5-step NLP pipeline
-□ Try sentiment analysis on a review
-□ Understand vectorization concept
-
-Pandas Section:
-□ Read CSV, Excel, JSON files
-□ Filter and process data
-□ Write results to files
-□ Try 2 practical examples
-
-Regression Section:
-□ Run the notebook yourself
-□ Interpret the results
-□ Understand: y = b₀ + b₁*x
-□ Know R² and p-values
-```
-
----
-
-## Time Breakdown
-
-| Section | Time |
-|---------|------|
-| Chain of Thoughts | 8 min |
-| Intro to NLP | 10 min |
-| Python: Pandas | 12 min |
-| Linear Regression | 15 min |
-| Hands-on Practice | 10 min |
-| **Total** | **~55 min** |
-
----
-
 ## Why This Matters
 
 You're moving from **prompting AI** → **understanding language** → **handling data efficiently** → **predicting outcomes**. 
 
 This is the complete data science workflow! 📊
-
----
-
-## Next: Day 7
-
-```
-Multiple Regression
-(More predictors, better predictions)
-├─ Add more variables to model
-├─ Handle multiple independent variables
-└─ Build more powerful predictions
-```
 
 ---
 
