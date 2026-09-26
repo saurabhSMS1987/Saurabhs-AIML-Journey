@@ -1,4 +1,4 @@
-# Day 6: Chain of Thoughts (CoT) - Advanced Prompting Technique
+# Day 6.1: Advanced Prompting Technique
 
 **Author:** Saurabh Shirgaokar  
 **Date:** September 25, 2026  
