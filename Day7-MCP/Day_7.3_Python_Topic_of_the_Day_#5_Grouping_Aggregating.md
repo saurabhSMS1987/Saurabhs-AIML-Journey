@@ -1,10 +1,9 @@
 # Python Topic of the Day #5: Grouping and Aggregating Data
 
 **Author:** Saurabh Shirgaokar  
-**Date:** 2026  
+**Date:** Sep 26, 2026  
 **Level:** Beginner to Intermediate  
 **Audience:** Data analysts and Python learners  
-**Duration:** 45-60 minutes
 
 ---
 
@@ -625,36 +624,6 @@ df.groupby('City')['Sales'].sum().reset_index()
 # 3. Most visited pages
 # 4. Daily total views
 ```
-
----
-
-## Key Takeaways
-
-✅ **GroupBy = Split data into groups**  
-✅ **Aggregation = Calculate statistics on groups**  
-✅ **Most common: df.groupby('column')['value'].sum()**  
-✅ **Use .agg() for multiple operations**  
-✅ **Perfect for business analysis (sales by region, etc.)**  
-✅ **Always sort results for better insights**  
-
----
-
-## What's Next?
-
-After mastering grouping and aggregating:
-1. **Pivot tables** (rotate grouped data)
-2. **Window functions** (calculations within groups)
-3. **Time series analysis** (aggregate over time)
-4. **Machine learning** (features from grouped data)
-
----
-
-## Quick Stats
-
-- **Code Snippets:** 30+
-- **Examples:** 5 complete
-- **Functions Covered:** 20+
-- **Real-World Use Cases:** 10+
 
 ---
 
