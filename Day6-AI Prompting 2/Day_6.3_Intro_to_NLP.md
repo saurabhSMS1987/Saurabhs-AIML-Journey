@@ -1,4 +1,4 @@
-# Day 6: Introduction to Natural Language Processing (NLP)
+# Day 6.2: Introduction to Natural Language Processing (NLP)
 
 **Author:** Saurabh Shirgaokar  
 **Date:** September 25, 2026  
