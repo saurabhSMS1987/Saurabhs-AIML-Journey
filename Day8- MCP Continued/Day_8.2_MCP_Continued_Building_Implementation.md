@@ -2,7 +2,6 @@
 
 **Date:** September 27, 2026  
 **Topic:** MCP Part 2 - Building Custom MCP Servers  
-**Duration:** 90-120 minutes  
 **Level:** Intermediate to Advanced
 
 ---
@@ -837,33 +836,6 @@ def get_user_order_summary(user_id: int) -> dict:
 # 3. Chain calls together
 ```
 
-### Best Practices Summary:
-
-```
-✓ DO:
-├─ Use environment variables for secrets
-├─ Implement comprehensive error handling
-├─ Log important operations
-├─ Version your MCP server
-├─ Write unit tests
-├─ Document all tools
-├─ Use type hints
-├─ Validate all inputs
-├─ Rate limit if necessary
-└─ Cache expensive operations
-
-✗ DON'T:
-├─ Hardcode credentials
-├─ Return sensitive data in errors
-├─ Make assumptions about input
-├─ Ignore error cases
-├─ Mix business logic with transport
-├─ Deploy without testing
-├─ Use hardcoded paths
-├─ Make blocking calls
-└─ Expose internal errors to users
-```
-
 ---
 
 ## Lesson 5: Real-World Use Cases & Deployment
@@ -1080,76 +1052,6 @@ def database_query(query: str) -> list:
 
 ---
 
-## Integration Workflow Summary
-
-```
-Day 7 → Day 8 Progression:
-
-Day 7: Understanding MCP Architecture
-├─ What is MCP?
-├─ How does it work? (5-step workflow)
-└─ Why is it important?
-
-Day 8: Building MCP Servers
-├─ Lesson 1: Dev environment setup
-├─ Lesson 2: Practical demo with Claude Desktop
-├─ Lesson 3: Build custom servers step-by-step
-├─ Lesson 4: Advanced patterns (caching, async, composition)
-└─ Lesson 5: Real-world deployment
-
-Combined Knowledge:
-└─ You can now design, build, and deploy MCP servers
-    that extend Claude's capabilities for enterprise use
-```
-
----
-
-## Practical Checklist: Building Your First MCP
-
-```
-□ Step 1: Choose domain (database, files, API, analytics)
-□ Step 2: Design tools (what should it do?)
-□ Step 3: Set up development environment
-□ Step 4: Implement basic server
-□ Step 5: Test locally with Python
-□ Step 6: Configure for Claude Desktop
-□ Step 7: Test integration with Claude
-□ Step 8: Add error handling
-□ Step 9: Implement logging
-□ Step 10: Deploy to cloud (optional)
-□ Step 11: Monitor and maintain
-□ Step 12: Share/document server
-```
-
----
-
-## Key Takeaways
-
-### What You've Learned:
-
-1. **Architecture**: How MCP servers are structured
-2. **Implementation**: How to build working servers
-3. **Integration**: How to connect with Claude Desktop
-4. **Best Practices**: Security, error handling, testing
-5. **Real-World**: Enterprise use cases and deployment
-
-### What You Can Now Do:
-
-✅ Build custom MCP servers  
-✅ Extend Claude's capabilities for your domain  
-✅ Integrate enterprise systems with AI  
-✅ Deploy to production environments  
-✅ Monitor and maintain MCP servers  
-
-### Next Steps:
-
-→ Build your first MCP server  
-→ Deploy it and use with Claude  
-→ Share it with the community  
-→ Explore advanced patterns (streaming, batch processing, caching)
-
----
-
 ## Resources & Examples
 
 **Example Servers (GitHub):**
@@ -1165,13 +1067,4 @@ Combined Knowledge:
 
 **Community Resources:**
 - GitHub: MCP examples and servers
-- Discord: MCP community discussions
-- Blog: Implementation guides
-
----
-
-**Date:** September 27, 2026  
-**Topic:** MCP Continued - Building & Implementation  
-**Lessons:** 5 core lessons + 5 practical examples  
-**Outcome:** Ready to build production-grade MCP servers
 
