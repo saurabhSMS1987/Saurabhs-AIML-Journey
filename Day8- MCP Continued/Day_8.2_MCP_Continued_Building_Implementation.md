@@ -2,7 +2,6 @@
 
 **Date:** September 27, 2026  
 **Topic:** MCP Part 2 - Building Custom MCP Servers  
-**Duration:** 90-120 minutes  
 **Level:** Intermediate to Advanced
 
 ---
