@@ -1,9 +1,7 @@
-# Day 7: NLP Text Preprocessing Part 1 and Its Connection to Linear Regression
+# Day 7: NLP Text Preprocessing Part 1
 
 **Date:** September 26, 2026  
-**Source:** Day_7-_NLP_Text_Preprocessing_Part_1.pages  
 **Topic:** Text Preprocessing Fundamentals  
-**Duration:** 60-90 minutes  
 
 ---
 
@@ -842,89 +840,4 @@ E-commerce: Keep prices and ratings
 
 Context matters!
 ```
-
----
-
-## Summary Table: Preprocessing Steps & Regression Impact
-
-| Step | Action | Problem Solved | Regression Benefit |
-|------|--------|---|---|
-| **Lesson 1** | Environment | Dependency conflicts | Reproducibility |
-| **Lesson 2** | Lowercase | Artificial duplicates | No multicollinearity |
-| **Lesson 3** | Stop words | Noise features | Signal-to-noise ratio |
-| **Lesson 4** | Punctuation | Dimensionality | Fewer features |
-| **Lesson 5** | Regex | Complex patterns | Feature engineering |
-
----
-
-## Connection to Your Learning Journey
-
-```
-Day 7 Learning Progression:
-
-Morning: Linear Regression Deep Understanding
-├─ 7 lessons on coefficients, assumptions, interpretation
-└─ Understand what regression outputs mean
-
-Afternoon: NLP Text Preprocessing (This Content)
-├─ 5 lessons on text cleaning
-└─ Prepare text data FOR regression models
-
-Combined Impact:
-├─ You can now analyze TEXT data with regression
-├─ You understand data quality matters
-└─ You're ready for: Text → Numbers → Regression pipeline
-```
-
----
-
-## Key Takeaway
-
-> **Text preprocessing is NOT separate from statistical modeling—it's the foundation. Every step of preprocessing directly affects regression quality. Good preprocessing + simple model beats bad preprocessing + complex model.**
-
-This is why NLP preprocessing is critical for data scientists working with text data!
-
----
-
-## Files to Practice With
-
-```python
-# Example code to implement each lesson
-
-# Lesson 1: Setup
-# pip install nltk spacy pandas scikit-learn
-
-# Lesson 2: Lowercasing
-text = "Hello WORLD, how Are YOU?"
-cleaned = text.lower()
-
-# Lesson 3: Stop Words
-from nltk.corpus import stopwords
-stop_words = set(stopwords.words('english'))
-words = [w for w in text.split() if w not in stop_words]
-
-# Lesson 4: Punctuation
-import string
-text_clean = text.translate(str.maketrans('', '', string.punctuation))
-
-# Lesson 5: Regex
-import re
-emails = re.findall(r'[\w\.-]+@[\w\.-]+', text)
-```
-
----
-
-## Next Steps (Day 8+)
-
-- **NLP Part 2:** Tokenization, stemming, lemmatization
-- **Vectorization:** Convert text to numbers (TF-IDF, word embeddings)
-- **Text Regression:** Apply cleaned text to predict numerical targets
-- **Advanced Topics:** Sentiment analysis, topic modeling, text classification
-
----
-
-**Date:** September 26, 2026  
-**Topic:** NLP Text Preprocessing Connection to Linear Regression  
-**Learning Level:** Intermediate  
-**Time Investment:** 60-90 minutes
 
