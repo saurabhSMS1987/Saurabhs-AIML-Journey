@@ -1,0 +1,76 @@
+# Day 7 Complete Requirements
+# September 26, 2026
+# Covers: Linear Regression Advanced | Python #5 GroupBy | NLP Text Preprocessing Part 1
+
+# Core Data Science Stack
+pandas>=2.0.0           # Data manipulation, GroupBy operations, DataFrames
+numpy>=1.24.0          # Numerical computing, array operations
+
+# Visualization & Graphics
+matplotlib>=3.7.0      # Basic plotting, scatter plots, histograms
+seaborn>=0.12.0        # Statistical visualizations, regression plots, styling
+
+# Statistics & Regression Analysis
+statsmodels>=0.14.0    # OLS regression, summary tables, diagnostics (Lessons 2-4)
+scipy>=1.10.0          # Statistical tests, distributions, hypothesis testing
+
+# Natural Language Processing
+nltk>=3.8.1            # Natural Language Toolkit for preprocessing
+                       # - Tokenization
+                       # - Stop words removal
+                       # - POS tagging
+spacy>=3.6.0          # Advanced NLP library
+                       # - Tokenization
+                       # - Named entity recognition
+                       # - Lemmatization
+
+# Text Processing
+textblob>=0.17.1       # Simplified NLP operations, sentiment analysis
+
+# Machine Learning & Feature Engineering
+scikit-learn>=1.3.0    # ML algorithms, vectorizers (TF-IDF)
+                       # - LinearRegression alternative
+                       # - Feature scaling
+                       # - Model evaluation
+
+# Interactive Development
+jupyter>=1.0.0         # Jupyter notebooks (recommended for interactive analysis)
+ipython>=8.0.0         # Enhanced interactive shell
+
+# Optional but Recommended
+regex>=2023.0.0        # Advanced regular expressions (more powerful than re)
+nltk-data              # Data files for NLTK (download separately)
+
+# Installation Instructions:
+# pip install -r requirements_day7_complete.txt
+#
+# After installation, download NLTK data:
+# python -c "import nltk; nltk.download('stopwords'); nltk.download('tokenizers'); nltk.download('universal_tagset')"
+#
+# Download spaCy models:
+# python -m spacy download en_core_web_sm
+
+# Package Purposes by Day 7 Topic:
+#
+# TOPIC 1: Linear Regression Advanced (Lessons 1-7)
+# - matplotlib: Seaborn visualization (Lesson 1)
+# - seaborn: Beautiful regression plots
+# - statsmodels: Regression tables, diagnostics (Lesson 2-4)
+# - scipy: Statistical tests, hypothesis testing (Lesson 4)
+# - numpy: Mathematical computations
+#
+# TOPIC 2: Python #5 GroupBy & Aggregating
+# - pandas: GroupBy operations, aggregations
+# - numpy: Underlying numerical operations
+#
+# TOPIC 3: NLP Text Preprocessing Part 1 (Lessons 1-5)
+# - nltk: Stop words, tokenization, basic preprocessing (Lesson 3)
+# - spacy: Advanced preprocessing, lemmatization (Lesson 1 env setup)
+# - scikit-learn: TF-IDF vectorization, feature extraction
+# - textblob: Sentiment analysis, basic NLP
+# - regex: Advanced pattern matching (Lesson 5)
+# - pandas: Data handling for preprocessed text
+#
+# DEVELOPMENT TOOLS:
+# - jupyter: Interactive notebooks for exploration
+# - ipython: Enhanced Python shell
