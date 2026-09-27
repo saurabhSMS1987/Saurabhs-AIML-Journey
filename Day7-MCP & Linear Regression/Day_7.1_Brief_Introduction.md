@@ -2,8 +2,6 @@
 
 **Date:** September 26, 2026  
 **Theme:** Deepening Analytics & Data Processing  
-**Topics:** 4 major areas | **Duration:** ~180 minutes
-
 ---
 
 ## What We Covered Today
