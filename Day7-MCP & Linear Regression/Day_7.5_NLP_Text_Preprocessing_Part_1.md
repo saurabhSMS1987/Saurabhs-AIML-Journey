@@ -1,7 +1,6 @@
 # Day 7: NLP Text Preprocessing Part 1
 
 **Date:** September 26, 2026  
-**Source:** Day_7-_NLP_Text_Preprocessing_Part_1.pages  
 **Topic:** Text Preprocessing Fundamentals  
 
 ---
