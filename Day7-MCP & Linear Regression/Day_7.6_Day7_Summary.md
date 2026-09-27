@@ -1,4 +1,4 @@
-# Day 7: Concise Summary
+# Day 7: Summary
 
 **Date:** September 26, 2026
 
