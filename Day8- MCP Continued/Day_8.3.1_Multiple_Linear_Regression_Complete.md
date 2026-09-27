@@ -2,7 +2,6 @@
 
 **Date:** September 27, 2026  
 **Topic:** Multiple Linear Regression (More Than One Predictor)  
-**Duration:** 120-150 minutes  
 **Level:** Intermediate to Advanced  
 **Running Example:** Real Estate Price Prediction
 
@@ -1107,43 +1106,3 @@ Year built has no statistically significant effect."
 ❌ Extrapolating far beyond data range
 ✓ Predictions only valid in data range
 ```
-
----
-
-## Python Code Repository Structure
-
-```
-For Day 8 Practice:
-
-1. day8_multiple_regression.py
-   ├─ Load data
-   ├─ Fit models
-   ├─ Generate diagnostics
-   └─ Create plots
-
-2. day8_analysis.ipynb
-   └─ Interactive exploration
-      (like the provided notebook)
-
-3. real_estate_price_size_year.csv
-   └─ Running example dataset
-```
-
----
-
-## Next Steps (Day 9+)
-
-→ Polynomial regression (nonlinear relationships)  
-→ Feature engineering (create new variables)  
-→ Regularization (Ridge, Lasso - prevent overfitting)  
-→ Categorical variables (how to include qualitative data)  
-→ Time series regression (when observations are related)
-
----
-
-**Date:** September 27, 2026  
-**Topic:** Multiple Linear Regression - Complete Guide  
-**Lessons:** 5 core lessons + full practical implementation  
-**Example Dataset:** Real Estate (100 houses, 3 variables)  
-**Outcome:** Ready to build and validate multi-variable regression models
-
