@@ -1,4 +1,4 @@
-# Day 8: Brief Introduction
+# Day 8: Introduction
 
 **Date:** September 27, 2026  
 **Theme:** Building AI Tools & Advanced Data Analysis  
