@@ -1,0 +1,128 @@
+# Day 8 Requirements
+# September 27, 2026
+# Covers: MCP Continued (Building & Implementation) | Multiple Linear Regression | NLP Text Preprocessing Part 2
+
+# ==== CORE DATA SCIENCE STACK ====
+pandas>=2.0.0           # Data manipulation, DataFrames
+numpy>=1.24.0          # Numerical computing
+
+# ==== VISUALIZATION & PLOTTING ====
+matplotlib>=3.7.0      # Basic plots, regression visualizations
+seaborn>=0.12.0        # Statistical plots, heatmaps, regression plots
+
+# ==== STATISTICS & REGRESSION (Multiple Linear Regression) ====
+statsmodels>=0.14.0    # OLS regression, regression summary tables
+                       # - Model fitting and diagnostics
+                       # - F-tests, t-tests
+                       # - Model comparison (AIC/BIC)
+scipy>=1.10.0          # Statistical tests, distributions, hypothesis testing
+
+# ==== MACHINE LEARNING & PREPROCESSING ====
+scikit-learn>=1.3.0    # ML algorithms, feature engineering
+                       # - LinearRegression (alternative)
+                       # - train_test_split (validation)
+                       # - cross_val_score (cross-validation)
+                       # - VIF calculation
+                       # - Scaling, normalization
+
+# ==== NATURAL LANGUAGE PROCESSING (NLP Part 2) ====
+nltk>=3.8.1            # Natural Language Toolkit
+                       # - Tokenization (word_tokenize, sent_tokenize)
+                       # - POS tagging (pos_tag)
+                       # - Lemmatization (WordNetLemmatizer)
+                       # - Named Entity Recognition (ne_chunk)
+                       # - Stop words corpus
+
+spacy>=3.6.0          # Advanced NLP library
+                       # - Production-grade NER
+                       # - Lemmatization with context
+                       # - Dependency parsing
+                       # Model: en_core_web_sm (download separately)
+
+unidecode>=1.3.0       # Unicode to ASCII conversion
+                       # - Remove accents: "café" → "cafe"
+                       # - Handle international characters
+                       # - Text normalization
+
+textblob>=0.17.1       # Simplified NLP operations
+                       # - Sentiment analysis
+                       # - POS tagging
+                       # - Noun phrase extraction
+
+# ==== MCP (MODEL CONTEXT PROTOCOL) ====
+mcp>=0.1.0            # MCP Python SDK from Anthropic
+                       # - Server implementation
+                       # - Tool definitions
+                       # - Transport layer
+
+anthropic>=0.7.0       # Claude API client
+                       # - Integration with Claude
+                       # - API communication
+                       # - Tool use/function calling
+
+pydantic>=2.0.0        # Data validation and settings
+                       # - Type hints
+                       # - Model configuration
+                       # - JSON schema generation
+
+# ==== INTERACTIVE DEVELOPMENT ====
+jupyter>=1.0.0         # Jupyter notebooks
+ipython>=8.0.0         # Enhanced interactive shell
+
+# ==== OPTIONAL BUT RECOMMENDED ====
+regex>=2023.0.0        # Advanced regex (more powerful than re module)
+                       # - Unicode support
+                       # - Complex patterns
+
+# ==== ADVANCED/OPTIONAL ====
+# Uncomment if needed for production deployments:
+# python-dotenv>=1.0.0   # Environment variable management (for secrets/API keys)
+# gunicorn>=21.0.0       # WSGI HTTP server (for deploying MCP)
+# fastapi>=0.100.0       # FastAPI for HTTP transport (alternative to stdio)
+# uvicorn>=0.23.0        # ASGI server for FastAPI
+
+# ==== INSTALLATION INSTRUCTIONS ====
+# 
+# Basic installation:
+# pip install -r requirements_day8.txt
+#
+# After installation, download NLTK data:
+# python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('averaged_perceptron_tagger'); nltk.download('wordnet'); nltk.download('maxent_ne_chunker'); nltk.download('words')"
+#
+# Download spaCy models:
+# python -m spacy download en_core_web_sm
+#
+# For production MCP deployment:
+# pip install -r requirements_day8.txt python-dotenv gunicorn
+#
+
+# ==== PACKAGE PURPOSES BY DAY 8 TOPIC ====
+#
+# TOPIC 1: MCP Continued (Building & Implementation)
+# - mcp: MCP server framework
+# - anthropic: Claude API integration
+# - pydantic: Data validation for tool schemas
+# - python-dotenv: Environment variable management (optional)
+# - fastapi: HTTP transport for MCP (optional)
+# - gunicorn: Production server (optional)
+#
+# TOPIC 2: Multiple Linear Regression
+# - pandas: Data loading, manipulation, groupby
+# - numpy: Matrix operations, numerical computing
+# - statsmodels: OLS regression, diagnostics, model comparison
+# - scipy: Statistical tests (t-tests, F-tests)
+# - scikit-learn: Cross-validation, train-test split, VIF
+# - matplotlib: Diagnostic plots
+# - seaborn: Beautiful regression visualizations
+#
+# TOPIC 3: NLP Text Preprocessing Part 2
+# - nltk: Tokenization, POS tagging, lemmatization, NER
+# - spacy: Production-grade NER, advanced lemmatization
+# - unidecode: Accent removal, unicode normalization
+# - textblob: Sentiment analysis, simplified NLP
+# - regex: Advanced pattern matching (beyond standard re module)
+#
+# DEVELOPMENT TOOLS:
+# - jupyter: Interactive notebook experimentation
+# - ipython: Enhanced interactive shell
+#
