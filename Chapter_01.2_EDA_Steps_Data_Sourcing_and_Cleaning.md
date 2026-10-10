@@ -173,4 +173,4 @@ mindmap
 
 ---
 
-*Part of my Data Science & AI learning log.*
+*Coming up next is how to handle missing values with practical examples.*
