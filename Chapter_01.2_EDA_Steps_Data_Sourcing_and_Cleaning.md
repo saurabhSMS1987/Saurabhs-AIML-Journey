@@ -1,4 +1,4 @@
-# Chapter 1.1 — Steps in EDA: Data Sourcing & Data Cleaning
+# Chapter 1.2 — Steps in EDA: Data Sourcing & Data Cleaning
 
 > **Course:** Data Science & AI Masters 2026 — From Python to Gen AI
 > **Module:** Exploratory Data Analysis
