@@ -1,4 +1,4 @@
-# Chapter 1 — Exploratory Data Analysis (EDA): Theory
+# Chapter 1.1 — Exploratory Data Analysis (EDA): Theory
 
 > **Course:** Data Science & AI Masters 2026 — From Python to Gen AI
 > **Module:** Exploratory Data Analysis
