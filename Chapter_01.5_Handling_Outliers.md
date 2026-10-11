@@ -313,4 +313,4 @@ The **standard deviation (3-sigma) technique** is the most important and most re
 
 ---
 
-*Part of my Data Science & AI learning log.*
+*Upcoming Chapter will focus on types of data and types of analysis.*
