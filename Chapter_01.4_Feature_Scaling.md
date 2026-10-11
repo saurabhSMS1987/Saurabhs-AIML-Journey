@@ -319,4 +319,4 @@ Small differences come from rounding to two decimals in the manual calculation.
 
 ---
 
-*Part of my Data Science & AI learning log.*
+*Next is handling outliers and invalid data.*
