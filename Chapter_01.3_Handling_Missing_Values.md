@@ -270,4 +270,4 @@ flowchart TD
 
 ---
 
-*Part of my Data Science & AI learning log.*
+*Next we move onto Feature scaling.*
