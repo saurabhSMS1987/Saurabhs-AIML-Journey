@@ -313,4 +313,4 @@ The **standard deviation (3-sigma) technique** is the most important and most re
 
 ---
 
-*Upcoming Chapter will focus on feature binning and feature encoding.*
+*Upcoming Chapter talks about types of data and types of analysis.*
