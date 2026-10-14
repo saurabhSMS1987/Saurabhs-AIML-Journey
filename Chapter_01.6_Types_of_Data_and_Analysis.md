@@ -365,4 +365,4 @@ The same pattern is repeated for **Tenure** (`'Tenure by churn'`) and **Balance*
 
 ---
 
-*Part of my Data Science & AI learning log.*
+*Upcoming Chapter focuses on feature binning and feature encoding.*

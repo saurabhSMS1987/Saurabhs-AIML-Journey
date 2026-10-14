@@ -313,4 +313,4 @@ The **standard deviation (3-sigma) technique** is the most important and most re
 
 ---
 
-*Upcoming Chapter will focus on types of data and types of analysis.*
+*Upcoming Chapter talks about types of data and types of analysis.*
