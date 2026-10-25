@@ -88,9 +88,3 @@ print(f"Exception: {vendor} invoice of {amount} exceeds the approval limit")
 ## My reflection
 
 The duplicate-vendor example made this lecture click for me. To Python, `"ABC Supplies "` and `"abc supplies"` are different until I tell it otherwise, and most of my data cleaning is exactly that kind of telling. I also liked that strings cannot be changed in place. That feels a bit like an audit trail: the original stays as it was, and every change becomes a new version.
-
-Next, I want to practise:
-
-- [ ] Clean a vendor master list with `strip()` and `lower()`, then look for duplicates
-- [ ] Scan a set of journal entry descriptions for red-flag keywords
-- [ ] Split a pipe-delimited export and convert the amount field with `float()`
