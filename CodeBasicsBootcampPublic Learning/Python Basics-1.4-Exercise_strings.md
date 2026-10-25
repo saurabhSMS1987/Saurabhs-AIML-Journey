@@ -1,4 +1,4 @@
-# Exercise 3: Strings
+# Exercise 1: Strings
 
 *Oct 25, 2026 · Saurabh S*
 

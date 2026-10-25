@@ -1,4 +1,4 @@
-# Assignment 1: Variables, Numbers and Strings
+# Exercise Assignment 2: Variables, Numbers and Strings
 
 *Oct 25, 2026 · Saurabh S*
 
