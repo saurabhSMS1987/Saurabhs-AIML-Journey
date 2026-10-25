@@ -83,9 +83,3 @@ print(math.isclose(gl, tb))    # True
 ## My reflection
 
 The text-plus-text moment stayed with me. Python did exactly what I told it to do and gave a confident, wrong-looking answer, with no error message. In audit, that is the most dangerous kind of mistake, so checking types before totalling is now a habit I want to keep.
-
-Next, I want to practise:
-
-- [ ] Total a column of exported amounts after converting them with `float()`
-- [ ] Build a budget vs actual variance check with `round()`
-- [ ] Pick a systematic sample using `//` and `%`
