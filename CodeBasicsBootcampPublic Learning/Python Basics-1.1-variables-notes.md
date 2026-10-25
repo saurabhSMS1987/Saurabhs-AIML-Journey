@@ -75,8 +75,6 @@ _tax_rate = 0.18               # underscore start is allowed
 
 This lecture made Python feel less like a new language and more like a new way to write audit procedures I already do by hand. A small thing I noticed: the notebook spells it `above_thresold`. Python accepted it without complaint, which reminded me that the code only checks syntax, not judgment. That part is still my job.
 
-Next, I want to practise:
-
-- [ ] Rewrite one recurring Excel check as Python variables and a `bool` test
-- [ ] Convert a text-formatted amount column to `float` and confirm with `type()`
-- [ ] Rename my practice variables so a reviewer could read them without notes
+## Source
+ 
+These notes are based on the Variables lecture from the CodeBasics Python course.
