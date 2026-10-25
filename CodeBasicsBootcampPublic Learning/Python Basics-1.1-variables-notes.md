@@ -2,6 +2,10 @@
 
 *Oct 25, 2026 · Saurabh S*
 
+## Source
+ 
+These notes are based on the Variables lecture from the CodeBasics Python course.
+
 ## Where I started
 
 Lecture 1 was about variables: the labelled boxes Python uses to hold data. The course compared a variable to a soda can, a container that holds something, and that picture stuck with me. Once I could name a value, I could check its type, combine it with others and test it against a rule. That last part felt very familiar from audit work.
@@ -75,6 +79,4 @@ _tax_rate = 0.18               # underscore start is allowed
 
 This lecture made Python feel less like a new language and more like a new way to write audit procedures I already do by hand. A small thing I noticed: the notebook spells it `above_thresold`. Python accepted it without complaint, which reminded me that the code only checks syntax, not judgment. That part is still my job.
 
-## Source
- 
-These notes are based on the Variables lecture from the CodeBasics Python course.
+
