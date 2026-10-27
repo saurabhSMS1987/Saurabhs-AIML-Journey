@@ -1,6 +1,6 @@
 # Python Lists: My Lecture 4 Notes
 
-*Oct 25, 2026 · Saurabh S*
+*Oct 26, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** These notes are based on the **Lists** lecture from the **CodeBasics Python course**.
@@ -84,9 +84,3 @@ print(exceptions)             # [120000, 64000]
 ## My reflection
 
 Lists feel like the bridge between single values and real audit data. The `ValueError` from removing a missing item reminded me of a good audit habit: confirm something exists before acting on it. That is what `in` is for. I also noticed that `sort()` changes the original list. With source data, I'd want to keep an untouched copy first.
-
-Next, I want to practise:
-
-- [ ] Check a list of paid vendors against an approved vendor list
-- [ ] Find duplicate invoice numbers with `count()`
-- [ ] Sort a payments list and pull out the top five for testing
