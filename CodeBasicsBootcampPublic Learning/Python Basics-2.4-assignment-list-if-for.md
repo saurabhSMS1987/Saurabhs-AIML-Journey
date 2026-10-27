@@ -1,4 +1,4 @@
-# Assignment 2: Lists, If Conditions and For Loops
+# Assignment: Lists, If Conditions and For Loops
 
 *Oct 26, 2026 · Saurabh S*
 
