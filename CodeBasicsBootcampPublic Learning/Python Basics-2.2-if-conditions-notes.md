@@ -97,9 +97,3 @@ print(status)   # Lapsed
 ## My reflection
 
 The `input()` surprise connected straight back to Lecture 2. Data often looks like a number but arrives as text, so converting it comes before any test. I also liked how the `else` branch works as a safety net. In audit, the cases that match none of my rules are often the most interesting ones, so I want my code to report them instead of skipping them.
-
-Next, I want to practise:
-
-- [ ] Flag claims above an authority limit
-- [ ] Combine two red-flag conditions with `and`
-- [ ] Classify a list of perils as covered, excluded or unknown
