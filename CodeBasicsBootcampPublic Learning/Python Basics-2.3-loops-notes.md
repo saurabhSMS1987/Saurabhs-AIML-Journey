@@ -99,9 +99,3 @@ print(f"{i} claims paid ({paid}). Claim {i+1} would breach the aggregate limit."
 ## My reflection
 
 This lecture changed how I think about sampling. With a loop, testing all 10,000 claims takes no more effort than testing 25. I also need to think about `break` carefully. The sales example stopped at the first problem and never looked at the later months. In an audit, I usually want every exception, not just the first one. So I'll use `break` for searches and keep looping through everything for exception testing.
-
-Next, I want to practise:
-
-- [ ] Total the claims paid per policy with a `for` loop
-- [ ] Pair claims with sums insured using `zip` and list any overpayments
-- [ ] Use `enumerate` to report row numbers for every exception found
