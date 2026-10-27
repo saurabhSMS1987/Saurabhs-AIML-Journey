@@ -1,4 +1,4 @@
-# Python Lists: My Lecture 4 Notes
+# Python Lists: My Lecture Notes
 
 *Oct 26, 2026 · Saurabh S*
 
