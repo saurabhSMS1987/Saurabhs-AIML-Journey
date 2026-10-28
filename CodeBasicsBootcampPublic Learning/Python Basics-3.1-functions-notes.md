@@ -1,6 +1,6 @@
-# Python Functions: My Lecture 7 Notes
+# Python Functions: Notes
 
-*Oct 26, 2026 · Saurabh S*
+*Oct 27, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** These notes are based on the **Functions** lecture from the **CodeBasics Python course**.
@@ -91,9 +91,3 @@ claim_summary(claim_id="CL-1042", policy="P203", reserve=85000)
 ## My reflection
 
 Functions feel like the point where my code becomes something I can share. A well-named function with a docstring is like a documented audit procedure: a colleague can run it without knowing how it works inside. The `return` vs `print` difference also clicked for me. A test that only prints a result is like a finding nobody wrote down. Returning the value means I can collect it, total it and report on it.
-
-Next, I want to practise:
-
-- [ ] Write a loss ratio function and run it for three lines of business
-- [ ] Add docstrings to every function I write
-- [ ] Turn the Lecture 6 claim-flagging loop into a reusable function
