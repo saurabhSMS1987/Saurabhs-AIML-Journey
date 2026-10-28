@@ -1,6 +1,6 @@
-# Python File Handling: My Lecture 10 Notes
+# Python File Handling: Notes
 
-*Oct 26, 2026 · Saurabh S*
+*Oct 27, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** These notes are based on the **File Handling** lecture from the **CodeBasics Python course**.
@@ -103,9 +103,3 @@ else:
 ## My reflection
 
 The difference between `"w"` and `"a"` is the lesson I'll remember. One wrong letter, and a whole audit log is gone without any warning. So I'll use `"a"` for logs and `"w"` only for reports I mean to recreate, and I'll never write over the client's original extract. I was also pleased to catch the `tokens[1]` bug myself. Checking that the column you read is the one you meant is good practice in audit, not just in code.
-
-Next, I want to practise:
-
-- [ ] Read a real claims extract and profile claims by adjuster
-- [ ] Write an exception report to a text file
-- [ ] Add an append-only log that records every test I run
