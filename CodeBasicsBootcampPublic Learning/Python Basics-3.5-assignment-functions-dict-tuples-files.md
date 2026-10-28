@@ -1,6 +1,6 @@
-# Assignment 3: Functions, Dictionaries, Tuples and File Handling
+# Assignment: Functions, Dictionaries, Tuples and File Handling
 
-*Oct 26, 2026 · Saurabh S*
+*Oct 27, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** Assignment from the **CodeBasics Python course**, covering the Functions, Tuples and Dictionaries, and File Handling lectures.
