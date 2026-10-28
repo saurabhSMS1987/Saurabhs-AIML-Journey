@@ -1,4 +1,4 @@
-# Python Modules: My Lecture 9 Notes
+# Python Modules: Notes
 
 *Oct 26, 2026 · Saurabh S*
 
@@ -91,9 +91,3 @@ print(loss_ratios)   # [ 64.  127.8  74.5]
 ## My reflection
 
 NumPy was the eye-opener. The growth table that took a nested loop in earlier lectures took one line here. With claims data, that means I can compare whole quarters across every line and region at once and spend my time on the cells that stand out. I'm also learning that knowing what already exists, by exploring with `dir()` and reading the docs, is a skill in itself.
-
-Next, I want to practise:
-
-- [ ] Use `dir()` to explore the `statistics` module and find something useful for audit
-- [ ] Recalculate a sample of earned premiums with `calendar`, including a leap year
-- [ ] Build a NumPy table of claims by line and region and flag big movements
