@@ -1,4 +1,4 @@
-# Python Tuples and Dictionaries: My Lecture 8 Notes
+# Python Tuples and Dictionaries: Notes
 
 *Oct 27, 2026 · Saurabh S*
 
