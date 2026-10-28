@@ -1,6 +1,6 @@
 # Python Tuples and Dictionaries: My Lecture 8 Notes
 
-*Oct 26, 2026 · Saurabh S*
+*Oct 27, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** These notes are based on the **Tuples and Dictionaries** lecture from the **CodeBasics Python course**.
@@ -99,9 +99,3 @@ for policy, n in counts.items():
 ## My reflection
 
 Dictionaries are the first tool that feels like a real database lookup, and I can already see them replacing many of my VLOOKUPs. The `KeyError` vs `.get()` difference also matters for audit. A missing key isn't just a coding problem: it can be the finding itself, like a claim with no matching policy. So I'd rather catch it and report it than let the script crash.
-
-Next, I want to practise:
-
-- [ ] Build a policy-to-sum-insured dictionary and check claims against it
-- [ ] Count claims per policy and flag high-frequency policies
-- [ ] Write a function that returns loss, expense and combined ratios as a tuple
