@@ -1,9 +1,9 @@
-# Python Modules: Notes
+# Python Modules and Pip: Notes
 
 *Oct 26, 2026 · Saurabh S*
 
 > [!NOTE]
-> **Source:** These notes are based on the **Modules** lecture from the **CodeBasics Python course**.
+> **Source:** These notes are based on the **Modules and Pip** lecture from the **CodeBasics Python course**.
 
 ## Where I started
 
