@@ -127,9 +127,3 @@ except FileNotFoundError:
 ## My reflection
 
 This lecture changed how I see errors. In audit, an exception is often the finding itself: a non-numeric amount, a policy with zero premium, a payment above the limit. So the goal isn't to hide errors. It's to catch them, keep the test running and **record** what went wrong. Finding the two bugs in the lecture files also showed me something: error handling only helps if the code around it is correct too. A `finally` block can cause its own error.
-
-Next, I want to practise:
-
-- [ ] Load a messy claims extract and list the rows that fail to convert
-- [ ] Write a custom exception for a broken authority limit
-- [ ] Rewrite the lecture's file example with `with open()` so it handles a missing file properly
