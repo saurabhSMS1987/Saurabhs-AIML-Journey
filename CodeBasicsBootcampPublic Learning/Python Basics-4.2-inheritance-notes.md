@@ -105,9 +105,3 @@ for claim in [motor, health]:
 ## My reflection
 
 Inheritance felt like the biggest step in thinking so far. It's less about new syntax and more about organising rules sensibly. Firm-wide checks belong in the parent class, and line-specific checks belong in the child classes. When the firm-wide rule changes, I update it once. The missing `add_ace()` was a useful lesson too: when you restructure anything, whether code or an audit program, confirm that the new version still does everything the old one did.
-
-Next, I want to practise:
-
-- [ ] Build a `Claim` parent class with a `PropertyClaim` child for fire and flood rules
-- [ ] Move a shared check into the parent and confirm every child still uses it
-- [ ] Run one exception test across a mixed list of motor, health and property claims
