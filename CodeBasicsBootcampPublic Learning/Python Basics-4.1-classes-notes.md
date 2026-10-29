@@ -117,9 +117,3 @@ print(p.loss_ratio())   # 125.0: claims exceed premium
 ## My reflection
 
 Classes made me think about how I already organise audit work. Each claim file holds its facts, and every claim gets the same checks. A class puts that structure into code: the rules live in one place, and changing `authority_limit` once updates the check for every claim. The `__eq__`-by-age example was also a useful warning. Code can define "equal" any way it likes, so in audit I'll always check *what* is being compared, not just the result.
-
-Next, I want to practise:
-
-- [ ] Build a `Claim` class and load a few claims from a CSV into objects
-- [ ] Add a `__str__` so each claim prints as a readable working-paper line
-- [ ] Give the `Policy` class a method that lists every claim needing escalation
