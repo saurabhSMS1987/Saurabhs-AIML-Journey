@@ -1,4 +1,4 @@
-# Assignment 4: Classes, Inheritance and Exception Handling
+# Assignment: Classes, Inheritance and Exception Handling
 
 *Oct 28, 2026 · Saurabh S*
 
