@@ -1,4 +1,4 @@
-# Python Exception Handling: My Lecture 13 Notes
+# Python Exception Handling: Notes
 
 *Oct 28, 2026 · Saurabh S*
 
