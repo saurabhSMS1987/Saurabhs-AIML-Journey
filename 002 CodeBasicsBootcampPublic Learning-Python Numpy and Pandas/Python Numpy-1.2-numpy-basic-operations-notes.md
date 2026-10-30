@@ -97,9 +97,3 @@ print(np.sort(claim_charges)[-3:])               # [ 9200 18500 45000]: top thre
 ## My reflection
 
 `axis` was the idea that clicked for me. The same table answers two different audit questions: which provider is billing the most, and which month spiked. One small argument switches between them. The `dtype` example was a good warning too. NumPy dropped the cents without any error. With healthcare charges across thousands of claims, that's how a reconciliation ends up off by an amount nobody can explain. So I'll check `dtype` before trusting any totals.
-
-Next, I want to practise:
-
-- [ ] Build a provider-by-month billing table and total it both ways with `axis`
-- [ ] Flag length-of-stay outliers using the mean plus two standard deviations
-- [ ] Load a set of charges and confirm the `dtype` keeps the cents
