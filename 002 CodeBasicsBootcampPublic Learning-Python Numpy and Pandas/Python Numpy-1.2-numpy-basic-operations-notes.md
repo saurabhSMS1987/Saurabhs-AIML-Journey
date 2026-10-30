@@ -1,4 +1,4 @@
-# NumPy Basic Operations: My Lecture 15 Notes
+# NumPy Basic Operations: Notes
 
 *Oct 29, 2026 · Saurabh S*
 
