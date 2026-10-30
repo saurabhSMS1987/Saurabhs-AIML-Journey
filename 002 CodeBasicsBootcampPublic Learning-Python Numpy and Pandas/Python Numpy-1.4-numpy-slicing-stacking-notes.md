@@ -1,4 +1,4 @@
-# NumPy Slicing and Stacking: My Lecture 17 Notes
+# NumPy Slicing and Stacking: Notes
 
 *Oct 29, 2026 · Saurabh S*
 
