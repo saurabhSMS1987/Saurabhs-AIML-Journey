@@ -1,4 +1,4 @@
-# NumPy Introduction and Benefits: My Lecture 14 Notes
+# NumPy Introduction and Benefits: Notes
 
 *Oct 29, 2026 · Saurabh S*
 
