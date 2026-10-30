@@ -85,9 +85,3 @@ print(all_claims.sum())                # 2500000000
 ## My reflection
 
 The `l1 + l2` example will stay with me. Python gave a perfectly reasonable-looking answer that was completely wrong for my purpose, with no error at all. In audit terms, that's the most dangerous kind of mistake, so I'll convert amount lists to arrays before doing any maths. The speed test also made full-population testing feel realistic. If recalculating every claim takes a fraction of a second, there's often no reason to sample.
-
-Next, I want to practise:
-
-- [ ] Recalculate net payable (claim minus deductible) for a full claims extract
-- [ ] Re-perform a premium rate change and flag every policy that doesn't match
-- [ ] Time a list loop against NumPy on a large dataset myself
