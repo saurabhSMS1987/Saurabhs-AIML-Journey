@@ -1,4 +1,4 @@
-# NumPy Matrix Operations: My Lecture 16 Notes
+# NumPy Matrix Operations: Notes
 
 *Oct 29, 2026 · Saurabh S*
 
@@ -105,9 +105,3 @@ print(np.sum(variance))    # 1010.0 overpaid in total
 ## My reflection
 
 The dot product was the surprise of this lecture. Something I thought of as maths homework turns out to be a simple risk-scoring tool: flag each claim, weight the flags and rank the results. That is how audit teams decide where to look first. The element-wise examples also showed me how quickly re-performance becomes possible. Recalculating every provider's billing against its contracted rates takes one line, and the differences show up straight away.
-
-Next, I want to practise:
-
-- [ ] Recalculate expected billing from volumes and contracted rates, then compare to actual
-- [ ] Build a red-flag matrix for a sample of claims and rank them with `np.dot`
-- [ ] Check contractual discounts on a set of payments and total the variance
