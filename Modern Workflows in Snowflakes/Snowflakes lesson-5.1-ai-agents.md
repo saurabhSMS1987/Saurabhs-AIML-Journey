@@ -8,9 +8,6 @@
 
 A Cortex Agent is like a **custom ChatGPT connected to your own data and tools**. You build it once, give it a job, and people chat with it to get answers and get things done.
 
-> [!IMPORTANT]
-> **Name change:** Snowflake Intelligence, the chat app where users talk to agents, was renamed **Snowflake CoWork** in June 2026. The course video may still use the old name.
-
 ## Agent vs. Analyst
 
 | | Cortex Analyst | Cortex Agent |
