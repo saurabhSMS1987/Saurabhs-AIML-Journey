@@ -101,9 +101,3 @@ print(claims[claims[:, 1] == "P-778"])        # C-01 and C-03: same patient, amo
 ## My reflection
 
 The `hstack` example is the one I'll remember. It's essentially a VLOOKUP that doesn't look anything up: it trusts that both tables are already in the same order. In audit, that's exactly how a reconciliation goes wrong without anyone noticing, so I'll always check that the IDs line up first. Boolean filtering felt like the most immediately useful tool. One line pulls out every claim above a threshold or every zero-value charge, and that is the core of exception testing.
-
-Next, I want to practise:
-
-- [ ] Stack three months of claim extracts with `vstack` and total the population
-- [ ] Filter claims above a review threshold and claims with zero or negative charges
-- [ ] Find possible duplicate bills by filtering on patient ID and comparing date and amount
