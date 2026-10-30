@@ -1,4 +1,4 @@
-# Assignment 5: NumPy Exercise – Employee Happiness Survey
+# Assignment: NumPy – Employee Happiness Survey
 
 *Oct 29, 2026 · Saurabh S*
 
