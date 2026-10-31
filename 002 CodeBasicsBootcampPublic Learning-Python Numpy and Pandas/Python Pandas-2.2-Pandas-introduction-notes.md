@@ -123,8 +123,3 @@ print(claims.billed_usd.sum())                         # 161610.0: the real tota
 
 The side-by-side comparison made the case for pandas better than any explanation could. The more useful lesson for audit, though, came from the data itself. The mixed currencies and units in `movies.csv` are exactly what happens when extracts come from different systems, and pandas won't warn you before it adds thousands to dollars. The silently skipped *Sanju* rating was the same kind of lesson. So I'll check `isnull()` and the unit columns before trusting any total or average.
 
-Next, I want to practise:
-
-- [ ] Load a claims extract and check `shape`, `head()` and missing values first
-- [ ] Compare average length of stay for hospitals and clinics using filters
-- [ ] Standardise mixed units into one column before totalling billed amounts
