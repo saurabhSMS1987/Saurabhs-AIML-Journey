@@ -40,13 +40,25 @@ They didn't. Two date-format issues meant the course's monthly revenue view was 
 
 ### 1. Weekends are full; weekdays are half empty
 
-![Weekday vs weekend occupancy](images/01_weekday_weekend.png)
+```mermaid
+xychart-beta
+    title "Occupancy: weekday vs weekend (%)"
+    x-axis ["Weekday", "Weekend"]
+    y-axis "Occupancy (%)" 0 --> 100
+    bar [51.3, 73.6]
+```
 
 Occupancy is **73.6% at weekends but 51.3% on weekdays**, a 22-point gap. Weekdays hold 71% of all available room-nights, so that's where the empty rooms are. Each 5-point lift in weekday occupancy is worth roughly **8,200 bookings, about ₹10 Cr a quarter**.
 
 ### 2. Mumbai earns the most; Delhi fills the best
 
-![Revenue and occupancy by city](images/02_city_revenue_occupancy.png)
+```mermaid
+xychart-beta
+    title "Revenue realized by city (₹ Cr)"
+    x-axis ["Mumbai", "Bangalore", "Hyderabad", "Delhi"]
+    y-axis "Revenue (₹ Cr)" 0 --> 70
+    bar [66.9, 42.0, 32.5, 29.4]
+```
 
 | City | Hotels | Revenue | Share | Occupancy | RevPAR | Rating |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -59,7 +71,13 @@ Delhi has the fewest hotels but the **highest occupancy and ratings**, which poi
 
 ### 3. Guest ratings move almost perfectly with occupancy
 
-![Rating vs occupancy by property](images/03_rating_vs_occupancy.png)
+```mermaid
+xychart-beta
+    title "Occupancy by rating tier (%)"
+    x-axis ["Low tier (rating 2.34)", "Mid tier (rating 3.05)", "High tier (rating 4.28)"]
+    y-axis "Occupancy (%)" 0 --> 70
+    bar [44.6, 53.4, 66.0]
+```
 
 Across the 25 properties, average rating and occupancy are almost perfectly correlated (**r = 0.998**). The hotels fall into three clear tiers:
 
@@ -73,13 +91,25 @@ The four low-tier hotels are **Atliq Seasons and Atliq Bay (Mumbai), Atliq Exoti
 
 ### 4. Cancellations are the biggest revenue leak
 
-![Revenue generated vs realized by booking status](images/04_revenue_leakage.png)
+```mermaid
+xychart-beta
+    title "Where booked revenue went (₹ Cr)"
+    x-axis ["Checked out", "No show", "Cancelled: kept", "Cancelled: lost"]
+    y-axis "₹ Cr" 0 --> 150
+    bar [140.9, 10.0, 19.9, 29.9]
+```
 
 A quarter of bookings are cancelled, and a cancelled booking keeps exactly **40%** of its value. That leaves **₹29.9 Cr (14.9%) of booked value** never realized. No-shows are charged in full.
 
 ### 5. Only 15% of bookings come direct
 
-![Booking platform mix](images/05_platform_mix.png)
+```mermaid
+xychart-beta horizontal
+    title "Share of bookings by platform (%)"
+    x-axis ["others", "makeyourtrip", "logtrip", "direct online", "tripster", "journey", "direct offline"]
+    y-axis "Share of bookings (%)" 0 --> 45
+    bar [40.9, 20.0, 11.0, 9.9, 7.2, 6.0, 5.0]
+```
 
 Third-party platforms bring 85% of bookings, and "others" alone brings 41%. **Cancellation rates (about 25%) and ratings (3.62) are the same on every platform**, so moving bookings to direct channels mainly saves commission. It doesn't change guest behaviour.
 
@@ -133,13 +163,12 @@ atliq-hotels-analysis/
 ├── notebooks/
 │   ├── atliq_hotels_analysis_corrected.ipynb   <- my corrected and extended analysis (executed)
 │   └── course_exercise_solution.ipynb          <- the original course notebook, for reference
-├── images/                                     <- charts used in this README
 └── presentation/
     ├── AtliQ_Hotels_Insights.pptx              <- 11-slide deck with speaker notes
     └── AtliQ_Hotels_Insights.pdf               <- the same deck, viewable on GitHub
 ```
 
-The corrected notebook is saved **with its outputs**, so every table and chart can be read on GitHub without the data.
+The charts in this README are drawn with Mermaid, which GitHub renders directly from the text, so there are no image files to upload. The corrected notebook is saved **with its outputs**, so its tables and charts can also be read on GitHub without the data. Running the notebook saves PNG copies of the charts to an `images/` folder.
 
 ## How to run it
 
