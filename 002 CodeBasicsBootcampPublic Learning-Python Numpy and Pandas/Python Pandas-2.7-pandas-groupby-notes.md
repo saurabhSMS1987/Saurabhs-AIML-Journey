@@ -1,4 +1,4 @@
-# pandas Group By: My Lecture 22 Notes
+# pandas Group By: Notes
 
 *Oct 31, 2026 · Saurabh S*
 
