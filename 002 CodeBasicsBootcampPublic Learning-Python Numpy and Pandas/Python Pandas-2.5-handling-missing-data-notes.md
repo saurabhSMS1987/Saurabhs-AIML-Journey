@@ -1,4 +1,4 @@
-# Handling Missing Data in pandas: My Lecture 20 Notes
+# Handling Missing Data in pandas: Notes
 
 *Oct 30, 2026 · Saurabh S*
 
@@ -123,9 +123,3 @@ If billing for bed-days depends on the census, each method gives a different rev
 The "same gap, five answers" moment is what I'll remember. Filling missing data isn't neutral. Every method builds an assumption into the numbers, and in an audit, an assumption hidden inside the data is worse than an honest gap. My rule from now on: measure the gaps first, log the rows I drop, flag the values I fill, and never fill an amount with an average.
 
 The lecture code also reminded me that pandas keeps changing. `fillna(method="ffill")` now raises an error, so I'll check the version whenever older examples fail.
-
-Next, I want to practise:
-
-- [ ] Profile missing values by column on a real claims extract, as counts and percentages
-- [ ] Use `dropna(subset=...)` and keep a log of every row removed
-- [ ] Compare `ffill` and `interpolate` on a daily census, and document the choice
