@@ -1,4 +1,4 @@
-# Data Visualisation with Matplotlib and Seaborn: My Lecture 24 Notes
+# Data Visualisation with Matplotlib and Seaborn: Notes
 
 *Oct 31, 2026 · Saurabh S*
 
