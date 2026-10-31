@@ -1,4 +1,4 @@
-# Handling Missing Data with replace(): My Lecture 21 Notes
+# Handling Missing Data with replace(): Notes
 
 *Oct 30, 2026 · Saurabh S*
 
@@ -118,9 +118,3 @@ print(inv["quantity"].isnull().sum(), inv["amount"].eq(0).sum())   # 1 1: the ni
 This lecture changed how I look at "complete" data. An extract can have zero `NaN`s and still be full of missing information, hidden behind codes like `999999.99`, `9999-12-31` or `-1`. In a financial statement audit, those placeholders can inflate a balance or hide an unposted entry. So before I total anything, I'll ask the client which placeholder codes their system uses, and count them.
 
 The lecture's own choices were a good warning too. Replacing placeholders with `0`, or "no event" with "Sunny", quietly adds assumptions. In audit, every replacement should be documented, so a reviewer can see exactly what changed and why.
-
-Next, I want to practise:
-
-- [ ] Profile a GL extract for placeholder amounts and dates before totalling it
-- [ ] Build a mapping dictionary from client account names to FSLIs
-- [ ] Clean accounting-format amounts with `regex=True` and agree the total to the TB
