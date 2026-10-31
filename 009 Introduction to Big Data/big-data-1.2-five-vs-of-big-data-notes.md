@@ -1,4 +1,4 @@
-# The 5 Vs of Big Data: My Big Data Lecture 2 Notes
+# The 5 Vs of Big Data: My Big Data Notes
 
 *Oct 30, 2026 · Saurabh S*
 
