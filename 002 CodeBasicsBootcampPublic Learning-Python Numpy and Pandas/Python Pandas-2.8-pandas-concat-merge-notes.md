@@ -1,4 +1,4 @@
-# pandas Concat and Merge: My Lecture 23 Notes
+# pandas Concat and Merge: Notes
 
 *Oct 31, 2026 · Saurabh S*
 
