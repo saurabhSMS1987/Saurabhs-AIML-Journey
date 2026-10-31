@@ -1,4 +1,4 @@
-# pandas Introduction: My Lecture 18 Notes
+# pandas Introduction: Notes
 
 *Oct 30, 2026 · Saurabh S*
 
