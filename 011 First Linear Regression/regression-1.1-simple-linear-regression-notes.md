@@ -1,4 +1,4 @@
-# Simple Linear Regression: My Regression Lecture 1 Notes
+# Simple Linear Regression: My Regression: Notes
 
 *Oct 30, 2026 · Saurabh S*
 
