@@ -1,4 +1,4 @@
-# What Is Big Data? My Big Data Lecture 1 Notes
+# What Is Big Data? My Big Data: Notes
 
 *Oct 30, 2026 · Saurabh S*
 
