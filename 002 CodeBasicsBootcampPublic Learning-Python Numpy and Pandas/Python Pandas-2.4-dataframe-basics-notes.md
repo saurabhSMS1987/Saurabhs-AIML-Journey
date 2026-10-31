@@ -1,4 +1,4 @@
-# pandas DataFrame Basics: My Lecture 19 Notes
+# pandas DataFrame Basics: Notes
 
 *Oct 30, 2026 · Saurabh S*
 
@@ -115,9 +115,3 @@ print(claims["provider"].value_counts().head(2))   # City Hospital 2, Lakeside C
 ## My reflection
 
 The non-unique index surprised me most. I'm used to thinking of IDs as unique, so `df.loc['Snow']` returning two rows was a small shock. Then I realised that this is exactly how I'd want to pull every claim for one patient. The other lesson was the `'Sunny'` result. `max()` on text gave a confident answer to a question nobody asked, so I'll check that a column is numeric before summarising it.
-
-Next, I want to practise:
-
-- [ ] Run `describe()` on a claims extract and investigate anything far above the 75th percentile
-- [ ] Set `patient_id` as the index and look up claims for patients with several visits
-- [ ] Convert a text date column to real dates, since the lecture's `day` column was text
