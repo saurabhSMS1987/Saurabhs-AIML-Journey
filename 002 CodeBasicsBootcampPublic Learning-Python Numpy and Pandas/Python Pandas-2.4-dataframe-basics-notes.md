@@ -1,4 +1,4 @@
-# pandas DataFrame Basics: My Lecture 19 Notes
+# pandas DataFrame Basics: Notes
 
 *Oct 30, 2026 · Saurabh S*
 
