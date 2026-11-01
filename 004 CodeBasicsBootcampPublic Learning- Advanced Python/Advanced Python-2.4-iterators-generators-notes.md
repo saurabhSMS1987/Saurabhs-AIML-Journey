@@ -1,4 +1,4 @@
-# Iterators and Generators: My Advanced Python Notes
+# Iterators and Generators: Notes
 
 *Nov 1, 2026 · Saurabh S*
 
