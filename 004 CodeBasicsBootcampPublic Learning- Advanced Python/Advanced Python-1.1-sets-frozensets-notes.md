@@ -1,4 +1,4 @@
-# Python Sets and Frozensets: My Lecture 25 Notes
+# Python Sets and Frozensets: Notes
 
 *Nov 1, 2026 · Saurabh S*
 
