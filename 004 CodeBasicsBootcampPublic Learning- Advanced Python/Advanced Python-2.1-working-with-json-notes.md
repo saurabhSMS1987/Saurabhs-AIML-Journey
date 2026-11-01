@@ -1,4 +1,4 @@
-# Working with JSON in Python: My Advanced Python Notes
+# Working with JSON in Python: Notes
 
 *Nov 1, 2026 · Saurabh S*
 
