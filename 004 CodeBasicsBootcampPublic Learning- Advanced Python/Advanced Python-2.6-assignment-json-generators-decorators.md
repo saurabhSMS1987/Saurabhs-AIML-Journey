@@ -1,4 +1,4 @@
-# Advanced Python Assignment 2: JSON, Generators and Decorators
+# Advanced Python Assignment: JSON, Generators and Decorators
 
 *Nov 1, 2026 · Saurabh S*
 
