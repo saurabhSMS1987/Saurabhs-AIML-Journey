@@ -1,4 +1,4 @@
-# Advanced Python Assignment 1: Comprehensions and Sets
+# Advanced Python Assignment: Comprehensions and Sets
 
 *Nov 1, 2026 · Saurabh S*
 
