@@ -1,6 +1,6 @@
 # Takeaways: Functions, Dictionaries, Tuples, Modules and File Handling
 
-*Oct 26, 2026 · Saurabh S*
+*Oct 27, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** *Python Basics: Functions, Dictionaries, Tuples, File Handling – Takeaways* from the **CodeBasics Python course** ([codebasics.io](https://codebasics.io)).
