@@ -1,6 +1,6 @@
-# SMOTE (Synthetic Minority Oversampling): My Feature Engineering Notes
+# SMOTE (Synthetic Minority Oversampling): Notes
 
-*Nov 2, 2026 · Saurabh S*
+*Nov 3, 2026 · Saurabh S*
 
 > [!NOTE]
 > **Source:** These notes are based on the **SMOTE** lecture from **Krish Naik Academy**. SMOTE comes from the [imbalanced-learn library](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html).
