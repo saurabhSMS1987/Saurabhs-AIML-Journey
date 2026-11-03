@@ -1,4 +1,4 @@
-# Handling Missing Values: My Feature Engineering Notes
+# Handling Missing Values: Notes
 
 *Nov 2, 2026 · Saurabh S*
 
