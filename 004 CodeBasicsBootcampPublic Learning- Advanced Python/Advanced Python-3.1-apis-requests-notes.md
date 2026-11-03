@@ -1,4 +1,4 @@
-# Working with APIs Using `requests`: My Advanced Python Notes
+# Working with APIs Using `requests`: Notes
 
 *Nov 2, 2026 · Saurabh S*
 
