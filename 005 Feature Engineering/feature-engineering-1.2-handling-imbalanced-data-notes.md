@@ -1,9 +1,9 @@
-# Handling Imbalanced Datasets: My Feature Engineering Notes
+# Handling Imbalanced Datasets: Notes
 
 *Nov 2, 2026 · Saurabh S*
 
 > [!NOTE]
-> **Source:** These notes are based on the **Handling Imbalanced Dataset** lecture notebook from my data science course. Resampling uses scikit-learn's [`sklearn.utils.resample`](https://scikit-learn.org/stable/modules/generated/sklearn.utils.resample.html), and the class-weight alternative follows the [scikit-learn `LogisticRegression` documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).
+> **Source:** These notes are based on the **Handling Imbalanced Dataset** lecture notebook from my data science course by Krish Naik Acaedmy. Resampling uses scikit-learn's [`sklearn.utils.resample`](https://scikit-learn.org/stable/modules/generated/sklearn.utils.resample.html), and the class-weight alternative follows the [scikit-learn `LogisticRegression` documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).
 
 ## Where I started
 
