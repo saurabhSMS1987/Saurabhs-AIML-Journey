@@ -1,4 +1,4 @@
-# Handling Outliers: My Feature Engineering Notes
+# Handling Outliers: Notes
 
 *Nov 3, 2026 · Saurabh S*
 
