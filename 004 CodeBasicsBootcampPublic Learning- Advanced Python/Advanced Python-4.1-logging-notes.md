@@ -1,4 +1,4 @@
-# Logging in Python: My Advanced Python Notes
+# Logging in Python: Notes
 
 *Nov 2, 2026 · Saurabh S*
 
