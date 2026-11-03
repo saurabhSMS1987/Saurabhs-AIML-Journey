@@ -1,4 +1,4 @@
-# Handling Imbalanced Datasets: My Feature Engineering Notes
+# Handling Imbalanced Datasets: Notes
 
 *Nov 2, 2026 · Saurabh S*
 
