@@ -1,4 +1,4 @@
-# Building APIs with FastAPI: My Advanced Python Notes
+# Building APIs with FastAPI: Notes
 
 *Nov 2, 2026 · Saurabh S*
 
