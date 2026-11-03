@@ -1,4 +1,4 @@
-# Advanced Python Assignment 3: Working with APIs
+# Advanced Python Assignment: Working with APIs
 
 *Nov 2, 2026 · Saurabh S*
 
