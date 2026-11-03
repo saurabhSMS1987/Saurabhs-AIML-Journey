@@ -3,7 +3,7 @@
 *Nov 2, 2026 · Saurabh S*
 
 > [!NOTE]
-> **Source:** These notes are based on the **Handling Missing Values** lecture notebook from my data science course. The examples use the Titanic dataset that ships with the **seaborn** library.
+> **Source:** These notes are based on the **Handling Missing Values** lecture notebook from my data science course by Krish Naik Acaedmy. The examples use the Titanic dataset that ships with the **seaborn** library.
 
 ## Where I started
 
