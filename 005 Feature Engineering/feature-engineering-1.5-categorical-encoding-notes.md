@@ -1,4 +1,4 @@
-# Encoding Categorical Data: One-Hot, Label and Ordinal: My Feature Engineering Notes
+# Encoding Categorical Data: One-Hot, Label and Ordinal: Notes
 
 *Nov 3, 2026 · Saurabh S*
 
