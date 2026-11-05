@@ -3,7 +3,7 @@
 *Nov 4, 2026 · Saurabh S*
 
 > [!NOTE]
-> **Source:** These notes are based on the **Database Helper with MySQL** lecture from **Krish Naik Academy**. The runnable audit examples use Python's built-in [`sqlite3` module](https://docs.python.org/3/library/sqlite3.html) and [`contextlib`](https://docs.python.org/3/library/contextlib.html), so they work without a MySQL server. **Database credentials are masked in these notes.**
+> **Source:** These notes are based on the **Database Helper with MySQL** lecture from **Code Basics**. The runnable audit examples use Python's built-in [`sqlite3` module](https://docs.python.org/3/library/sqlite3.html) and [`contextlib`](https://docs.python.org/3/library/contextlib.html), so they work without a MySQL server. **Database credentials are masked in these notes.**
 
 ## Where I started
 
