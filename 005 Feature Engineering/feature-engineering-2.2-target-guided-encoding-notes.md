@@ -1,4 +1,4 @@
-# Target Guided Ordinal Encoding: My Feature Engineering Notes
+# Target Guided Ordinal Encoding: Notes
 
 *Nov 4, 2026 · Saurabh S*
 
