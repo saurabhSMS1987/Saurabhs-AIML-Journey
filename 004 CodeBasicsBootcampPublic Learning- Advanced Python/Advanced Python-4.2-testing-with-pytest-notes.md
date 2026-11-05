@@ -3,7 +3,7 @@
 *Nov 3, 2026 · Saurabh S*
 
 > [!NOTE]
-> **Source:** These notes are based on the **Unit Testing with pytest** lecture from **Krish Naik Academy**. Fixtures, `parametrize` and `approx` in the audit examples come from the [pytest documentation](https://docs.pytest.org/en/stable/how-to/index.html).
+> **Source:** These notes are based on the **Unit Testing with pytest** lecture from **CodeBasics**. Fixtures, `parametrize` and `approx` in the audit examples come from the [pytest documentation](https://docs.pytest.org/en/stable/how-to/index.html).
 
 ## Where I started
 
