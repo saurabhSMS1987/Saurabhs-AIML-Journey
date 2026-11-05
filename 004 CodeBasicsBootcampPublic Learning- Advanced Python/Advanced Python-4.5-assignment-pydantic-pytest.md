@@ -1,4 +1,4 @@
-# Advanced Python Assignment 4: Pydantic and pytest
+# Advanced Python Assignment: Pydantic and pytest
 
 *Nov 4, 2026 · Saurabh S*
 
