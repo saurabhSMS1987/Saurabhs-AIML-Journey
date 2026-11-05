@@ -1,4 +1,4 @@
-# Label and Ordinal Encoding: My Feature Engineering Notes
+# Label and Ordinal Encoding: Notes
 
 *Nov 4, 2026 · Saurabh S*
 
