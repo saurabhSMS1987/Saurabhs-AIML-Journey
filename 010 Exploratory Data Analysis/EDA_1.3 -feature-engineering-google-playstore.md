@@ -1,4 +1,4 @@
-# EDA and Feature Engineering: Google Play Store Data: My Notes
+# EDA and Feature Engineering: Google Play Store Data: Notes
 
 *Nov 8, 2026 · Saurabh S*
 
