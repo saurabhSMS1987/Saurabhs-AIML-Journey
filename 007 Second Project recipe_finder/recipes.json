@@ -1,0 +1,3989 @@
+[
+  {
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "butter",
+      "tomato",
+      "cream",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "chili powder"
+    ],
+    "steps": [
+      "Season bite-size chicken pieces with salt, chili powder and half the garam masala, then brown them in butter and set aside.",
+      "In the same pan, cook chopped onion until golden, then add grated garlic and ginger for 1 minute.",
+      "Add chopped tomato and simmer for 10 minutes until soft, then blend into a smooth sauce.",
+      "Return the sauce to the pan, stir in the cream and remaining garam masala, and add the chicken.",
+      "Simmer for 10 minutes until the chicken is cooked through. Serve with rice or naan."
+    ]
+  },
+  {
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "cumin",
+      "garam masala",
+      "cilantro"
+    ],
+    "steps": [
+      "Heat oil and toast the cumin seeds for 30 seconds.",
+      "Add chopped onion and cook until golden, then add garlic and ginger.",
+      "Add chopped tomato and garam masala and cook until the tomato breaks down.",
+      "Stir in drained chickpeas with a splash of water and simmer for 15 minutes, mashing a few chickpeas to thicken.",
+      "Season with salt and finish with chopped cilantro."
+    ]
+  },
+  {
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "protein": "Paneer",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "paneer",
+      "spinach",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "cream",
+      "cumin"
+    ],
+    "steps": [
+      "Blanch the spinach in boiling water for 2 minutes, cool it in cold water, then blend to a purée.",
+      "Toast the cumin in oil, then cook chopped onion, garlic and ginger until soft.",
+      "Add chopped tomato and cook until it breaks down.",
+      "Stir in the spinach purée and simmer for 5 minutes.",
+      "Add cubed paneer and the cream, warm through, and season with salt."
+    ]
+  },
+  {
+    "name": "Paneer Tikka",
+    "cuisine": "Indian",
+    "protein": "Paneer",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 3,
+    "ingredients": [
+      "paneer",
+      "yogurt",
+      "bell pepper",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "chili powder",
+      "lemon"
+    ],
+    "steps": [
+      "Mix yogurt, grated garlic and ginger, garam masala, chili powder, lemon juice and salt.",
+      "Coat cubes of paneer, bell pepper and onion in the marinade and rest for 20 minutes.",
+      "Thread onto skewers, alternating paneer and vegetables.",
+      "Grill or bake at 220°C (425°F) for 12 to 15 minutes, turning once, until charred at the edges."
+    ]
+  },
+  {
+    "name": "Egg Curry",
+    "cuisine": "Indian",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "eggs",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "turmeric",
+      "chili powder",
+      "garam masala"
+    ],
+    "steps": [
+      "Hard-boil the eggs for 10 minutes, peel them and make a few shallow cuts in each.",
+      "Cook chopped onion in oil until golden, then add garlic and ginger.",
+      "Add turmeric, chili powder and chopped tomato, and cook until thick.",
+      "Add a cup of water and the garam masala, then simmer for 5 minutes.",
+      "Add the eggs and simmer for 5 more minutes so they absorb the sauce."
+    ]
+  },
+  {
+    "name": "Chicken Parmesan",
+    "cuisine": "Italian",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "breadcrumbs",
+      "parmesan",
+      "mozzarella",
+      "tomato sauce",
+      "flour",
+      "eggs"
+    ],
+    "steps": [
+      "Pound chicken breasts to an even thickness and season with salt and pepper.",
+      "Coat each in flour, then beaten egg, then breadcrumbs mixed with grated parmesan.",
+      "Pan-fry in oil for 3 to 4 minutes per side until golden.",
+      "Top with tomato sauce and mozzarella, then bake at 200°C (400°F) for 10 to 15 minutes until the chicken is cooked and the cheese is bubbling."
+    ]
+  },
+  {
+    "name": "Spaghetti Aglio e Olio",
+    "cuisine": "Italian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "chili flakes",
+      "parsley"
+    ],
+    "steps": [
+      "Cook the spaghetti in well-salted water until al dente, saving a cup of pasta water.",
+      "Meanwhile, gently cook thinly sliced garlic in plenty of olive oil over low heat until pale golden.",
+      "Add chili flakes, then the drained pasta and a splash of pasta water.",
+      "Toss until glossy, then finish with chopped parsley."
+    ]
+  },
+  {
+    "name": "Shrimp Scampi",
+    "cuisine": "Italian",
+    "protein": "Shrimp",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 3,
+    "ingredients": [
+      "shrimp",
+      "spaghetti",
+      "garlic",
+      "butter",
+      "lemon",
+      "white wine",
+      "parsley"
+    ],
+    "steps": [
+      "Cook the spaghetti until al dente.",
+      "Sear the shrimp in butter and oil for 1 to 2 minutes per side, then set aside.",
+      "Cook minced garlic briefly, add the white wine and let it reduce by half.",
+      "Add lemon juice, more butter, the shrimp and the pasta, then toss.",
+      "Finish with chopped parsley."
+    ]
+  },
+  {
+    "name": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "onion",
+      "garlic",
+      "parmesan",
+      "vegetable broth",
+      "butter",
+      "white wine"
+    ],
+    "steps": [
+      "Brown sliced mushrooms in butter and set aside.",
+      "Cook chopped onion and garlic until soft, then stir in the rice for 1 minute.",
+      "Add the white wine and stir until absorbed.",
+      "Add hot broth one ladle at a time, stirring often, for about 18 minutes until the rice is creamy.",
+      "Stir in the mushrooms, a knob of butter and grated parmesan."
+    ]
+  },
+  {
+    "name": "Chicken Fajitas",
+    "cuisine": "Mexican",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "bell pepper",
+      "onion",
+      "tortillas",
+      "lime",
+      "cumin",
+      "chili powder",
+      "garlic"
+    ],
+    "steps": [
+      "Slice the chicken into strips and toss with cumin, chili powder, garlic, lime juice and salt.",
+      "Sear the chicken in a very hot pan until cooked through, then set aside.",
+      "Cook sliced bell pepper and onion over high heat until charred but still crisp.",
+      "Return the chicken, toss together, and serve in warm tortillas."
+    ]
+  },
+  {
+    "name": "Black Bean Tacos",
+    "cuisine": "Mexican",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 20,
+    "servings": 3,
+    "ingredients": [
+      "black beans",
+      "tortillas",
+      "onion",
+      "avocado",
+      "tomato",
+      "lime",
+      "cumin",
+      "cilantro"
+    ],
+    "steps": [
+      "Cook diced onion in oil, then add drained black beans and cumin.",
+      "Mash lightly and season with salt and lime juice.",
+      "Mix diced tomato, cilantro and lime juice for a quick salsa.",
+      "Fill warm tortillas with the beans, sliced avocado and salsa."
+    ]
+  },
+  {
+    "name": "Beef Burrito Bowl",
+    "cuisine": "Mexican",
+    "protein": "Beef",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "ground beef",
+      "rice",
+      "black beans",
+      "corn",
+      "tomato",
+      "onion",
+      "cheese",
+      "lime",
+      "cumin"
+    ],
+    "steps": [
+      "Cook the rice and stir in lime juice and salt.",
+      "Brown the ground beef with diced onion and cumin, breaking it up as it cooks.",
+      "Warm the black beans and corn.",
+      "Build bowls with rice, beef, beans, corn, diced tomato and grated cheese."
+    ]
+  },
+  {
+    "name": "Pork Carnitas",
+    "cuisine": "Mexican",
+    "protein": "Pork",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 180,
+    "servings": 6,
+    "ingredients": [
+      "pork shoulder",
+      "orange",
+      "lime",
+      "onion",
+      "garlic",
+      "cumin",
+      "oregano",
+      "corn tortillas"
+    ],
+    "steps": [
+      "Cut the pork into large chunks and season with salt, cumin and oregano.",
+      "Place in a pot with quartered onion, smashed garlic, and the juice of the orange and lime.",
+      "Add water to half-cover, then simmer covered for 2.5 hours until very tender.",
+      "Shred the pork, then crisp it in a hot pan with some of the cooking fat.",
+      "Serve in warm corn tortillas."
+    ]
+  },
+  {
+    "name": "Huevos Rancheros",
+    "cuisine": "Mexican",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "eggs",
+      "corn tortillas",
+      "tomato",
+      "onion",
+      "jalapeno",
+      "black beans",
+      "avocado",
+      "cilantro"
+    ],
+    "steps": [
+      "Simmer chopped tomato, onion and jalapeño until saucy, then season with salt.",
+      "Warm the black beans.",
+      "Lightly fry the tortillas until just crisp at the edges.",
+      "Fry the eggs, then layer tortilla, beans, egg and sauce. Top with avocado and cilantro."
+    ]
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "chicken",
+      "peanuts",
+      "soy sauce",
+      "dried chilies",
+      "garlic",
+      "ginger",
+      "green onion",
+      "rice vinegar",
+      "cornstarch"
+    ],
+    "steps": [
+      "Toss diced chicken with soy sauce and cornstarch.",
+      "Mix a sauce of soy sauce, rice vinegar, a little sugar and cornstarch with water.",
+      "Stir-fry dried chilies briefly in hot oil, then add the chicken and cook until done.",
+      "Add garlic, ginger and green onion, then pour in the sauce and toss until glossy.",
+      "Stir in the peanuts and serve with rice."
+    ]
+  },
+  {
+    "name": "Mapo Tofu (Vegan)",
+    "cuisine": "Chinese",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 3,
+    "ingredients": [
+      "tofu",
+      "chili bean paste",
+      "garlic",
+      "ginger",
+      "soy sauce",
+      "green onion",
+      "sichuan peppercorns",
+      "cornstarch"
+    ],
+    "steps": [
+      "Cut the tofu into cubes and soak in hot salted water while you prepare the sauce.",
+      "Fry the chili bean paste in oil until the oil turns red, then add garlic and ginger.",
+      "Add a cup of water and the soy sauce, then gently add the drained tofu.",
+      "Simmer for 5 minutes, then thicken with cornstarch mixed with water.",
+      "Top with ground toasted Sichuan peppercorns and green onion."
+    ]
+  },
+  {
+    "name": "Beef and Broccoli",
+    "cuisine": "Chinese",
+    "protein": "Beef",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 3,
+    "ingredients": [
+      "beef",
+      "broccoli",
+      "soy sauce",
+      "oyster sauce",
+      "garlic",
+      "ginger",
+      "cornstarch",
+      "rice"
+    ],
+    "steps": [
+      "Thinly slice the beef against the grain and toss with soy sauce and cornstarch.",
+      "Steam or blanch the broccoli until bright green.",
+      "Sear the beef in a very hot pan in batches, then set aside.",
+      "Cook garlic and ginger, add oyster sauce, soy sauce and a splash of water, then return the beef and broccoli.",
+      "Toss until coated and serve over rice."
+    ]
+  },
+  {
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "time_minutes": 15,
+    "servings": 2,
+    "ingredients": [
+      "rice",
+      "eggs",
+      "peas",
+      "carrot",
+      "green onion",
+      "soy sauce",
+      "garlic"
+    ],
+    "steps": [
+      "Use cold cooked rice, ideally a day old.",
+      "Scramble the eggs in hot oil and set aside.",
+      "Stir-fry garlic, diced carrot and peas for 2 minutes.",
+      "Add the rice and fry over high heat until hot and slightly crisp.",
+      "Add soy sauce, the eggs and green onion, then toss together."
+    ]
+  },
+  {
+    "name": "Cauliflower Fried Rice with Shrimp",
+    "cuisine": "Chinese",
+    "protein": "Shrimp",
+    "diets": [
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "shrimp",
+      "cauliflower",
+      "eggs",
+      "green onion",
+      "soy sauce",
+      "garlic"
+    ],
+    "steps": [
+      "Pulse the cauliflower in a food processor until it looks like rice.",
+      "Sear the shrimp until pink and set aside.",
+      "Scramble the eggs and set aside.",
+      "Stir-fry garlic and the cauliflower rice for 4 to 5 minutes.",
+      "Add soy sauce, the shrimp, eggs and green onion, then toss."
+    ]
+  },
+  {
+    "name": "Thai Green Curry with Chicken",
+    "cuisine": "Thai",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "green curry paste",
+      "eggplant",
+      "bell pepper",
+      "basil",
+      "fish sauce",
+      "lime"
+    ],
+    "steps": [
+      "Fry the green curry paste in a little coconut cream until fragrant.",
+      "Add sliced chicken and cook until it turns white.",
+      "Pour in the rest of the coconut milk and add the eggplant and bell pepper.",
+      "Simmer for 10 to 15 minutes until the vegetables are tender.",
+      "Season with fish sauce and lime juice, then stir in the basil."
+    ]
+  },
+  {
+    "name": "Pad Thai with Shrimp",
+    "cuisine": "Thai",
+    "protein": "Shrimp",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 2,
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "eggs",
+      "bean sprouts",
+      "peanuts",
+      "green onion",
+      "tamarind paste",
+      "fish sauce",
+      "lime"
+    ],
+    "steps": [
+      "Soak the rice noodles in warm water until just pliable.",
+      "Mix tamarind paste, fish sauce and a little sugar for the sauce.",
+      "Stir-fry the shrimp, push aside and scramble the eggs.",
+      "Add the noodles and sauce and toss until the noodles are tender.",
+      "Add bean sprouts and green onion. Serve with crushed peanuts and lime."
+    ]
+  },
+  {
+    "name": "Tofu Red Curry",
+    "cuisine": "Thai",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "tofu",
+      "coconut milk",
+      "red curry paste",
+      "bell pepper",
+      "zucchini",
+      "basil",
+      "lime"
+    ],
+    "steps": [
+      "Press the tofu, cube it and pan-fry until golden. (Check the curry paste label: some contain shrimp paste.)",
+      "Fry the red curry paste in a little coconut cream until fragrant.",
+      "Add the rest of the coconut milk, bell pepper and zucchini, and simmer for 10 minutes.",
+      "Add the tofu, season with salt and lime juice, and stir in the basil."
+    ]
+  },
+  {
+    "name": "Teriyaki Salmon",
+    "cuisine": "Japanese",
+    "protein": "Fish",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "salmon",
+      "soy sauce",
+      "mirin",
+      "honey",
+      "garlic",
+      "ginger",
+      "sesame seeds",
+      "green onion"
+    ],
+    "steps": [
+      "Mix soy sauce, mirin, honey, grated garlic and ginger.",
+      "Sear the salmon skin-side down for 4 minutes, then flip.",
+      "Pour in the sauce and simmer, spooning it over the fish, until thick and glossy.",
+      "Garnish with sesame seeds and green onion."
+    ]
+  },
+  {
+    "name": "Oyakodon (Chicken and Egg Rice Bowl)",
+    "cuisine": "Japanese",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "chicken",
+      "eggs",
+      "onion",
+      "rice",
+      "soy sauce",
+      "mirin",
+      "dashi"
+    ],
+    "steps": [
+      "Simmer dashi, soy sauce and mirin with sliced onion for 3 minutes.",
+      "Add bite-size chicken pieces and cook for 5 to 6 minutes.",
+      "Pour lightly beaten eggs over the top, cover, and cook until just set.",
+      "Slide onto bowls of hot rice."
+    ]
+  },
+  {
+    "name": "Miso Soup with Tofu",
+    "cuisine": "Japanese",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 15,
+    "servings": 4,
+    "ingredients": [
+      "miso paste",
+      "tofu",
+      "wakame",
+      "green onion",
+      "kombu"
+    ],
+    "steps": [
+      "Soak the kombu in 4 cups of water for 10 minutes, then heat until just below a boil and remove it.",
+      "Rehydrate the wakame in water and drain.",
+      "Add cubed tofu and the wakame to the broth.",
+      "Turn off the heat and whisk in the miso paste (don't boil it). Top with green onion."
+    ]
+  },
+  {
+    "name": "Greek Chicken Souvlaki",
+    "cuisine": "Mediterranean",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "lemon",
+      "garlic",
+      "oregano",
+      "yogurt",
+      "cucumber",
+      "tomato",
+      "red onion"
+    ],
+    "steps": [
+      "Marinate chicken cubes in olive oil, lemon juice, garlic, oregano and salt for at least 20 minutes.",
+      "Make tzatziki: mix yogurt with grated, squeezed cucumber, garlic and lemon.",
+      "Thread the chicken onto skewers and grill for 10 to 12 minutes, turning, until cooked through.",
+      "Serve with tzatziki, sliced tomato and red onion."
+    ]
+  },
+  {
+    "name": "Falafel Bowl",
+    "cuisine": "Mediterranean",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "garlic",
+      "parsley",
+      "cumin",
+      "coriander",
+      "flour",
+      "cucumber",
+      "tomato",
+      "tahini"
+    ],
+    "steps": [
+      "Pulse drained chickpeas, onion, garlic, parsley, cumin and coriander until coarse.",
+      "Mix in a few spoonfuls of flour so the mixture holds together, then form small patties.",
+      "Pan-fry in oil for 3 minutes per side until golden.",
+      "Thin the tahini with lemon juice and water to make a sauce.",
+      "Serve the falafel with chopped cucumber and tomato, drizzled with tahini sauce."
+    ]
+  },
+  {
+    "name": "Shakshuka",
+    "cuisine": "Mediterranean",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "eggs",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "garlic",
+      "cumin",
+      "paprika"
+    ],
+    "steps": [
+      "Cook chopped onion and bell pepper in olive oil until soft.",
+      "Add garlic, cumin and paprika for 1 minute.",
+      "Add chopped tomato and simmer for 10 to 15 minutes until thick, then season.",
+      "Make small wells, crack in the eggs, cover and cook until the whites are set."
+    ]
+  },
+  {
+    "name": "Lemon Herb Baked Fish",
+    "cuisine": "Mediterranean",
+    "protein": "Fish",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "white fish",
+      "lemon",
+      "garlic",
+      "parsley",
+      "cherry tomatoes",
+      "olives"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (400°F).",
+      "Place the fish in a baking dish with halved cherry tomatoes and olives.",
+      "Drizzle with olive oil, lemon juice and minced garlic, then season.",
+      "Bake for 12 to 15 minutes until the fish flakes easily. Top with parsley."
+    ]
+  },
+  {
+    "name": "Classic Beef Burger",
+    "cuisine": "American",
+    "protein": "Beef",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "ground beef",
+      "burger buns",
+      "cheese",
+      "lettuce",
+      "tomato",
+      "onion",
+      "pickles"
+    ],
+    "steps": [
+      "Divide the beef into 4 patties, slightly wider than the buns, and season well.",
+      "Cook on a hot grill or pan for 3 to 4 minutes per side.",
+      "Add cheese in the last minute and cover to melt.",
+      "Toast the buns, then build with lettuce, tomato, onion and pickles."
+    ]
+  },
+  {
+    "name": "Garlic Butter Steak",
+    "cuisine": "American",
+    "protein": "Beef",
+    "diets": [
+      "Gluten-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "steak",
+      "butter",
+      "garlic",
+      "rosemary",
+      "thyme"
+    ],
+    "steps": [
+      "Pat the steak dry and season generously with salt and pepper.",
+      "Sear in a very hot pan for 3 to 4 minutes per side for medium-rare.",
+      "Add butter, smashed garlic, rosemary and thyme, and baste the steak for 1 minute.",
+      "Rest for 5 minutes before slicing."
+    ]
+  },
+  {
+    "name": "BBQ Pulled Pork",
+    "cuisine": "American",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 240,
+    "servings": 8,
+    "ingredients": [
+      "pork shoulder",
+      "bbq sauce",
+      "onion",
+      "garlic",
+      "brown sugar",
+      "paprika",
+      "apple cider vinegar"
+    ],
+    "steps": [
+      "Rub the pork with brown sugar, paprika and salt.",
+      "Place on a bed of sliced onion and garlic in a covered pot, and add a splash of vinegar.",
+      "Cook at 150°C (300°F) for about 4 hours until it shreds easily.",
+      "Shred the meat and mix with BBQ sauce and some of the juices."
+    ]
+  },
+  {
+    "name": "Mac and Cheese",
+    "cuisine": "American",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "macaroni",
+      "cheddar",
+      "milk",
+      "butter",
+      "flour",
+      "mustard"
+    ],
+    "steps": [
+      "Cook the macaroni until just al dente.",
+      "Melt the butter, whisk in the flour and cook for 1 minute.",
+      "Slowly whisk in the milk and simmer until thickened.",
+      "Off the heat, stir in grated cheddar and mustard until smooth.",
+      "Mix with the macaroni and season to taste."
+    ]
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 50,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "tomato",
+      "cream",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "cumin",
+      "paprika"
+    ],
+    "steps": [
+      "Marinate chicken pieces in yogurt, half the garam masala, cumin, paprika and salt for at least 20 minutes.",
+      "Grill or broil the chicken until charred at the edges.",
+      "Cook chopped onion until golden, then add garlic, ginger and the remaining spices.",
+      "Add chopped tomato and simmer for 10 minutes, then blend until smooth.",
+      "Stir in the cream and chicken and simmer for 10 minutes."
+    ]
+  },
+  {
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "red lentils",
+      "onion",
+      "tomato",
+      "garlic",
+      "cumin",
+      "turmeric",
+      "dried chilies",
+      "cilantro"
+    ],
+    "steps": [
+      "Rinse the lentils and simmer with turmeric and 3 cups of water for 20 minutes until soft.",
+      "In a separate pan, fry cumin seeds and dried chilies in oil until fragrant.",
+      "Add sliced garlic and chopped onion and cook until golden, then add chopped tomato until soft.",
+      "Pour this tadka over the lentils, season with salt and top with cilantro."
+    ]
+  },
+  {
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "potatoes",
+      "cauliflower",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "turmeric",
+      "cumin",
+      "cilantro"
+    ],
+    "steps": [
+      "Toast cumin seeds in oil, then cook chopped onion until soft.",
+      "Add garlic, ginger, turmeric and chopped tomato and cook for 3 minutes.",
+      "Add cubed potatoes and cauliflower florets with a splash of water and salt.",
+      "Cover and cook on low for 15 to 20 minutes, stirring gently, until tender.",
+      "Finish with cilantro."
+    ]
+  },
+  {
+    "name": "Rajma (Kidney Bean Curry)",
+    "cuisine": "Indian",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "kidney beans",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "cumin",
+      "garam masala",
+      "chili powder"
+    ],
+    "steps": [
+      "Toast cumin in oil, then cook chopped onion until deep golden.",
+      "Add garlic, ginger, chili powder and garam masala.",
+      "Add puréed tomato and cook until the oil separates.",
+      "Add the kidney beans and 2 cups of water and simmer for 20 minutes, mashing some beans to thicken."
+    ]
+  },
+  {
+    "name": "Lamb Rogan Josh",
+    "cuisine": "Indian",
+    "protein": "Lamb",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 90,
+    "servings": 4,
+    "ingredients": [
+      "lamb",
+      "yogurt",
+      "onion",
+      "garlic",
+      "ginger",
+      "chili powder",
+      "garam masala",
+      "cardamom",
+      "bay leaves"
+    ],
+    "steps": [
+      "Brown the lamb pieces in oil in batches and set aside.",
+      "Fry cardamom and bay leaves briefly, then cook sliced onion until golden.",
+      "Add garlic, ginger, chili powder and garam masala.",
+      "Return the lamb and stir in the yogurt a spoonful at a time.",
+      "Add a cup of water, cover and simmer for 60 to 75 minutes until the lamb is tender."
+    ]
+  },
+  {
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 75,
+    "servings": 6,
+    "ingredients": [
+      "chicken",
+      "basmati rice",
+      "yogurt",
+      "onion",
+      "garlic",
+      "ginger",
+      "garam masala",
+      "mint",
+      "saffron"
+    ],
+    "steps": [
+      "Marinate the chicken in yogurt, garlic, ginger, garam masala and salt for 30 minutes.",
+      "Fry thinly sliced onion until crisp and brown, then set aside.",
+      "Cook the marinated chicken in the onion pan for 10 minutes.",
+      "Boil the rice in salted water until about 70% cooked, then drain.",
+      "Layer the rice over the chicken with fried onion, mint and saffron soaked in warm water. Cover tightly and cook on low for 25 minutes."
+    ]
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "protein": "Paneer",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "paneer",
+      "butter",
+      "tomato",
+      "cream",
+      "onion",
+      "cashews",
+      "garlic",
+      "ginger",
+      "garam masala"
+    ],
+    "steps": [
+      "Cook chopped onion, tomato and cashews in butter until soft, then blend until smooth.",
+      "Return to the pan with garlic, ginger and garam masala and simmer for 5 minutes.",
+      "Stir in the cream and season with salt.",
+      "Add cubed paneer and simmer for 5 minutes."
+    ]
+  },
+  {
+    "name": "Goan Fish Curry",
+    "cuisine": "Indian",
+    "protein": "Fish",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "white fish",
+      "coconut milk",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "turmeric",
+      "chili powder",
+      "tamarind paste"
+    ],
+    "steps": [
+      "Cook sliced onion until soft, then add garlic, ginger, turmeric and chili powder.",
+      "Add chopped tomato and cook until soft.",
+      "Pour in the coconut milk and tamarind paste and simmer for 5 minutes.",
+      "Add chunks of fish and simmer gently for 6 to 8 minutes until cooked."
+    ]
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "protein": "Pork",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "spaghetti",
+      "pancetta",
+      "eggs",
+      "parmesan"
+    ],
+    "steps": [
+      "Cook the spaghetti until al dente, saving a cup of pasta water.",
+      "Crisp diced pancetta in a pan, then turn off the heat.",
+      "Whisk eggs with grated parmesan and plenty of black pepper.",
+      "Toss the hot pasta with the pancetta, then quickly stir in the egg mixture off the heat, adding pasta water until creamy."
+    ]
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "cuisine": "Italian",
+    "protein": "Beef",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 60,
+    "servings": 4,
+    "ingredients": [
+      "ground beef",
+      "spaghetti",
+      "onion",
+      "carrot",
+      "celery",
+      "garlic",
+      "tomato",
+      "red wine"
+    ],
+    "steps": [
+      "Cook finely chopped onion, carrot and celery until soft, then add garlic.",
+      "Add the beef and brown it, breaking it up.",
+      "Pour in the red wine and let it bubble for 2 minutes.",
+      "Add chopped tomato, season and simmer for 40 minutes.",
+      "Serve over cooked spaghetti."
+    ]
+  },
+  {
+    "name": "Margherita Pizza",
+    "cuisine": "Italian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 30,
+    "servings": 2,
+    "ingredients": [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella",
+      "basil"
+    ],
+    "steps": [
+      "Heat the oven as hot as it goes, ideally 250°C (480°F), with a tray inside.",
+      "Stretch the dough into a thin round.",
+      "Spread a thin layer of tomato sauce and add torn mozzarella.",
+      "Bake for 8 to 10 minutes until blistered, then top with basil and a drizzle of olive oil."
+    ]
+  },
+  {
+    "name": "Pasta Primavera",
+    "cuisine": "Italian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "penne",
+      "zucchini",
+      "bell pepper",
+      "cherry tomatoes",
+      "peas",
+      "garlic",
+      "parmesan"
+    ],
+    "steps": [
+      "Cook the penne until al dente.",
+      "Sauté sliced zucchini and bell pepper until just tender, then add garlic.",
+      "Add halved cherry tomatoes and peas and cook for 2 minutes.",
+      "Toss with the pasta, a splash of pasta water and grated parmesan."
+    ]
+  },
+  {
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Keto/Low-Carb"
+    ],
+    "time_minutes": 10,
+    "servings": 2,
+    "ingredients": [
+      "tomato",
+      "mozzarella",
+      "basil",
+      "balsamic vinegar"
+    ],
+    "steps": [
+      "Slice the tomato and mozzarella.",
+      "Arrange them alternately on a plate with basil leaves.",
+      "Drizzle with olive oil and balsamic vinegar, then season with salt and pepper."
+    ]
+  },
+  {
+    "name": "Minestrone",
+    "cuisine": "Italian",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 45,
+    "servings": 6,
+    "ingredients": [
+      "cannellini beans",
+      "ditalini pasta",
+      "onion",
+      "carrot",
+      "celery",
+      "zucchini",
+      "tomato",
+      "garlic",
+      "vegetable broth"
+    ],
+    "steps": [
+      "Cook chopped onion, carrot and celery in olive oil until soft, then add garlic.",
+      "Add diced zucchini, chopped tomato and the broth and simmer for 15 minutes.",
+      "Add the beans and pasta and cook until the pasta is tender.",
+      "Season and serve with a drizzle of olive oil."
+    ]
+  },
+  {
+    "name": "Pesto Pasta with Chicken",
+    "cuisine": "Italian",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "penne",
+      "basil",
+      "pine nuts",
+      "parmesan",
+      "garlic"
+    ],
+    "steps": [
+      "Blend basil, pine nuts, garlic, parmesan and olive oil into a pesto.",
+      "Cook the penne until al dente.",
+      "Season and pan-fry the chicken until cooked, then slice.",
+      "Toss the pasta with pesto, a little pasta water and the chicken."
+    ]
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "cuisine": "Italian",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "time_minutes": 75,
+    "servings": 4,
+    "ingredients": [
+      "eggplant",
+      "tomato sauce",
+      "mozzarella",
+      "parmesan",
+      "basil"
+    ],
+    "steps": [
+      "Slice the eggplant, brush with olive oil and roast at 200°C (400°F) for 20 minutes.",
+      "Layer eggplant, tomato sauce, basil, mozzarella and parmesan in a baking dish.",
+      "Repeat the layers, finishing with cheese.",
+      "Bake for 30 minutes until bubbling and golden."
+    ]
+  },
+  {
+    "name": "Chicken Piccata",
+    "cuisine": "Italian",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "flour",
+      "lemon",
+      "capers",
+      "butter",
+      "white wine",
+      "parsley"
+    ],
+    "steps": [
+      "Pound the chicken thin, season and dust with flour.",
+      "Pan-fry in oil and a little butter until golden and cooked, then set aside.",
+      "Add white wine, lemon juice and capers to the pan and reduce by half.",
+      "Swirl in butter, return the chicken, and finish with parsley."
+    ]
+  },
+  {
+    "name": "Chicken Enchiladas",
+    "cuisine": "Mexican",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "corn tortillas",
+      "enchilada sauce",
+      "cheese",
+      "onion",
+      "cilantro"
+    ],
+    "steps": [
+      "Mix shredded cooked chicken with chopped onion and half the cheese.",
+      "Warm the tortillas, fill each with chicken and roll up.",
+      "Place seam-side down in a dish and cover with enchilada sauce and the rest of the cheese.",
+      "Bake at 190°C (375°F) for 20 minutes, then top with cilantro."
+    ]
+  },
+  {
+    "name": "Guacamole",
+    "cuisine": "Mexican",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb"
+    ],
+    "time_minutes": 10,
+    "servings": 4,
+    "ingredients": [
+      "avocado",
+      "lime",
+      "onion",
+      "tomato",
+      "jalapeno",
+      "cilantro"
+    ],
+    "steps": [
+      "Mash the avocados with lime juice and salt.",
+      "Stir in finely chopped onion, tomato, jalapeño and cilantro.",
+      "Taste and add more lime or salt as needed."
+    ]
+  },
+  {
+    "name": "Chicken Tortilla Soup",
+    "cuisine": "Mexican",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "chicken broth",
+      "tomato",
+      "onion",
+      "garlic",
+      "jalapeno",
+      "corn tortillas",
+      "lime",
+      "cumin",
+      "avocado"
+    ],
+    "steps": [
+      "Cook onion, garlic and jalapeño until soft, then add cumin.",
+      "Add chopped tomato, the broth and the chicken and simmer for 20 minutes.",
+      "Remove and shred the chicken, then return it to the pot.",
+      "Bake or fry tortilla strips until crisp.",
+      "Serve the soup with tortilla strips, avocado and lime."
+    ]
+  },
+  {
+    "name": "Beef Tacos",
+    "cuisine": "Mexican",
+    "protein": "Beef",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "ground beef",
+      "corn tortillas",
+      "onion",
+      "lettuce",
+      "tomato",
+      "cheese",
+      "cumin",
+      "chili powder"
+    ],
+    "steps": [
+      "Brown the beef with chopped onion.",
+      "Add cumin, chili powder, salt and a splash of water, and simmer until thick.",
+      "Warm the tortillas.",
+      "Fill with beef and top with lettuce, tomato and cheese."
+    ]
+  },
+  {
+    "name": "Shrimp Tacos",
+    "cuisine": "Mexican",
+    "protein": "Shrimp",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "shrimp",
+      "tortillas",
+      "cabbage",
+      "lime",
+      "avocado",
+      "chili powder",
+      "cilantro"
+    ],
+    "steps": [
+      "Toss the shrimp with chili powder, salt and lime juice.",
+      "Toss shredded cabbage with lime juice and cilantro.",
+      "Sear the shrimp for 1 to 2 minutes per side.",
+      "Serve in warm tortillas with the slaw and sliced avocado."
+    ]
+  },
+  {
+    "name": "Vegetable Quesadillas",
+    "cuisine": "Mexican",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "tortillas",
+      "cheese",
+      "bell pepper",
+      "onion",
+      "mushrooms",
+      "corn"
+    ],
+    "steps": [
+      "Sauté sliced bell pepper, onion and mushrooms with the corn until soft.",
+      "Spread the filling and cheese over half of each tortilla and fold.",
+      "Cook in a dry pan for 2 to 3 minutes per side until crisp and melted.",
+      "Cut into wedges."
+    ]
+  },
+  {
+    "name": "Mexican Red Rice",
+    "cuisine": "Mexican",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "garlic",
+      "vegetable broth"
+    ],
+    "steps": [
+      "Blend tomato, onion and garlic until smooth.",
+      "Fry the rice in oil until lightly golden.",
+      "Add the tomato purée and cook for 2 minutes.",
+      "Add the broth and salt, cover and cook on low for 18 minutes, then rest for 5."
+    ]
+  },
+  {
+    "name": "Pozole Rojo",
+    "cuisine": "Mexican",
+    "protein": "Pork",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 180,
+    "servings": 6,
+    "ingredients": [
+      "pork shoulder",
+      "hominy",
+      "dried chilies",
+      "onion",
+      "garlic",
+      "oregano",
+      "cabbage",
+      "radish",
+      "lime"
+    ],
+    "steps": [
+      "Simmer the pork with onion, garlic and salt in plenty of water for 2 hours.",
+      "Soak the dried chilies in hot water, then blend with some soaking liquid and garlic.",
+      "Strain the chili sauce into the pot and add the hominy and oregano.",
+      "Simmer for 30 minutes.",
+      "Serve with shredded cabbage, sliced radish and lime."
+    ]
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "cuisine": "Chinese",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "pork",
+      "bell pepper",
+      "pineapple",
+      "onion",
+      "ketchup",
+      "rice vinegar",
+      "soy sauce",
+      "cornstarch"
+    ],
+    "steps": [
+      "Toss pork pieces in soy sauce and cornstarch, then fry until crisp.",
+      "Mix ketchup, rice vinegar, sugar and a splash of water for the sauce.",
+      "Stir-fry bell pepper, onion and pineapple for 2 minutes.",
+      "Add the sauce, thicken with a little cornstarch slurry, and toss in the pork."
+    ]
+  },
+  {
+    "name": "General Tso's Chicken",
+    "cuisine": "Chinese",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "cornstarch",
+      "soy sauce",
+      "rice vinegar",
+      "hoisin sauce",
+      "garlic",
+      "ginger",
+      "dried chilies",
+      "green onion"
+    ],
+    "steps": [
+      "Coat chicken pieces in cornstarch and fry until golden and crisp.",
+      "Mix soy sauce, rice vinegar, hoisin sauce, sugar and water.",
+      "Fry dried chilies, garlic and ginger briefly.",
+      "Add the sauce, let it thicken, then toss in the chicken and green onion."
+    ]
+  },
+  {
+    "name": "Vegetable Lo Mein",
+    "cuisine": "Chinese",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "time_minutes": 20,
+    "servings": 3,
+    "ingredients": [
+      "egg noodles",
+      "cabbage",
+      "carrot",
+      "bell pepper",
+      "mushrooms",
+      "soy sauce",
+      "sesame oil",
+      "garlic",
+      "green onion"
+    ],
+    "steps": [
+      "Cook the noodles, drain and toss with sesame oil.",
+      "Stir-fry garlic, then the sliced vegetables over high heat for 3 minutes.",
+      "Add the noodles and soy sauce and toss until coated.",
+      "Finish with green onion."
+    ]
+  },
+  {
+    "name": "Hot and Sour Soup",
+    "cuisine": "Chinese",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "tofu",
+      "mushrooms",
+      "bamboo shoots",
+      "eggs",
+      "rice vinegar",
+      "soy sauce",
+      "vegetable broth",
+      "cornstarch",
+      "green onion"
+    ],
+    "steps": [
+      "Bring the broth to a simmer with sliced mushrooms and bamboo shoots.",
+      "Add strips of tofu, soy sauce, rice vinegar and plenty of white or black pepper.",
+      "Thicken with cornstarch mixed with water.",
+      "Slowly drizzle in beaten eggs while stirring, then top with green onion."
+    ]
+  },
+  {
+    "name": "Steamed Fish with Ginger and Scallion",
+    "cuisine": "Chinese",
+    "protein": "Fish",
+    "diets": [
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "white fish",
+      "ginger",
+      "green onion",
+      "soy sauce"
+    ],
+    "steps": [
+      "Place the fish on a plate and top with half the ginger, cut into thin strips.",
+      "Steam for 8 to 10 minutes until it flakes.",
+      "Top with the remaining ginger and green onion.",
+      "Pour sizzling hot oil over the top, then drizzle with soy sauce."
+    ]
+  },
+  {
+    "name": "Char Siu (Chinese BBQ Pork)",
+    "cuisine": "Chinese",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 60,
+    "servings": 4,
+    "ingredients": [
+      "pork shoulder",
+      "hoisin sauce",
+      "soy sauce",
+      "honey",
+      "garlic",
+      "five spice"
+    ],
+    "steps": [
+      "Mix hoisin sauce, soy sauce, honey, garlic and five spice.",
+      "Marinate strips of pork in half the mixture for at least 2 hours.",
+      "Roast at 200°C (400°F) on a rack for 25 minutes.",
+      "Brush with the remaining sauce and roast for 10 to 15 minutes more until sticky and charred."
+    ]
+  },
+  {
+    "name": "Garlic Bok Choy",
+    "cuisine": "Chinese",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free",
+      "Keto/Low-Carb"
+    ],
+    "time_minutes": 10,
+    "servings": 2,
+    "ingredients": [
+      "bok choy",
+      "garlic",
+      "soy sauce"
+    ],
+    "steps": [
+      "Halve the bok choy lengthways and rinse well.",
+      "Fry sliced garlic in hot oil until fragrant.",
+      "Add the bok choy and a splash of water and stir-fry for 2 to 3 minutes.",
+      "Season with soy sauce."
+    ]
+  },
+  {
+    "name": "Dan Dan Noodles",
+    "cuisine": "Chinese",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "ground pork",
+      "wheat noodles",
+      "chili oil",
+      "sesame paste",
+      "soy sauce",
+      "garlic",
+      "sichuan peppercorns",
+      "bok choy",
+      "green onion"
+    ],
+    "steps": [
+      "Fry the pork until crisp, then add a splash of soy sauce.",
+      "Mix sesame paste, chili oil, soy sauce, garlic and ground Sichuan peppercorns in the serving bowls.",
+      "Cook the noodles and blanch the bok choy.",
+      "Add the noodles to the bowls, top with pork, bok choy and green onion, and toss."
+    ]
+  },
+  {
+    "name": "Tom Yum Soup with Shrimp",
+    "cuisine": "Thai",
+    "protein": "Shrimp",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "shrimp",
+      "lemongrass",
+      "galangal",
+      "kaffir lime leaves",
+      "mushrooms",
+      "fish sauce",
+      "lime",
+      "thai chilies"
+    ],
+    "steps": [
+      "Simmer bruised lemongrass, sliced galangal and torn lime leaves in 4 cups of water for 5 minutes.",
+      "Add mushrooms and crushed chilies and cook for 2 minutes.",
+      "Add the shrimp and cook until just pink.",
+      "Turn off the heat and season with fish sauce and lime juice."
+    ]
+  },
+  {
+    "name": "Tom Kha Gai",
+    "cuisine": "Thai",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "lemongrass",
+      "galangal",
+      "kaffir lime leaves",
+      "mushrooms",
+      "fish sauce",
+      "lime"
+    ],
+    "steps": [
+      "Simmer coconut milk with lemongrass, galangal and lime leaves for 5 minutes.",
+      "Add sliced chicken and mushrooms and simmer until cooked.",
+      "Season with fish sauce, lime juice and a pinch of sugar."
+    ]
+  },
+  {
+    "name": "Massaman Beef Curry",
+    "cuisine": "Thai",
+    "protein": "Beef",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 120,
+    "servings": 4,
+    "ingredients": [
+      "beef",
+      "coconut milk",
+      "massaman curry paste",
+      "potatoes",
+      "onion",
+      "peanuts",
+      "fish sauce",
+      "tamarind paste"
+    ],
+    "steps": [
+      "Fry the curry paste in a little coconut cream until fragrant.",
+      "Add cubed beef and stir to coat.",
+      "Add the rest of the coconut milk and simmer covered for 1 hour.",
+      "Add potatoes, onion and peanuts and cook for 30 minutes more.",
+      "Season with fish sauce, tamarind and a little sugar."
+    ]
+  },
+  {
+    "name": "Thai Basil Chicken (Pad Krapow)",
+    "cuisine": "Thai",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "ground chicken",
+      "thai basil",
+      "garlic",
+      "thai chilies",
+      "soy sauce",
+      "oyster sauce",
+      "fish sauce",
+      "eggs",
+      "rice"
+    ],
+    "steps": [
+      "Pound garlic and chilies together.",
+      "Stir-fry them briefly, then add the chicken and cook through.",
+      "Add soy sauce, oyster sauce, fish sauce and a pinch of sugar.",
+      "Stir in the basil until wilted.",
+      "Serve over rice with a crispy fried egg."
+    ]
+  },
+  {
+    "name": "Green Papaya Salad (Som Tam)",
+    "cuisine": "Thai",
+    "protein": "No main protein",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "green papaya",
+      "cherry tomatoes",
+      "green beans",
+      "garlic",
+      "thai chilies",
+      "lime",
+      "fish sauce",
+      "peanuts"
+    ],
+    "steps": [
+      "Shred the green papaya into thin strips.",
+      "Pound garlic and chilies in a mortar.",
+      "Add green beans and tomatoes and bruise lightly.",
+      "Add fish sauce, lime juice, sugar and the papaya, and pound and toss to combine.",
+      "Top with peanuts."
+    ]
+  },
+  {
+    "name": "Panang Pork Curry",
+    "cuisine": "Thai",
+    "protein": "Pork",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "pork",
+      "coconut milk",
+      "panang curry paste",
+      "kaffir lime leaves",
+      "fish sauce",
+      "bell pepper",
+      "basil"
+    ],
+    "steps": [
+      "Fry the curry paste in thick coconut cream until fragrant.",
+      "Add thinly sliced pork and cook until no longer pink.",
+      "Add the rest of the coconut milk, lime leaves and bell pepper and simmer for 5 minutes.",
+      "Season with fish sauce and sugar and stir in the basil."
+    ]
+  },
+  {
+    "name": "Thai Peanut Noodles with Tofu",
+    "cuisine": "Thai",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 3,
+    "ingredients": [
+      "rice noodles",
+      "tofu",
+      "peanut butter",
+      "soy sauce",
+      "lime",
+      "garlic",
+      "carrot",
+      "green onion"
+    ],
+    "steps": [
+      "Pan-fry cubed tofu until golden.",
+      "Whisk peanut butter, soy sauce, lime juice, garlic and warm water into a sauce.",
+      "Cook the noodles and drain.",
+      "Toss the noodles with the sauce, tofu, shredded carrot and green onion."
+    ]
+  },
+  {
+    "name": "Mango Sticky Rice",
+    "cuisine": "Thai",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "sticky rice",
+      "coconut milk",
+      "mango"
+    ],
+    "steps": [
+      "Soak the sticky rice for at least 4 hours, then steam for 20 to 25 minutes.",
+      "Warm the coconut milk with sugar and a pinch of salt.",
+      "Stir most of the coconut milk into the hot rice and let it rest for 15 minutes.",
+      "Serve with sliced mango and the remaining coconut milk spooned over."
+    ]
+  },
+  {
+    "name": "Pad See Ew with Chicken",
+    "cuisine": "Thai",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "wide rice noodles",
+      "chicken",
+      "chinese broccoli",
+      "eggs",
+      "soy sauce",
+      "oyster sauce",
+      "garlic"
+    ],
+    "steps": [
+      "Stir-fry garlic and sliced chicken until cooked.",
+      "Add chopped Chinese broccoli and cook for 1 minute.",
+      "Push aside and scramble the eggs.",
+      "Add the noodles, soy sauce, oyster sauce and a pinch of sugar, and toss over high heat until lightly charred."
+    ]
+  },
+  {
+    "name": "Chicken Katsu",
+    "cuisine": "Japanese",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 2,
+    "ingredients": [
+      "chicken",
+      "panko",
+      "flour",
+      "eggs",
+      "cabbage",
+      "tonkatsu sauce"
+    ],
+    "steps": [
+      "Pound the chicken to an even thickness and season.",
+      "Coat in flour, then beaten egg, then panko.",
+      "Fry in oil for 4 to 5 minutes per side until golden and cooked through.",
+      "Slice and serve with shredded cabbage and tonkatsu sauce."
+    ]
+  },
+  {
+    "name": "Beef Sukiyaki",
+    "cuisine": "Japanese",
+    "protein": "Beef",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "beef",
+      "tofu",
+      "napa cabbage",
+      "shiitake mushrooms",
+      "green onion",
+      "soy sauce",
+      "mirin",
+      "sake"
+    ],
+    "steps": [
+      "Mix soy sauce, mirin, sake and sugar for the sauce.",
+      "Briefly sear thinly sliced beef in a shallow pot.",
+      "Add the sauce, then arrange the tofu, cabbage, mushrooms and green onion around the beef.",
+      "Simmer until the vegetables are tender."
+    ]
+  },
+  {
+    "name": "Chicken Yakitori",
+    "cuisine": "Japanese",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "chicken thighs",
+      "green onion",
+      "soy sauce",
+      "mirin",
+      "sake"
+    ],
+    "steps": [
+      "Simmer soy sauce, mirin, sake and sugar until slightly thick.",
+      "Thread chicken pieces and green onion onto skewers.",
+      "Grill, turning, until nearly cooked.",
+      "Brush with the sauce and grill for 1 to 2 minutes more, repeating once or twice."
+    ]
+  },
+  {
+    "name": "Vegetable Tempura",
+    "cuisine": "Japanese",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "flour",
+      "cornstarch",
+      "sweet potato",
+      "zucchini",
+      "mushrooms",
+      "bell pepper"
+    ],
+    "steps": [
+      "Slice the vegetables thinly.",
+      "Stir flour and cornstarch into ice-cold sparkling water until just mixed; lumps are fine.",
+      "Dip the vegetables in batter and fry at 180°C (350°F) in small batches until crisp.",
+      "Drain and serve immediately with salt or dipping sauce."
+    ]
+  },
+  {
+    "name": "Japanese Chicken Curry",
+    "cuisine": "Japanese",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "japanese curry roux",
+      "onion",
+      "carrot",
+      "potatoes",
+      "rice"
+    ],
+    "steps": [
+      "Brown the chicken pieces, then add sliced onion and cook until soft.",
+      "Add chunks of carrot and potato and enough water to cover.",
+      "Simmer for 20 minutes until tender.",
+      "Turn off the heat, stir in the curry roux until dissolved, then simmer for 5 minutes.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "name": "Yaki Udon with Shrimp",
+    "cuisine": "Japanese",
+    "protein": "Shrimp",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "udon noodles",
+      "shrimp",
+      "cabbage",
+      "carrot",
+      "onion",
+      "soy sauce",
+      "mirin"
+    ],
+    "steps": [
+      "Loosen the udon noodles in hot water and drain.",
+      "Stir-fry the shrimp until pink, then set aside.",
+      "Stir-fry the onion, cabbage and carrot until just tender.",
+      "Add the noodles, shrimp, soy sauce and mirin, and toss until hot."
+    ]
+  },
+  {
+    "name": "Tamagoyaki (Rolled Omelette)",
+    "cuisine": "Japanese",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "time_minutes": 15,
+    "servings": 2,
+    "ingredients": [
+      "eggs",
+      "soy sauce",
+      "mirin"
+    ],
+    "steps": [
+      "Beat the eggs with soy sauce, mirin and a pinch of sugar.",
+      "Pour a thin layer into an oiled pan and roll it up once it's nearly set.",
+      "Push the roll to one side, add another thin layer, and roll again.",
+      "Repeat until the egg is used up, then slice."
+    ]
+  },
+  {
+    "name": "Agedashi Tofu",
+    "cuisine": "Japanese",
+    "protein": "Tofu",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "tofu",
+      "cornstarch",
+      "dashi",
+      "soy sauce",
+      "mirin",
+      "daikon",
+      "green onion"
+    ],
+    "steps": [
+      "Drain the tofu well and cut into cubes.",
+      "Simmer dashi, soy sauce and mirin to make the broth.",
+      "Coat the tofu in cornstarch and fry until crisp.",
+      "Serve in the broth topped with grated daikon and green onion."
+    ]
+  },
+  {
+    "name": "Miso-Glazed Cod",
+    "cuisine": "Japanese",
+    "protein": "Fish",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "cod",
+      "miso paste",
+      "mirin",
+      "sake"
+    ],
+    "steps": [
+      "Mix miso paste, mirin, sake and sugar into a smooth glaze.",
+      "Coat the cod and marinate for at least 1 hour, or overnight.",
+      "Wipe off excess glaze and broil for 8 to 10 minutes until caramelized and flaky."
+    ]
+  },
+  {
+    "name": "Hummus",
+    "cuisine": "Mediterranean",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 10,
+    "servings": 6,
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "lemon",
+      "garlic",
+      "cumin"
+    ],
+    "steps": [
+      "Blend the chickpeas, tahini, lemon juice, garlic, cumin and salt.",
+      "Add ice water a spoonful at a time while blending until very smooth.",
+      "Serve with a drizzle of olive oil."
+    ]
+  },
+  {
+    "name": "Greek Salad",
+    "cuisine": "Mediterranean",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Keto/Low-Carb"
+    ],
+    "time_minutes": 15,
+    "servings": 4,
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "red onion",
+      "bell pepper",
+      "olives",
+      "feta",
+      "oregano"
+    ],
+    "steps": [
+      "Cut the tomato, cucumber and bell pepper into chunks and slice the red onion.",
+      "Add the olives and toss with olive oil, salt and a splash of vinegar.",
+      "Top with a slab of feta and a sprinkle of oregano."
+    ]
+  },
+  {
+    "name": "Lamb Kofta",
+    "cuisine": "Mediterranean",
+    "protein": "Lamb",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "ground lamb",
+      "onion",
+      "garlic",
+      "parsley",
+      "cumin",
+      "coriander",
+      "paprika"
+    ],
+    "steps": [
+      "Mix the lamb with grated onion, garlic, parsley, spices and salt.",
+      "Shape around skewers into long kebabs.",
+      "Grill for 8 to 10 minutes, turning, until cooked through."
+    ]
+  },
+  {
+    "name": "Tabbouleh",
+    "cuisine": "Mediterranean",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "bulgur",
+      "parsley",
+      "mint",
+      "tomato",
+      "cucumber",
+      "green onion",
+      "lemon"
+    ],
+    "steps": [
+      "Soak the bulgur in hot water for 15 minutes, then drain well.",
+      "Finely chop plenty of parsley and mint.",
+      "Mix with diced tomato, cucumber and green onion.",
+      "Dress with lemon juice, olive oil and salt."
+    ]
+  },
+  {
+    "name": "Spanakopita",
+    "cuisine": "Mediterranean",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 60,
+    "servings": 6,
+    "ingredients": [
+      "phyllo dough",
+      "spinach",
+      "feta",
+      "onion",
+      "eggs",
+      "dill",
+      "butter"
+    ],
+    "steps": [
+      "Cook chopped onion, then add spinach until wilted and squeeze out the liquid.",
+      "Mix with crumbled feta, beaten eggs and dill.",
+      "Layer half the phyllo in a dish, brushing each sheet with melted butter.",
+      "Spread the filling, then top with the remaining buttered phyllo.",
+      "Score the top and bake at 180°C (350°F) for 40 minutes until golden."
+    ]
+  },
+  {
+    "name": "Moussaka",
+    "cuisine": "Mediterranean",
+    "protein": "Lamb",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 120,
+    "servings": 6,
+    "ingredients": [
+      "ground lamb",
+      "eggplant",
+      "potatoes",
+      "onion",
+      "garlic",
+      "tomato",
+      "cinnamon",
+      "milk",
+      "butter",
+      "flour",
+      "parmesan"
+    ],
+    "steps": [
+      "Slice the eggplant and potatoes, brush with oil and roast until soft.",
+      "Brown the lamb with onion and garlic, then add tomato and cinnamon and simmer for 20 minutes.",
+      "Make a white sauce: cook butter and flour, whisk in milk until thick, then add parmesan.",
+      "Layer potatoes, eggplant and lamb in a dish, then pour the sauce over the top.",
+      "Bake at 180°C (350°F) for 45 minutes and rest before cutting."
+    ]
+  },
+  {
+    "name": "Red Lentil Soup",
+    "cuisine": "Mediterranean",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "red lentils",
+      "onion",
+      "carrot",
+      "garlic",
+      "cumin",
+      "paprika",
+      "lemon",
+      "vegetable broth"
+    ],
+    "steps": [
+      "Cook chopped onion and carrot in olive oil until soft, then add garlic, cumin and paprika.",
+      "Add the lentils and broth and simmer for 20 minutes.",
+      "Blend until smooth.",
+      "Season and serve with a squeeze of lemon."
+    ]
+  },
+  {
+    "name": "Greek Garlic Lemon Shrimp",
+    "cuisine": "Mediterranean",
+    "protein": "Shrimp",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 3,
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "lemon",
+      "oregano",
+      "parsley"
+    ],
+    "steps": [
+      "Toss the shrimp with olive oil, garlic, oregano and salt.",
+      "Sear in a hot pan for 1 to 2 minutes per side.",
+      "Finish with lemon juice and parsley."
+    ]
+  },
+  {
+    "name": "Chicken Shawarma",
+    "cuisine": "Mediterranean",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "chicken thighs",
+      "yogurt",
+      "garlic",
+      "lemon",
+      "cumin",
+      "paprika",
+      "turmeric",
+      "cinnamon"
+    ],
+    "steps": [
+      "Mix yogurt, garlic, lemon juice and spices.",
+      "Marinate the chicken for at least 1 hour.",
+      "Roast at 220°C (425°F) for 25 to 30 minutes until charred at the edges.",
+      "Slice thinly and serve with salad, rice or flatbread."
+    ]
+  },
+  {
+    "name": "Buttermilk Pancakes",
+    "cuisine": "American",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "flour",
+      "buttermilk",
+      "eggs",
+      "butter",
+      "baking powder",
+      "baking soda"
+    ],
+    "steps": [
+      "Whisk the flour, baking powder, baking soda, sugar and salt.",
+      "Whisk the buttermilk, eggs and melted butter, then stir into the dry ingredients until just combined.",
+      "Cook ladlefuls on a buttered pan until bubbles form, then flip and cook until golden."
+    ]
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 10,
+    "servings": 1,
+    "ingredients": [
+      "bread",
+      "cheddar",
+      "butter"
+    ],
+    "steps": [
+      "Butter one side of each slice of bread.",
+      "Place cheese between the slices, buttered sides out.",
+      "Cook on medium heat for 3 to 4 minutes per side until golden and melted."
+    ]
+  },
+  {
+    "name": "Chicken Pot Pie",
+    "cuisine": "American",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 60,
+    "servings": 6,
+    "ingredients": [
+      "chicken",
+      "pie crust",
+      "carrot",
+      "peas",
+      "onion",
+      "celery",
+      "butter",
+      "flour",
+      "chicken broth",
+      "milk"
+    ],
+    "steps": [
+      "Cook onion, carrot and celery in butter until soft.",
+      "Stir in the flour, then gradually add the broth and milk and simmer until thick.",
+      "Add cooked chicken and peas, then season.",
+      "Pour into a dish, cover with the crust and cut a few slits.",
+      "Bake at 200°C (400°F) for 30 minutes until golden."
+    ]
+  },
+  {
+    "name": "Cobb Salad",
+    "cuisine": "American",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "chicken",
+      "bacon",
+      "eggs",
+      "avocado",
+      "tomato",
+      "blue cheese",
+      "lettuce"
+    ],
+    "steps": [
+      "Cook the chicken and bacon, then chop.",
+      "Hard-boil the eggs and chop.",
+      "Arrange rows of chicken, bacon, egg, avocado, tomato and blue cheese over the lettuce.",
+      "Dress with a simple vinaigrette."
+    ]
+  },
+  {
+    "name": "Classic Meatloaf",
+    "cuisine": "American",
+    "protein": "Beef",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 75,
+    "servings": 6,
+    "ingredients": [
+      "ground beef",
+      "breadcrumbs",
+      "eggs",
+      "onion",
+      "ketchup",
+      "worcestershire sauce",
+      "milk"
+    ],
+    "steps": [
+      "Mix the beef, breadcrumbs, eggs, chopped onion, milk, Worcestershire and salt.",
+      "Shape into a loaf on a lined tray.",
+      "Spread ketchup over the top.",
+      "Bake at 180°C (350°F) for 55 to 60 minutes, then rest for 10 minutes."
+    ]
+  },
+  {
+    "name": "Buffalo Chicken Wings",
+    "cuisine": "American",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 50,
+    "servings": 4,
+    "ingredients": [
+      "chicken wings",
+      "hot sauce",
+      "butter",
+      "garlic"
+    ],
+    "steps": [
+      "Pat the wings dry and season with salt.",
+      "Bake on a rack at 220°C (425°F) for 40 to 45 minutes, turning once, until crisp.",
+      "Melt the butter with hot sauce and garlic.",
+      "Toss the wings in the sauce."
+    ]
+  },
+  {
+    "name": "Shrimp and Grits",
+    "cuisine": "American",
+    "protein": "Shrimp",
+    "diets": [
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "shrimp",
+      "grits",
+      "cheddar",
+      "butter",
+      "bacon",
+      "garlic",
+      "green onion",
+      "lemon"
+    ],
+    "steps": [
+      "Cook the grits according to the package, then stir in butter and cheddar.",
+      "Crisp chopped bacon, then cook the shrimp and garlic in the fat until pink.",
+      "Add lemon juice and green onion.",
+      "Spoon the shrimp over the grits."
+    ]
+  },
+  {
+    "name": "Three-Bean Chili",
+    "cuisine": "American",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 50,
+    "servings": 6,
+    "ingredients": [
+      "kidney beans",
+      "black beans",
+      "pinto beans",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "tomato",
+      "chili powder",
+      "cumin"
+    ],
+    "steps": [
+      "Cook chopped onion and bell pepper until soft, then add garlic, chili powder and cumin.",
+      "Add chopped tomato and all the beans.",
+      "Simmer for 30 minutes, stirring now and then, until thick.",
+      "Season to taste."
+    ]
+  },
+  {
+    "name": "Blackened Catfish",
+    "cuisine": "American",
+    "protein": "Fish",
+    "diets": [
+      "Gluten-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "catfish",
+      "cajun seasoning",
+      "butter",
+      "lemon"
+    ],
+    "steps": [
+      "Coat the fish generously in Cajun seasoning.",
+      "Heat a cast-iron pan until very hot and add butter.",
+      "Cook the fish for 2 to 3 minutes per side until blackened and flaky.",
+      "Serve with lemon wedges."
+    ]
+  },
+  {
+    "name": "Bibimbap",
+    "cuisine": "Korean",
+    "protein": "Beef",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "rice",
+      "beef",
+      "spinach",
+      "carrot",
+      "bean sprouts",
+      "mushrooms",
+      "eggs",
+      "gochujang",
+      "soy sauce",
+      "sesame oil",
+      "garlic"
+    ],
+    "steps": [
+      "Marinate thinly sliced beef in soy sauce, garlic and sesame oil, then stir-fry.",
+      "Separately cook the spinach, carrot, bean sprouts and mushrooms, seasoning each with sesame oil and salt.",
+      "Fry the eggs sunny side up.",
+      "Arrange everything over bowls of rice and serve with gochujang to mix in."
+    ]
+  },
+  {
+    "name": "Beef Bulgogi",
+    "cuisine": "Korean",
+    "protein": "Beef",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "beef",
+      "soy sauce",
+      "asian pear",
+      "garlic",
+      "green onion",
+      "sesame oil",
+      "sesame seeds"
+    ],
+    "steps": [
+      "Blend the pear, garlic, soy sauce, sugar and sesame oil.",
+      "Marinate thinly sliced beef for at least 30 minutes.",
+      "Cook in a very hot pan in batches until caramelized.",
+      "Top with green onion and sesame seeds."
+    ]
+  },
+  {
+    "name": "Kimchi Fried Rice",
+    "cuisine": "Korean",
+    "protein": "Eggs",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "rice",
+      "kimchi",
+      "eggs",
+      "gochujang",
+      "green onion",
+      "sesame oil",
+      "onion"
+    ],
+    "steps": [
+      "Stir-fry chopped onion and kimchi for 3 minutes.",
+      "Add cold cooked rice, gochujang and a splash of kimchi juice and fry until hot.",
+      "Finish with sesame oil.",
+      "Top with fried eggs and green onion."
+    ]
+  },
+  {
+    "name": "Korean Fried Chicken",
+    "cuisine": "Korean",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 50,
+    "servings": 4,
+    "ingredients": [
+      "chicken wings",
+      "cornstarch",
+      "flour",
+      "gochujang",
+      "soy sauce",
+      "honey",
+      "garlic",
+      "ginger"
+    ],
+    "steps": [
+      "Coat the chicken in a mix of cornstarch, flour and salt.",
+      "Fry at 170°C (340°F) for 10 minutes, rest, then fry again at 190°C (375°F) until very crisp.",
+      "Simmer gochujang, soy sauce, honey, garlic and ginger until glossy.",
+      "Toss the chicken in the sauce."
+    ]
+  },
+  {
+    "name": "Japchae",
+    "cuisine": "Korean",
+    "protein": "Beef",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "sweet potato noodles",
+      "beef",
+      "spinach",
+      "carrot",
+      "onion",
+      "mushrooms",
+      "soy sauce",
+      "sesame oil",
+      "garlic"
+    ],
+    "steps": [
+      "Cook the noodles, drain and toss with sesame oil and soy sauce.",
+      "Stir-fry the beef with garlic and soy sauce.",
+      "Stir-fry each vegetable briefly, and blanch the spinach.",
+      "Toss everything together with more soy sauce, sugar and sesame oil."
+    ]
+  },
+  {
+    "name": "Sundubu Jjigae (Soft Tofu Stew)",
+    "cuisine": "Korean",
+    "protein": "Tofu",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 2,
+    "ingredients": [
+      "soft tofu",
+      "kimchi",
+      "gochugaru",
+      "onion",
+      "garlic",
+      "zucchini",
+      "eggs"
+    ],
+    "steps": [
+      "Fry gochugaru and garlic in oil to make a chili oil.",
+      "Add onion, zucchini and kimchi and stir-fry briefly.",
+      "Add 2 cups of water and simmer for 5 minutes.",
+      "Add big spoonfuls of soft tofu and simmer for 3 minutes.",
+      "Crack in an egg just before serving."
+    ]
+  },
+  {
+    "name": "Kimchi Jjigae",
+    "cuisine": "Korean",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "pork belly",
+      "kimchi",
+      "tofu",
+      "onion",
+      "gochugaru",
+      "garlic",
+      "green onion"
+    ],
+    "steps": [
+      "Fry the sliced pork belly until the fat renders.",
+      "Add kimchi, onion, garlic and gochugaru and cook for 5 minutes.",
+      "Add water and kimchi juice and simmer for 15 minutes.",
+      "Add sliced tofu and green onion and simmer for 5 minutes more."
+    ]
+  },
+  {
+    "name": "Dakgalbi (Spicy Chicken Stir-Fry)",
+    "cuisine": "Korean",
+    "protein": "Chicken",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "chicken thighs",
+      "cabbage",
+      "sweet potato",
+      "onion",
+      "gochujang",
+      "gochugaru",
+      "soy sauce",
+      "garlic",
+      "green onion"
+    ],
+    "steps": [
+      "Mix gochujang, gochugaru, soy sauce, garlic and sugar.",
+      "Marinate the chicken in half the sauce.",
+      "Stir-fry the chicken with sweet potato, onion and cabbage.",
+      "Add the remaining sauce and cook until the chicken is done and the sweet potato is soft."
+    ]
+  },
+  {
+    "name": "Gyeran Mari (Korean Rolled Omelette)",
+    "cuisine": "Korean",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb"
+    ],
+    "time_minutes": 15,
+    "servings": 2,
+    "ingredients": [
+      "eggs",
+      "carrot",
+      "green onion"
+    ],
+    "steps": [
+      "Beat the eggs with finely chopped carrot, green onion and salt.",
+      "Pour a thin layer into an oiled pan.",
+      "Roll up when nearly set, push aside, and add another layer.",
+      "Repeat, then rest briefly and slice."
+    ]
+  },
+  {
+    "name": "Haemul Pajeon (Seafood Scallion Pancake)",
+    "cuisine": "Korean",
+    "protein": "Shrimp",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "flour",
+      "green onion",
+      "shrimp",
+      "eggs",
+      "soy sauce",
+      "rice vinegar"
+    ],
+    "steps": [
+      "Mix flour, cold water and salt into a thin batter.",
+      "Lay green onion in an oiled pan, scatter with chopped shrimp, and pour over the batter.",
+      "Drizzle beaten egg on top and cook until crisp underneath, then flip.",
+      "Serve with soy sauce mixed with rice vinegar."
+    ]
+  },
+  {
+    "name": "Tteokbokki (Spicy Rice Cakes)",
+    "cuisine": "Korean",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "rice cakes",
+      "gochujang",
+      "gochugaru",
+      "green onion",
+      "cabbage"
+    ],
+    "steps": [
+      "Soak hard rice cakes in warm water for 10 minutes.",
+      "Bring 2 cups of water to a boil with gochujang, gochugaru and sugar.",
+      "Add the rice cakes and cabbage and simmer for 10 to 12 minutes until the sauce thickens.",
+      "Top with green onion."
+    ]
+  },
+  {
+    "name": "Jeyuk Bokkeum (Spicy Pork Stir-Fry)",
+    "cuisine": "Korean",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "pork shoulder",
+      "gochujang",
+      "gochugaru",
+      "soy sauce",
+      "garlic",
+      "ginger",
+      "onion",
+      "green onion"
+    ],
+    "steps": [
+      "Mix gochujang, gochugaru, soy sauce, garlic, ginger and sugar.",
+      "Coat thinly sliced pork in the sauce.",
+      "Stir-fry with sliced onion over high heat until the pork is cooked and caramelized.",
+      "Add green onion and serve with rice."
+    ]
+  },
+  {
+    "name": "Pho Bo (Beef Noodle Soup)",
+    "cuisine": "Vietnamese",
+    "protein": "Beef",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 180,
+    "servings": 6,
+    "ingredients": [
+      "beef bones",
+      "beef sirloin",
+      "rice noodles",
+      "onion",
+      "ginger",
+      "star anise",
+      "cinnamon",
+      "fish sauce",
+      "bean sprouts",
+      "thai basil",
+      "lime"
+    ],
+    "steps": [
+      "Char the onion and ginger, and toast the star anise and cinnamon.",
+      "Simmer the beef bones with the aromatics in plenty of water for at least 2.5 hours, then strain.",
+      "Season the broth with fish sauce and a little sugar.",
+      "Place cooked noodles and paper-thin raw sirloin in bowls and ladle the boiling broth over.",
+      "Serve with bean sprouts, basil and lime."
+    ]
+  },
+  {
+    "name": "Pho Ga (Chicken Noodle Soup)",
+    "cuisine": "Vietnamese",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 90,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "rice noodles",
+      "onion",
+      "ginger",
+      "star anise",
+      "coriander seeds",
+      "fish sauce",
+      "bean sprouts",
+      "lime",
+      "cilantro"
+    ],
+    "steps": [
+      "Char the onion and ginger, and toast the star anise and coriander seeds.",
+      "Simmer the chicken with the aromatics in water for 45 minutes.",
+      "Remove and shred the chicken, then strain the broth and season with fish sauce.",
+      "Serve over noodles with the chicken, bean sprouts, cilantro and lime."
+    ]
+  },
+  {
+    "name": "Banh Mi with Lemongrass Pork",
+    "cuisine": "Vietnamese",
+    "protein": "Pork",
+    "diets": [
+      "Dairy-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "pork",
+      "baguette",
+      "carrot",
+      "daikon",
+      "cucumber",
+      "cilantro",
+      "jalapeno",
+      "rice vinegar",
+      "mayonnaise",
+      "fish sauce",
+      "garlic"
+    ],
+    "steps": [
+      "Pickle shredded carrot and daikon in rice vinegar, sugar and salt for 20 minutes.",
+      "Marinate thin slices of pork in fish sauce, garlic and sugar, then cook until caramelized.",
+      "Split and toast the baguette and spread with mayonnaise.",
+      "Fill with pork, pickles, cucumber, jalapeño and cilantro."
+    ]
+  },
+  {
+    "name": "Fresh Spring Rolls with Shrimp (Goi Cuon)",
+    "cuisine": "Vietnamese",
+    "protein": "Shrimp",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "rice paper",
+      "shrimp",
+      "rice vermicelli",
+      "lettuce",
+      "mint",
+      "cucumber",
+      "fish sauce",
+      "lime"
+    ],
+    "steps": [
+      "Cook the shrimp and halve them lengthways, and cook the vermicelli.",
+      "Dip a rice paper sheet in warm water until soft.",
+      "Layer lettuce, noodles, cucumber, mint and shrimp, then roll up tightly.",
+      "Mix fish sauce, lime juice, sugar and water for dipping."
+    ]
+  },
+  {
+    "name": "Bun Cha (Grilled Pork with Noodles)",
+    "cuisine": "Vietnamese",
+    "protein": "Pork",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "ground pork",
+      "rice vermicelli",
+      "fish sauce",
+      "lime",
+      "garlic",
+      "shallots",
+      "lettuce",
+      "mint",
+      "cucumber"
+    ],
+    "steps": [
+      "Mix the pork with shallots, garlic, fish sauce and sugar and shape into small patties.",
+      "Grill until charred and cooked through.",
+      "Make a dipping broth from fish sauce, lime juice, sugar, garlic and warm water.",
+      "Serve the patties in the broth with noodles, lettuce, mint and cucumber."
+    ]
+  },
+  {
+    "name": "Lemongrass Chicken",
+    "cuisine": "Vietnamese",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "chicken thighs",
+      "lemongrass",
+      "garlic",
+      "shallots",
+      "fish sauce",
+      "rice"
+    ],
+    "steps": [
+      "Finely mince the lemongrass, garlic and shallots.",
+      "Marinate the chicken with them, fish sauce and sugar for 30 minutes.",
+      "Cook in a hot pan or grill until caramelized and cooked through.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "name": "Ca Kho To (Caramelized Clay Pot Fish)",
+    "cuisine": "Vietnamese",
+    "protein": "Fish",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "catfish",
+      "fish sauce",
+      "shallots",
+      "garlic",
+      "coconut water",
+      "green onion"
+    ],
+    "steps": [
+      "Cook sugar in a pot until it turns a deep amber caramel.",
+      "Add shallots and garlic, then the fish sauce and coconut water.",
+      "Add the fish steaks and simmer for 25 minutes, turning once, until the sauce is thick.",
+      "Top with green onion and plenty of black pepper."
+    ]
+  },
+  {
+    "name": "Bo Luc Lac (Shaking Beef)",
+    "cuisine": "Vietnamese",
+    "protein": "Beef",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 3,
+    "ingredients": [
+      "beef sirloin",
+      "soy sauce",
+      "oyster sauce",
+      "garlic",
+      "red onion",
+      "watercress",
+      "tomato",
+      "lime"
+    ],
+    "steps": [
+      "Marinate cubed beef in soy sauce, oyster sauce, garlic and sugar for 20 minutes.",
+      "Sear in a very hot pan, shaking the pan, for 2 to 3 minutes.",
+      "Add sliced red onion for the last 30 seconds.",
+      "Serve over watercress and tomato with a lime, salt and pepper dip."
+    ]
+  },
+  {
+    "name": "Dau Sot Ca Chua (Tofu in Tomato Sauce)",
+    "cuisine": "Vietnamese",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 3,
+    "ingredients": [
+      "tofu",
+      "tomato",
+      "green onion",
+      "garlic",
+      "soy sauce"
+    ],
+    "steps": [
+      "Fry cubes of tofu until golden on all sides.",
+      "Cook garlic, then add chopped tomato and cook until saucy.",
+      "Season with soy sauce and a little sugar.",
+      "Add the tofu, simmer for 5 minutes, and top with green onion."
+    ]
+  },
+  {
+    "name": "Bun Chay (Tofu Vermicelli Bowl)",
+    "cuisine": "Vietnamese",
+    "protein": "Tofu",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 30,
+    "servings": 3,
+    "ingredients": [
+      "tofu",
+      "rice vermicelli",
+      "lettuce",
+      "cucumber",
+      "carrot",
+      "mint",
+      "peanuts",
+      "soy sauce",
+      "lime",
+      "garlic"
+    ],
+    "steps": [
+      "Fry cubed tofu until crisp.",
+      "Cook the vermicelli and rinse in cold water.",
+      "Mix soy sauce, lime juice, sugar, garlic and water for the dressing.",
+      "Build bowls of noodles, lettuce, cucumber, carrot, mint and tofu, then top with peanuts and dressing."
+    ]
+  },
+  {
+    "name": "Canh Chua (Sour Fish Soup)",
+    "cuisine": "Vietnamese",
+    "protein": "Fish",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "white fish",
+      "tamarind paste",
+      "pineapple",
+      "tomato",
+      "bean sprouts",
+      "okra",
+      "fish sauce",
+      "garlic"
+    ],
+    "steps": [
+      "Fry garlic, then add 5 cups of water and the tamarind paste and bring to a boil.",
+      "Add pineapple, tomato and okra and simmer for 5 minutes.",
+      "Add the fish and simmer gently until cooked.",
+      "Season with fish sauce and sugar, then add the bean sprouts just before serving."
+    ]
+  },
+  {
+    "name": "Com Tam with Grilled Pork Chops",
+    "cuisine": "Vietnamese",
+    "protein": "Pork",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "pork chops",
+      "lemongrass",
+      "garlic",
+      "shallots",
+      "fish sauce",
+      "rice",
+      "cucumber",
+      "tomato"
+    ],
+    "steps": [
+      "Pound thin pork chops and marinate with lemongrass, garlic, shallots, fish sauce and sugar.",
+      "Grill or pan-fry until caramelized and cooked.",
+      "Serve over rice with sliced cucumber and tomato.",
+      "Spoon a little sweetened fish sauce over the top."
+    ]
+  },
+  {
+    "name": "Coq au Vin",
+    "cuisine": "French",
+    "protein": "Chicken",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 120,
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "red wine",
+      "bacon",
+      "mushrooms",
+      "pearl onions",
+      "garlic",
+      "thyme",
+      "butter",
+      "flour",
+      "carrot"
+    ],
+    "steps": [
+      "Crisp the bacon, then brown the chicken pieces in the fat.",
+      "Add the carrot, onions and garlic, then sprinkle in the flour.",
+      "Pour in the red wine, add thyme and simmer covered for 1 hour.",
+      "Brown the mushrooms in butter and add them for the last 15 minutes."
+    ]
+  },
+  {
+    "name": "Beef Bourguignon",
+    "cuisine": "French",
+    "protein": "Beef",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 180,
+    "servings": 6,
+    "ingredients": [
+      "beef chuck",
+      "red wine",
+      "bacon",
+      "mushrooms",
+      "pearl onions",
+      "carrot",
+      "garlic",
+      "thyme",
+      "flour",
+      "beef broth",
+      "tomato paste"
+    ],
+    "steps": [
+      "Brown the bacon, then sear the beef cubes in batches.",
+      "Cook the carrot and garlic, stir in the tomato paste and flour.",
+      "Add the wine, broth, thyme and beef, then cover and cook at 160°C (325°F) for 2.5 hours.",
+      "Brown the mushrooms and onions and stir them in for the last 30 minutes."
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "cuisine": "French",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 60,
+    "servings": 4,
+    "ingredients": [
+      "eggplant",
+      "zucchini",
+      "bell pepper",
+      "tomato",
+      "onion",
+      "garlic",
+      "thyme"
+    ],
+    "steps": [
+      "Cook the onion and bell pepper in olive oil until soft.",
+      "Brown the eggplant and zucchini separately.",
+      "Combine with garlic, chopped tomato and thyme.",
+      "Simmer gently for 30 minutes until rich and tender."
+    ]
+  },
+  {
+    "name": "French Onion Soup",
+    "cuisine": "French",
+    "protein": "No main protein",
+    "diets": [],
+    "time_minutes": 75,
+    "servings": 4,
+    "ingredients": [
+      "onion",
+      "butter",
+      "beef broth",
+      "white wine",
+      "baguette",
+      "gruyere",
+      "thyme"
+    ],
+    "steps": [
+      "Cook thinly sliced onions in butter over low heat for 40 minutes until deep brown.",
+      "Add the wine and let it reduce, then add the broth and thyme and simmer for 20 minutes.",
+      "Ladle into ovenproof bowls and top with toasted baguette slices and grated gruyère.",
+      "Broil until bubbling and golden."
+    ]
+  },
+  {
+    "name": "Quiche Lorraine",
+    "cuisine": "French",
+    "protein": "Pork",
+    "diets": [],
+    "time_minutes": 60,
+    "servings": 6,
+    "ingredients": [
+      "pie crust",
+      "eggs",
+      "bacon",
+      "cream",
+      "gruyere"
+    ],
+    "steps": [
+      "Blind-bake the crust at 190°C (375°F) for 15 minutes.",
+      "Crisp the bacon and scatter it over the crust with grated gruyère.",
+      "Whisk the eggs and cream with salt, pepper and nutmeg and pour over.",
+      "Bake at 170°C (340°F) for 30 to 35 minutes until just set."
+    ]
+  },
+  {
+    "name": "Croque Monsieur",
+    "cuisine": "French",
+    "protein": "Pork",
+    "diets": [],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "bread",
+      "ham",
+      "gruyere",
+      "butter",
+      "flour",
+      "milk",
+      "mustard"
+    ],
+    "steps": [
+      "Make a white sauce: cook butter and flour, then whisk in milk until thick.",
+      "Spread bread with mustard and fill with ham and gruyère.",
+      "Top with the sauce and more gruyère.",
+      "Bake at 200°C (400°F) for 10 minutes, then broil until golden."
+    ]
+  },
+  {
+    "name": "Salade Niçoise",
+    "cuisine": "French",
+    "protein": "Fish",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "tuna",
+      "eggs",
+      "potatoes",
+      "green beans",
+      "tomato",
+      "olives",
+      "lettuce",
+      "anchovies",
+      "mustard",
+      "red wine vinegar"
+    ],
+    "steps": [
+      "Boil the potatoes until tender and blanch the green beans.",
+      "Hard-boil the eggs and quarter them.",
+      "Whisk mustard, red wine vinegar and olive oil for the dressing.",
+      "Arrange everything over the lettuce and drizzle with the dressing."
+    ]
+  },
+  {
+    "name": "Sole Meunière",
+    "cuisine": "French",
+    "protein": "Fish",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 20,
+    "servings": 2,
+    "ingredients": [
+      "sole",
+      "flour",
+      "butter",
+      "lemon",
+      "parsley"
+    ],
+    "steps": [
+      "Season the fish and dust lightly with flour.",
+      "Cook in butter for 2 to 3 minutes per side until golden, then plate.",
+      "Add more butter to the pan and cook until nutty brown.",
+      "Add lemon juice and parsley and pour over the fish."
+    ]
+  },
+  {
+    "name": "Poulet à la Moutarde (Mustard Chicken)",
+    "cuisine": "French",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "chicken thighs",
+      "mustard",
+      "cream",
+      "white wine",
+      "shallots",
+      "garlic",
+      "thyme"
+    ],
+    "steps": [
+      "Brown the chicken skin-side down, then flip and set aside.",
+      "Cook the shallots and garlic, then add the white wine and reduce.",
+      "Stir in the cream, mustard and thyme.",
+      "Return the chicken and simmer for 15 minutes until cooked through."
+    ]
+  },
+  {
+    "name": "French Omelette",
+    "cuisine": "French",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Keto/Low-Carb"
+    ],
+    "time_minutes": 10,
+    "servings": 1,
+    "ingredients": [
+      "eggs",
+      "butter",
+      "chives"
+    ],
+    "steps": [
+      "Beat the eggs with salt until smooth.",
+      "Melt butter in a pan over medium heat and add the eggs.",
+      "Stir quickly while shaking the pan until softly set.",
+      "Roll the omelette onto a plate and top with chives."
+    ]
+  },
+  {
+    "name": "Crêpes",
+    "cuisine": "French",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian"
+    ],
+    "time_minutes": 30,
+    "servings": 4,
+    "ingredients": [
+      "flour",
+      "eggs",
+      "milk",
+      "butter"
+    ],
+    "steps": [
+      "Whisk the flour, eggs, milk, melted butter and a pinch of salt until smooth, then rest for 15 minutes.",
+      "Pour a thin layer into a hot buttered pan and swirl.",
+      "Cook for 1 minute, flip, and cook for 30 seconds more.",
+      "Fill with anything sweet or savory."
+    ]
+  },
+  {
+    "name": "Puy Lentil Salad",
+    "cuisine": "French",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "green lentils",
+      "carrot",
+      "shallots",
+      "mustard",
+      "red wine vinegar",
+      "parsley",
+      "thyme"
+    ],
+    "steps": [
+      "Simmer the lentils with thyme for 20 to 25 minutes until just tender, then drain.",
+      "Whisk mustard, red wine vinegar and olive oil.",
+      "Toss the warm lentils with the dressing, diced carrot and shallots.",
+      "Finish with parsley."
+    ]
+  },
+  {
+    "name": "Seafood Paella",
+    "cuisine": "Spanish",
+    "protein": "Shrimp",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 50,
+    "servings": 4,
+    "ingredients": [
+      "paella rice",
+      "shrimp",
+      "onion",
+      "bell pepper",
+      "garlic",
+      "tomato",
+      "saffron",
+      "paprika",
+      "seafood stock",
+      "peas",
+      "lemon"
+    ],
+    "steps": [
+      "Cook the onion, bell pepper and garlic in olive oil, then add grated tomato and paprika.",
+      "Stir in the rice, then add hot stock with saffron.",
+      "Simmer without stirring for 15 minutes.",
+      "Add the shrimp and peas on top and cook for 5 more minutes.",
+      "Rest for 5 minutes and serve with lemon."
+    ]
+  },
+  {
+    "name": "Spanish Tortilla",
+    "cuisine": "Spanish",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "eggs",
+      "potatoes",
+      "onion"
+    ],
+    "steps": [
+      "Slowly cook thinly sliced potatoes and onion in plenty of olive oil until soft, then drain.",
+      "Mix with beaten eggs and salt.",
+      "Cook in a pan over low heat until mostly set.",
+      "Flip onto a plate, slide back in, and cook the other side for 2 to 3 minutes."
+    ]
+  },
+  {
+    "name": "Gazpacho",
+    "cuisine": "Spanish",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 15,
+    "servings": 4,
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "bell pepper",
+      "garlic",
+      "sherry vinegar"
+    ],
+    "steps": [
+      "Roughly chop the vegetables.",
+      "Blend with garlic, sherry vinegar, olive oil and salt until smooth.",
+      "Chill for at least 1 hour.",
+      "Serve cold with a drizzle of olive oil."
+    ]
+  },
+  {
+    "name": "Gambas al Ajillo (Garlic Shrimp)",
+    "cuisine": "Spanish",
+    "protein": "Shrimp",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 15,
+    "servings": 3,
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "chili flakes",
+      "parsley"
+    ],
+    "steps": [
+      "Gently heat plenty of olive oil with sliced garlic and chili flakes.",
+      "Add the shrimp and cook for 2 to 3 minutes until pink.",
+      "Season with salt and finish with parsley."
+    ]
+  },
+  {
+    "name": "Patatas Bravas",
+    "cuisine": "Spanish",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 45,
+    "servings": 4,
+    "ingredients": [
+      "potatoes",
+      "tomato",
+      "onion",
+      "garlic",
+      "smoked paprika",
+      "chili flakes"
+    ],
+    "steps": [
+      "Cube the potatoes and roast at 220°C (425°F) for 35 minutes until crisp.",
+      "Cook onion and garlic, then add smoked paprika, chili flakes and chopped tomato.",
+      "Simmer for 10 minutes and blend into a smooth sauce.",
+      "Spoon the sauce over the potatoes."
+    ]
+  },
+  {
+    "name": "Pollo al Ajillo (Garlic Chicken)",
+    "cuisine": "Spanish",
+    "protein": "Chicken",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "Keto/Low-Carb",
+      "High-Protein"
+    ],
+    "time_minutes": 40,
+    "servings": 4,
+    "ingredients": [
+      "chicken thighs",
+      "garlic",
+      "white wine",
+      "bay leaves",
+      "parsley",
+      "thyme"
+    ],
+    "steps": [
+      "Brown the chicken pieces in olive oil.",
+      "Add whole garlic cloves, bay leaves and thyme.",
+      "Pour in the white wine, cover and simmer for 20 minutes.",
+      "Uncover, reduce the sauce, and finish with parsley."
+    ]
+  },
+  {
+    "name": "Chorizo and Chickpea Stew",
+    "cuisine": "Spanish",
+    "protein": "Pork",
+    "diets": [
+      "Gluten-Free",
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 35,
+    "servings": 4,
+    "ingredients": [
+      "chorizo",
+      "chickpeas",
+      "onion",
+      "garlic",
+      "tomato",
+      "spinach",
+      "smoked paprika"
+    ],
+    "steps": [
+      "Fry the sliced chorizo until it releases its oil.",
+      "Add onion and garlic and cook until soft.",
+      "Add smoked paprika, chopped tomato and chickpeas and simmer for 15 minutes.",
+      "Stir in the spinach until wilted."
+    ]
+  },
+  {
+    "name": "Albóndigas (Spanish Meatballs)",
+    "cuisine": "Spanish",
+    "protein": "Beef",
+    "diets": [
+      "High-Protein"
+    ],
+    "time_minutes": 50,
+    "servings": 4,
+    "ingredients": [
+      "ground beef",
+      "breadcrumbs",
+      "eggs",
+      "onion",
+      "garlic",
+      "tomato",
+      "smoked paprika",
+      "parsley",
+      "white wine"
+    ],
+    "steps": [
+      "Mix the beef, breadcrumbs, egg, garlic, parsley and salt, then roll into small balls.",
+      "Brown the meatballs and set aside.",
+      "Cook onion, then add white wine, smoked paprika and chopped tomato and simmer for 10 minutes.",
+      "Add the meatballs and simmer for 20 minutes."
+    ]
+  },
+  {
+    "name": "Pisto with Eggs",
+    "cuisine": "Spanish",
+    "protein": "Eggs",
+    "diets": [
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 45,
+    "servings": 3,
+    "ingredients": [
+      "zucchini",
+      "eggplant",
+      "bell pepper",
+      "onion",
+      "tomato",
+      "garlic",
+      "eggs"
+    ],
+    "steps": [
+      "Slowly cook the onion and bell pepper in olive oil until soft.",
+      "Add the eggplant and zucchini and cook until tender.",
+      "Add garlic and chopped tomato and simmer for 15 minutes.",
+      "Make wells, crack in the eggs, and cook covered until set."
+    ]
+  },
+  {
+    "name": "Espinacas con Garbanzos",
+    "cuisine": "Spanish",
+    "protein": "Beans & Lentils",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "chickpeas",
+      "spinach",
+      "garlic",
+      "cumin",
+      "smoked paprika",
+      "sherry vinegar"
+    ],
+    "steps": [
+      "Fry the garlic in olive oil, then add cumin and smoked paprika.",
+      "Add the spinach and cook until wilted.",
+      "Add the chickpeas and a splash of water and simmer for 10 minutes.",
+      "Season with sherry vinegar and salt."
+    ]
+  },
+  {
+    "name": "Pan con Tomate",
+    "cuisine": "Spanish",
+    "protein": "No main protein",
+    "diets": [
+      "Vegetarian",
+      "Vegan",
+      "Dairy-Free"
+    ],
+    "time_minutes": 10,
+    "servings": 4,
+    "ingredients": [
+      "bread",
+      "tomato",
+      "garlic"
+    ],
+    "steps": [
+      "Toast thick slices of bread.",
+      "Rub them with a cut garlic clove.",
+      "Grate ripe tomato and spread it over the bread.",
+      "Drizzle with olive oil and sprinkle with salt."
+    ]
+  },
+  {
+    "name": "Merluza en Salsa Verde (Hake in Green Sauce)",
+    "cuisine": "Spanish",
+    "protein": "Fish",
+    "diets": [
+      "Dairy-Free",
+      "High-Protein"
+    ],
+    "time_minutes": 25,
+    "servings": 4,
+    "ingredients": [
+      "white fish",
+      "garlic",
+      "parsley",
+      "white wine",
+      "flour",
+      "fish stock"
+    ],
+    "steps": [
+      "Gently cook the garlic in olive oil, then stir in the flour.",
+      "Add the white wine and stock gradually, stirring, to make a light sauce.",
+      "Add the fish and simmer for 6 to 8 minutes, shaking the pan.",
+      "Finish with plenty of chopped parsley."
+    ]
+  }
+]
