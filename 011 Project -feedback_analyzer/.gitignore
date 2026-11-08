@@ -1,0 +1,16 @@
+# Secrets: never upload these
+.env
+.streamlit/secrets.toml
+
+# Your saved reviews (local data)
+feedback.db
+
+# Python and uv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
