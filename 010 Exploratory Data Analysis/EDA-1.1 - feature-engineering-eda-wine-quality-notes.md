@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # EDA Code Walkthrough: Red Wine Quality, Step by Step
+=======
+# Exploratory Data Analysis (EDA): Red Wine Quality: Notes
+>>>>>>> b9614953454b5457cb6529089c41ffb10ba36a37
 
 *Nov 7, 2026 · Saurabh S*
 
