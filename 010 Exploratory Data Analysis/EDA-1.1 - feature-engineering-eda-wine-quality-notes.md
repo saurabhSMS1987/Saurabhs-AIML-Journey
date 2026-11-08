@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA): Red Wine Quality: My Notes
+# Exploratory Data Analysis (EDA): Red Wine Quality: Notes
 
 *Nov 7, 2026 · Saurabh S*
 
