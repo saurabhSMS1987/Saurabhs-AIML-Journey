@@ -1,4 +1,4 @@
-# EDA and Feature Engineering: Flight Price Data: My Notes
+# EDA and Feature Engineering: Flight Price Data: Notes
 
 *Nov 8, 2026 · Saurabh S*
 
