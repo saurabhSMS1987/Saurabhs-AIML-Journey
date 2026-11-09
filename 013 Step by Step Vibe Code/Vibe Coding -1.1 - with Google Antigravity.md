@@ -1209,12 +1209,3 @@ flowchart TD
 - Streamlit docs: <https://docs.streamlit.io/>
 - Python `sqlite3` docs: <https://docs.python.org/3/library/sqlite3.html>
 
----
-
-<div align="center">
-
-**Made with 🎧 vibes · Last updated Sunday, November 8, 2026**
-
-*If this guide helped you, ⭐ star the repo and share your own vibe-coded apps!*
-
-</div>
