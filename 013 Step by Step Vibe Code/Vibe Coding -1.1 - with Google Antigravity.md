@@ -70,28 +70,6 @@ flowchart LR
 | **Speed to a prototype** | Hours to days | Minutes to an hour |
 | **Risk** | Bugs you wrote | Bugs you *didn't read*, so reviewing matters more |
 
-### Where your time goes (illustrative)
-
-These pie charts are **illustrative estimates** of how effort typically shifts for a small prototype, not measured data.
-
-```mermaid
-pie showData title Traditional: building a small app (% of effort)
-    "Writing code" : 45
-    "Debugging" : 25
-    "Reading docs / searching" : 15
-    "Testing" : 10
-    "Planning" : 5
-```
-
-```mermaid
-pie showData title Vibe coding: building the same app (% of effort)
-    "Describing & planning" : 30
-    "Reviewing plans & diffs" : 30
-    "Testing & feedback" : 25
-    "Fixing edge cases" : 10
-    "Writing code by hand" : 5
-```
-
 > [!IMPORTANT]
 > Vibe coding does **not** remove the need to understand code. It moves your effort to the most valuable parts: deciding *what* to build and checking that it is *right*.
 
